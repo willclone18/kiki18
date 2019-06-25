@@ -1,0 +1,10 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+www.careerki.com	TRUE	/	FALSE	1999999999	NCS_INENTIM	1561473417
+www.careerki.com	TRUE	/	FALSE	1999999999	6e538c0e7e0119451046984c6b242ccb	dcfae422dab03274c9e5e92426ea0f7b
+www.careerki.com	TRUE	/	FALSE	1999999999	c95936a28e5cca9b7446e05a093cf101	edeea0fc73d1630eb20970272503a95f
+www.careerki.com	TRUE	/	FALSE	1999999999	ckon1906	sject1906_7388d357321d5
+www.careerki.com	TRUE	/	FALSE	1999999999	PHPSESSID	tb8uqcio8h2q2ag5h41aqta2ds
+www.careerki.com	TRUE	/	FALSE	1999999999	dwqa_anonymous	tYPuyPJYdq1xs7EP4rAgHoJDCmCu9EMNso9G5AdsbKK
+www.careerki.com	TRUE	/	FALSE	1999999999	wp_dlm_downloading	eyJkb3dubG9hZCI6MjUxOTAsInZlcnNpb24iOjF9
+

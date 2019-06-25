@@ -1,0 +1,892 @@
+HTTrack3.49-2+htsswf+htsjava launched on Tue, 25 Jun 2019 21:01:14 at https://www.careerki.com/ +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qiC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" https://www.careerki.com/ -O1 "C:\Users\Khalidur\Desktop\career ki" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+21:01:16	Warning: 	Note: due to https://www.careerki.com remote robots.txt rules, links beginning with these path will be forbidden: /wp-admin/ (see in the options to disable this)
+21:01:23	Error: 	"Bad Request" (400) at link https://www.googletagmanager.com/gtm.js?id= (from https://www.careerki.com/)
+21:01:38	Warning: 	HTML file (18955 bytes) retransferred due to lack of cache: https://www.careerki.com/category/ক্যারিয়ার-প্রোফাইল/
+21:01:38	Warning: 	HTML file (18377 bytes) retransferred due to lack of cache: https://www.careerki.com/category/ক্যারিয়ার-গাইড/
+21:01:38	Warning: 	HTML file (10722 bytes) retransferred due to lack of cache: https://www.careerki.com/category/ক্যারিয়ার-ইনফোগ্রাফিক/
+21:01:39	Warning: 	HTML file (11737 bytes) retransferred due to lack of cache: https://www.careerki.com/category/ক্যারিয়ারকী-পাঁচমিশালি/
+21:01:41	Warning: 	HTML file (13732 bytes) retransferred due to lack of cache: https://www.careerki.com/গানম্যান/
+21:01:43	Warning: 	HTML file (16010 bytes) retransferred due to lack of cache: https://www.careerki.com/সাউন্ড-ইঞ্জিনিয়ার/
+21:01:43	Warning: 	HTML file (13762 bytes) retransferred due to lack of cache: https://www.careerki.com/পিয়ন/
+21:01:44	Warning: 	HTML file (15420 bytes) retransferred due to lack of cache: https://www.careerki.com/বিসিএস-পরিবার-পরিকল্পনা/
+21:01:45	Warning: 	HTML file (10970 bytes) retransferred due to lack of cache: https://www.careerki.com/category/ক্যারিয়ার-নির্বাচন/
+21:01:45	Warning: 	HTML file (11408 bytes) retransferred due to lack of cache: https://www.careerki.com/category/চাকরির-খোঁজ-ও-প্রস্তুতি/
+21:01:46	Warning: 	HTML file (11826 bytes) retransferred due to lack of cache: https://www.careerki.com/category/%e0%a6%b8%e0%a7%8d%e0%a6%95%e0%a6%bf%e0%a6%b2-%e0%a6%a1%e0%a7%87%e0%a6%ad%e0%a7%87%e0%a6%b2%e0%a6%aa%e0%a6%ae%e0%a7%87%e0%a6%a8%e0%a7%8d%e0%a6%9f/
+21:01:46	Warning: 	HTML file (10241 bytes) retransferred due to lack of cache: https://www.careerki.com/category/উদ্যোগ-ও-উদ্যোক্তা/
+21:01:46	Warning: 	HTML file (15013 bytes) retransferred due to lack of cache: https://www.careerki.com/সাংবাদিকতার-প্রকারভেদ-ইনফোগ্রাফিক/
+21:01:47	Warning: 	HTML file (14150 bytes) retransferred due to lack of cache: https://www.careerki.com/বাংলাদেশ-সিভিল-সার্ভিস-ক্যাডার-২-ইনফোগ্রাফিক/
+21:01:48	Warning: 	HTML file (14646 bytes) retransferred due to lack of cache: https://www.careerki.com/বিজ্ঞাপনী-সংস্থায়-কাজের-ক্ষেত্র-ইনফোগ্রাফিক/
+21:01:49	Warning: 	HTML file (13878 bytes) retransferred due to lack of cache: https://www.careerki.com/কারিগরি-শিক্ষার-বিভিন্ন-বিষয়-ইনফোগ্রাফিক/
+21:02:05	Warning: 	HTML file (14311 bytes) retransferred due to lack of cache: https://www.careerki.com/নকশিকাঁথা-কারিগর/
+21:02:05	Warning: 	HTML file (14753 bytes) retransferred due to lack of cache: https://www.careerki.com/ট্যুর-গাইড/
+21:02:05	Warning: 	HTML file (15695 bytes) retransferred due to lack of cache: https://www.careerki.com/প্রোডাক্ট-ম্যানেজার-ও-প্রজেক্ট-ম্যানেজারের-মধ্যে-পার্থক্য/
+21:02:06	Warning: 	HTML file (14998 bytes) retransferred due to lack of cache: https://www.careerki.com/পদার্থবিজ্ঞানে-ক্যারিয়ার/
+21:02:06	Warning: 	HTML file (15393 bytes) retransferred due to lack of cache: https://www.careerki.com/অডিট-কিংবা-অডিটিং-নিয়ে-কাজ/
+21:02:07	Warning: 	HTML file (15777 bytes) retransferred due to lack of cache: https://www.careerki.com/আইটি-সেক্টরে-ক্যারিয়ার/
+21:02:08	Warning: 	HTML file (15245 bytes) retransferred due to lack of cache: https://www.careerki.com/কনস্ট্রাকশন-ইলেকট্রিশিয়ান/
+21:02:08	Warning: 	HTML file (14426 bytes) retransferred due to lack of cache: https://www.careerki.com/টিকেট-ম্যানেজার/
+21:02:09	Warning: 	HTML file (15803 bytes) retransferred due to lack of cache: https://www.careerki.com/ফুলের-ব্যবসা-কীভাবে-করবেন/
+21:02:09	Warning: 	HTML file (15011 bytes) retransferred due to lack of cache: https://www.careerki.com/ভিডিও-এডিটিং-কোর্স-কোথায়-করবেন/
+21:02:10	Warning: 	HTML file (15502 bytes) retransferred due to lack of cache: https://www.careerki.com/ডিজিটাল-মার্কেটিং-কত-প্রকার/
+21:02:11	Warning: 	HTML file (15684 bytes) retransferred due to lack of cache: https://www.careerki.com/ওয়ার্ড-প্রসেসিংয়ের-নিয়মাবলি/
+21:02:11	Warning: 	HTML file (12036 bytes) retransferred due to lack of cache: https://www.careerki.com/ক্যারিয়ারে-মেন্টরের-প্রয়োজনীয়তা/
+21:02:12	Warning: 	HTML file (15138 bytes) retransferred due to lack of cache: https://www.careerki.com/লেখালেখিতে-ফ্রিল্যান্সিং/
+21:02:13	Warning: 	HTML file (15277 bytes) retransferred due to lack of cache: https://www.careerki.com/পার্ট-টাইম-চাকরির-সুযোগ-কোথায়-থাকে/
+21:02:14	Warning: 	HTML file (14669 bytes) retransferred due to lack of cache: https://www.careerki.com/হার্ড-স্কিল-ও-সফট-স্কিল/
+21:02:14	Warning: 	HTML file (16513 bytes) retransferred due to lack of cache: https://www.careerki.com/জিআরই-ও-জিম্যাটের-প্রস্তুতি/
+21:02:14	Warning: 	HTML file (16160 bytes) retransferred due to lack of cache: https://www.careerki.com/মার্কিন-যুক্তরাষ্ট্রে-পোস্টগ্র্যাজুয়েশন/
+21:02:15	Warning: 	HTML file (15016 bytes) retransferred due to lack of cache: https://www.careerki.com/কীভাবে-কভার-লেটার-লিখবেন/
+21:02:15	Warning: 	HTML file (14565 bytes) retransferred due to lack of cache: https://www.careerki.com/বিসিএস-প্রিলিমিনারি-প্রস্তুতি-গাণিতিক-যুক্তি-ও-মানসিক-দক্ষতা/
+21:02:16	Warning: 	HTML file (14988 bytes) retransferred due to lack of cache: https://www.careerki.com/বিসিএস-প্রিলিমিনারি-প্রস্তুতি-বাংলাদেশ-ও-আন্তর্জাতিক-বিষয়াবলি/
+21:02:16	Warning: 	HTML file (14340 bytes) retransferred due to lack of cache: https://www.careerki.com/বিসিএস-প্রিলিমিনারি-প্রস্তুতি-ইংরেজি/
+21:02:16	Warning: 	file not stored in cache due to bogus state (incomplete type with OK (200), size 2443): https://www.careerki.com/wp-content/uploads/2019/05/part-time-job-opportunities-careerki-75x75.png
+21:02:17	Warning: 	HTML file (14585 bytes) retransferred due to lack of cache: https://www.careerki.com/বিসিএস-প্রিলিমিনারি-প্রস্তুতি-বাংলা/
+21:02:18	Warning: 	HTML file (15299 bytes) retransferred due to lack of cache: https://www.careerki.com/সিভি-রিভিউ-কীভাবে-করবেন/
+21:02:19	Warning: 	HTML file (17725 bytes) retransferred due to lack of cache: https://www.careerki.com/ডিজাইনে-ফ্রিল্যান্সিং-৩-ক্ষেত্র/
+21:02:20	Warning: 	HTML file (16486 bytes) retransferred due to lack of cache: https://www.careerki.com/শিক্ষা-খাতে-উন্নয়ন-সংস্থা-বাংলাদেশ/
+21:02:20	Warning: 	HTML file (15119 bytes) retransferred due to lack of cache: https://www.careerki.com/চতুর্থ-শিল্প-বিপ্লব-ইনফোগ্রাফিক/
+21:02:22	Warning: 	HTML file (13857 bytes) retransferred due to lack of cache: https://www.careerki.com/বাংলাদেশের-জাহাজ-শিল্প-ইনফোগ্রাফিক/
+21:02:25	Warning: 	HTML file (14411 bytes) retransferred due to lack of cache: https://www.careerki.com/বাংলাদেশ-সেনাবাহিনীর-কোর-ইনফোগ্রাফিক/
+21:02:26	Warning: 	HTML file (13863 bytes) retransferred due to lack of cache: https://www.careerki.com/বাংলাদেশের-বেকারত্ব-সমস্যা-ইনফোগ্রাফিক/
+21:02:28	Warning: 	HTML file (14101 bytes) retransferred due to lack of cache: https://www.careerki.com/বাংলাদেশ-সিভিল-সার্ভিস-ক্যাডার-১-ইনফোগ্রাফিক/
+21:02:28	Warning: 	HTML file (13640 bytes) retransferred due to lack of cache: https://www.careerki.com/এক-নজরে-বিকেএসপি-ইনফোগ্রাফিক/
+21:02:29	Warning: 	HTML file (13774 bytes) retransferred due to lack of cache: https://www.careerki.com/এমএস-এক্সেলের-উপকারী-শর্টকাট-কী-ইনফোগ্রাফিক/
+21:02:29	Warning: 	HTML file (13889 bytes) retransferred due to lack of cache: https://www.careerki.com/বাংলাদেশের-কর্মক্ষেত্র-ইনফোগ্রাফিক/
+21:02:30	Warning: 	HTML file (13802 bytes) retransferred due to lack of cache: https://www.careerki.com/কৃষি-খাতের-বিষয়-ইনফোগ্রাফিক/
+21:02:30	Warning: 	HTML file (15109 bytes) retransferred due to lack of cache: https://www.careerki.com/ব্যবসায়-প্রশাসনের-বিষয়-ইনফোগ্রাফিক/
+21:02:31	Warning: 	HTML file (14462 bytes) retransferred due to lack of cache: https://www.careerki.com/অ্যাকাউন্টিংয়ের-প্রকারভেদ-ইনফোগ্রাফিক/
+21:02:32	Warning: 	HTML file (15019 bytes) retransferred due to lack of cache: https://www.careerki.com/ক্যারিয়ার-প্রস্তুতি-কখন-শুরু-করা-উচিত/
+21:02:32	Warning: 	HTML file (14809 bytes) retransferred due to lack of cache: https://www.careerki.com/ব্যবসার-ক্ষেত্রে-ডাটা-কী-ও-কেন/
+21:02:33	Warning: 	HTML file (16491 bytes) retransferred due to lack of cache: https://www.careerki.com/ইন্ডাস্ট্রিয়াল-অ্যান্ড-প্রোডাকশন-ইঞ্জিনিয়ার/
+21:02:34	Warning: 	HTML file (15170 bytes) retransferred due to lack of cache: https://www.careerki.com/প্যাথলজিস্ট/
+21:02:34	Warning: 	HTML file (15270 bytes) retransferred due to lack of cache: https://www.careerki.com/ইলেকট্রিশিয়ান/
+21:02:35	Warning: 	HTML file (15759 bytes) retransferred due to lack of cache: https://www.careerki.com/ল্যাবরেটরি-ম্যানেজার-গার্মেন্টস-শিল্প/
+21:02:35	Warning: 	HTML file (15799 bytes) retransferred due to lack of cache: https://www.careerki.com/ইন্টেলেকচুয়াল-প্রপার্টি-ও-কপিরাইট-আইনে-ক্যারিয়ার/
+21:02:36	Warning: 	HTML file (15629 bytes) retransferred due to lack of cache: https://www.careerki.com/লেফটেন্যান্ট/
+21:02:37	Warning: 	HTML file (17854 bytes) retransferred due to lack of cache: https://www.careerki.com/ফিজিওথেরাপিস্ট/
+21:02:38	Warning: 	HTML file (16032 bytes) retransferred due to lack of cache: https://www.careerki.com/ব্যবসার-প্রসারে-সোশ্যাল-মিডিয়া/
+21:02:39	Warning: 	HTML file (15393 bytes) retransferred due to lack of cache: https://www.careerki.com/মনিটরিং-অফিসার-উন্নয়ন-খাত/
+21:02:39	Warning: 	HTML file (15515 bytes) retransferred due to lack of cache: https://www.careerki.com/ডাটাবেজ-অ্যাডমিনিস্ট্রেটর/
+21:02:40	Warning: 	HTML file (14989 bytes) retransferred due to lack of cache: https://www.careerki.com/পোলট্রি-ফার্ম-সুপারভাইজার/
+21:02:41	Warning: 	HTML file (16475 bytes) retransferred due to lack of cache: https://www.careerki.com/সিরামিক-ইঞ্জিনিয়ার/
+21:02:42	Warning: 	HTML file (15417 bytes) retransferred due to lack of cache: https://www.careerki.com/কাস্টমার-কেয়ার-অফিসার/
+21:02:43	Warning: 	HTML file (15546 bytes) retransferred due to lack of cache: https://www.careerki.com/সাপ্লাই-চেইন-ম্যানেজমেন্ট-অফিসার/
+21:02:43	Warning: 	File not parsed, looks like binary: https://www.careerki.com/wp-content/plugins/indeed-membership-pro/assets/fonts/fontawesome-webfont.woff2?v=4.3.0
+21:02:43	Warning: 	HTML file (15031 bytes) retransferred due to lack of cache: https://www.careerki.com/কম্পিউটার-অপারেটর/
+21:02:44	Warning: 	HTML file (15485 bytes) retransferred due to lack of cache: https://www.careerki.com/কপিরাইটার/
+21:02:46	Warning: 	HTML file (16820 bytes) retransferred due to lack of cache: https://www.careerki.com/মেকানিক্যাল-ইঞ্জিনিয়ার/
+21:02:49	Warning: 	HTML file (15945 bytes) retransferred due to lack of cache: https://www.careerki.com/স্টুডেন্ট-কাউন্সেলর/
+21:02:50	Warning: 	HTML file (15508 bytes) retransferred due to lack of cache: https://www.careerki.com/ফ্লাইট-অ্যাটেনডেন্ট/
+21:02:53	Warning: 	HTML file (15131 bytes) retransferred due to lack of cache: https://www.careerki.com/সেলস-রিপ্রেজেন্টেটিভ/
+21:02:55	Warning: 	HTML file (14805 bytes) retransferred due to lack of cache: https://www.careerki.com/পাওয়ারপয়েন্ট-স্লাইড-ইনফোগ্রাফিক/
+21:02:56	Warning: 	HTML file (15392 bytes) retransferred due to lack of cache: https://www.careerki.com/ভালো-সিভির-বৈশিষ্ট্য-ইনফোগ্রাফিক/
+21:02:58	Warning: 	HTML file (14942 bytes) retransferred due to lack of cache: https://www.careerki.com/লিংকডইন-কী-ও-কেন-ইনফোগ্রাফিক/
+21:03:00	Warning: 	HTML file (16963 bytes) retransferred due to lack of cache: https://www.careerki.com/সমাজকর্মী/
+21:03:00	Warning: 	HTML file (18936 bytes) retransferred due to lack of cache: https://www.careerki.com/ফার্মাসিস্ট/
+21:03:01	Warning: 	HTML file (15656 bytes) retransferred due to lack of cache: https://www.careerki.com/টেক্সটাইল-ইঞ্জিনিয়ার/
+21:03:01	Warning: 	HTML file (16741 bytes) retransferred due to lack of cache: https://www.careerki.com/কোয়ালিটি-কন্ট্রোল-অফিসার/
+21:03:03	Warning: 	HTML file (15729 bytes) retransferred due to lack of cache: https://www.careerki.com/হিউম্যান-রিসোর্স-অফিসার/
+21:03:03	Warning: 	HTML file (16220 bytes) retransferred due to lack of cache: https://www.careerki.com/প্রোডাকশন-অফিসার-ফুড-অ্যান্ড-বেভারেজ/
+21:03:04	Warning: 	HTML file (15631 bytes) retransferred due to lack of cache: https://www.careerki.com/আইটি-ম্যানেজার/
+21:03:04	Warning: 	HTML file (15262 bytes) retransferred due to lack of cache: https://www.careerki.com/ফ্যাশন-ডিজাইনার/
+21:03:05	Warning: 	HTML file (15265 bytes) retransferred due to lack of cache: https://www.careerki.com/আবহাওয়াবিদ/
+21:03:06	Warning: 	HTML file (16175 bytes) retransferred due to lack of cache: https://www.careerki.com/ভালো-প্রেজেন্টেশন-৭-বিষয়/
+21:03:07	Warning: 	HTML file (15309 bytes) retransferred due to lack of cache: https://www.careerki.com/চার্টার্ড-ম্যানেজমেন্ট-অ্যাকাউন্ট্যান্ট/
+21:03:07	Warning: 	HTML file (15644 bytes) retransferred due to lack of cache: https://www.careerki.com/গ্রাফিক-ডিজাইনার/
+21:03:07	Warning: 	HTML file (16010 bytes) retransferred due to lack of cache: https://www.careerki.com/নার্স/
+21:03:08	Warning: 	HTML file (14850 bytes) retransferred due to lack of cache: https://www.careerki.com/সহকারী-জজ/
+21:03:09	Warning: 	HTML file (14411 bytes) retransferred due to lack of cache: https://www.careerki.com/থ্রিডি-অ্যানিমেটর/
+21:03:09	Warning: 	HTML file (14941 bytes) retransferred due to lack of cache: https://www.careerki.com/অ্যাগ্রো-ফুড-বিজনেসে-সাফল্য/
+21:03:09	Warning: 	HTML file (14018 bytes) retransferred due to lack of cache: https://www.careerki.com/থ্রিডি-আর্টিস্ট/
+21:03:09	Warning: 	HTML file (14311 bytes) retransferred due to lack of cache: https://www.careerki.com/অভিনেতা/
+21:03:09	Warning: 	HTML file (16359 bytes) retransferred due to lack of cache: https://www.careerki.com/হোটেল-ম্যানেজার/
+21:03:11	Warning: 	HTML file (17100 bytes) retransferred due to lack of cache: https://www.careerki.com/কনস্ট্রাকশন-ম্যানেজার/
+21:03:11	Warning: 	HTML file (15383 bytes) retransferred due to lack of cache: https://www.careerki.com/ফিশারিজ-অফিসার/
+21:03:12	Warning: 	HTML file (17773 bytes) retransferred due to lack of cache: https://www.careerki.com/বিসিএস-লাইভস্টক/
+21:03:13	Warning: 	HTML file (15837 bytes) retransferred due to lack of cache: https://www.careerki.com/ডেন্টিস্ট/
+21:03:13	Warning: 	HTML file (15900 bytes) retransferred due to lack of cache: https://www.careerki.com/শিক্ষাবিদ/
+21:03:14	Warning: 	HTML file (15452 bytes) retransferred due to lack of cache: https://www.careerki.com/অনলাইন-ব্যবসায়-সাফল্য/
+21:03:14	Warning: 	HTML file (14752 bytes) retransferred due to lack of cache: https://www.careerki.com/অ্যাগ্রো-ফুড-বিজনেসের-চ্যালেঞ্জ/
+21:03:14	Warning: 	HTML file (15962 bytes) retransferred due to lack of cache: https://www.careerki.com/অর্থোপেডিক-ডাক্তার/
+21:03:15	Warning: 	HTML file (15190 bytes) retransferred due to lack of cache: https://www.careerki.com/সাইকোলজিস্ট-ও-সাইকিয়াট্রিস্টের-পার্থক্য/
+21:03:16	Warning: 	HTML file (15605 bytes) retransferred due to lack of cache: https://www.careerki.com/ডায়েটিশিয়ান/
+21:03:17	Warning: 	HTML file (15441 bytes) retransferred due to lack of cache: https://www.careerki.com/বাংলাদেশে-অনলাইন-ব্যবসার-চ্যালেঞ্জ/
+21:03:17	Warning: 	HTML file (15799 bytes) retransferred due to lack of cache: https://www.careerki.com/ফিজিওথেরাপি-কী-ও-কোথায়-পড়বেন/
+21:03:19	Warning: 	HTML file (16752 bytes) retransferred due to lack of cache: https://www.careerki.com/বাংলাদেশে-পাইলট-হবার-ট্রেনিং-যেখানে-নেবেন/
+21:03:20	Warning: 	HTML file (15030 bytes) retransferred due to lack of cache: https://www.careerki.com/প্রোডাক্ট-ম্যানেজার/
+21:03:20	Warning: 	HTML file (15780 bytes) retransferred due to lack of cache: https://www.careerki.com/সার্ভেয়ার/
+21:03:21	Warning: 	HTML file (16662 bytes) retransferred due to lack of cache: https://www.careerki.com/কমিউনিটি-এনগেজমেন্ট-অফিসার/
+21:03:21	Warning: 	HTML file (15286 bytes) retransferred due to lack of cache: https://www.careerki.com/ক্রেডিট-অ্যান্ড-রিস্ক-অ্যানালিস্ট/
+21:03:22	Warning: 	HTML file (13607 bytes) retransferred due to lack of cache: https://www.careerki.com/হাউসকিপার/
+21:03:22	Warning: 	HTML file (16971 bytes) retransferred due to lack of cache: https://www.careerki.com/নিউজ-প্রেজেন্টার/
+21:03:23	Warning: 	HTML file (17114 bytes) retransferred due to lack of cache: https://www.careerki.com/ফিটনেস-ট্রেইনার/
+21:03:24	Warning: 	HTML file (16165 bytes) retransferred due to lack of cache: https://www.careerki.com/রেডিও-জকি/
+21:03:25	Warning: 	HTML file (17753 bytes) retransferred due to lack of cache: https://www.careerki.com/স্পিচ-অ্যান্ড-ল্যাঙ্গুয়েজ-থেরাপিস্ট/
+21:03:26	Warning: 	HTML file (15481 bytes) retransferred due to lack of cache: https://www.careerki.com/ম্যানিকিউরিস্ট/
+21:03:26	Warning: 	HTML file (15710 bytes) retransferred due to lack of cache: https://www.careerki.com/গাইনিকোলজিস্ট/
+21:03:27	Warning: 	HTML file (16487 bytes) retransferred due to lack of cache: https://www.careerki.com/ট্রাভেল-এজেন্ট/
+21:03:27	Warning: 	HTML file (15038 bytes) retransferred due to lack of cache: https://www.careerki.com/পেইন্টার/
+21:03:28	Warning: 	HTML file (14962 bytes) retransferred due to lack of cache: https://www.careerki.com/অডিটর/
+21:03:30	Warning: 	HTML file (16810 bytes) retransferred due to lack of cache: https://www.careerki.com/অ্যানিমেটর/
+21:03:31	Warning: 	HTML file (15094 bytes) retransferred due to lack of cache: https://www.careerki.com/মাইনিং-ইঞ্জিনিয়ার/
+21:03:33	Warning: 	HTML file (15960 bytes) retransferred due to lack of cache: https://www.careerki.com/লজিস্টিকস-অফিসার/
+21:03:33	Warning: 	HTML file (15256 bytes) retransferred due to lack of cache: https://www.careerki.com/ম্যানেজমেন্ট-কনসালট্যান্ট/
+21:03:35	Warning: 	HTML file (14397 bytes) retransferred due to lack of cache: https://www.careerki.com/স্টোর-কিপার/
+21:03:36	Warning: 	HTML file (15686 bytes) retransferred due to lack of cache: https://www.careerki.com/মাইক্রোবায়োলজিস্ট/
+21:03:37	Warning: 	HTML file (17018 bytes) retransferred due to lack of cache: https://www.careerki.com/নগর-পরিকল্পনাবিদ/
+21:03:37	Warning: 	HTML file (15315 bytes) retransferred due to lack of cache: https://www.careerki.com/বিশ্ববিদ্যালয়-শিক্ষক/
+21:03:38	Warning: 	HTML file (15835 bytes) retransferred due to lack of cache: https://www.careerki.com/ইউরোলজিস্ট/
+21:03:39	Warning: 	HTML file (16025 bytes) retransferred due to lack of cache: https://www.careerki.com/ভেটেরিনারি-ডাক্তার/
+21:03:40	Warning: 	HTML file (15326 bytes) retransferred due to lack of cache: https://www.careerki.com/ওয়াটার-রিসোর্স-ইঞ্জিনিয়ার/
+21:03:41	Warning: 	HTML file (16438 bytes) retransferred due to lack of cache: https://www.careerki.com/ওয়েটার/
+21:03:41	Warning: 	HTML file (15673 bytes) retransferred due to lack of cache: https://www.careerki.com/মিডওয়াইফ/
+21:03:42	Warning: 	HTML file (18813 bytes) retransferred due to lack of cache: https://www.careerki.com/প্রাথমিক-শিক্ষক/
+21:03:43	Warning: 	HTML file (15774 bytes) retransferred due to lack of cache: https://www.careerki.com/ফিল্ড-ফ্যাসিলিটেটর/
+21:03:43	Warning: 	HTML file (15844 bytes) retransferred due to lack of cache: https://www.careerki.com/পাবলিক-হেলথ-অফিসার/
+21:03:44	Warning: 	HTML file (15499 bytes) retransferred due to lack of cache: https://www.careerki.com/এনভায়রনমেন্টাল-ইঞ্জিনিয়ার/
+21:03:44	Warning: 	HTML file (17133 bytes) retransferred due to lack of cache: https://www.careerki.com/বায়োটেকনোলজিস্ট/
+21:03:45	Warning: 	HTML file (16995 bytes) retransferred due to lack of cache: https://www.careerki.com/প্রোগ্রাম-অফিসার/
+21:03:46	Warning: 	HTML file (14929 bytes) retransferred due to lack of cache: https://www.careerki.com/সাইকিয়াট্রিস্ট/
+21:03:47	Warning: 	HTML file (14733 bytes) retransferred due to lack of cache: https://www.careerki.com/রেডিওলজিস্ট/
+21:03:47	Warning: 	HTML file (15145 bytes) retransferred due to lack of cache: https://www.careerki.com/পিসি-সার্ভিস-টেকনিশিয়ান/
+21:03:48	Warning: 	HTML file (16042 bytes) retransferred due to lack of cache: https://www.careerki.com/হেমাটোলজিস্ট/
+21:03:48	Warning: 	HTML file (15980 bytes) retransferred due to lack of cache: https://www.careerki.com/বিসিএস-পরিসংখ্যান/
+21:03:49	Warning: 	HTML file (15010 bytes) retransferred due to lack of cache: https://www.careerki.com/স্পোর্টস-কোচ/
+21:03:49	Warning: 	HTML file (15771 bytes) retransferred due to lack of cache: https://www.careerki.com/লোন-অফিসার/
+21:03:51	Warning: 	HTML file (14685 bytes) retransferred due to lack of cache: https://www.careerki.com/বিজনেস-অ্যানালিস্ট/
+21:03:51	Warning: 	HTML file (15891 bytes) retransferred due to lack of cache: https://www.careerki.com/শেফ/
+21:03:51	Warning: 	HTML file (16565 bytes) retransferred due to lack of cache: https://www.careerki.com/দুর্যোগ-ব্যবস্থাপক/
+21:03:54	Warning: 	HTML file (15378 bytes) retransferred due to lack of cache: https://www.careerki.com/এসি-টেকনিশিয়ান/
+21:03:55	Warning: 	HTML file (16165 bytes) retransferred due to lack of cache: https://www.careerki.com/প্রোগ্রাম-কোঅর্ডিনেটর/
+21:03:55	Warning: 	HTML file (16962 bytes) retransferred due to lack of cache: https://www.careerki.com/অ্যারোস্পেস-ইঞ্জিনিয়ার/
+21:03:58	Warning: 	HTML file (16571 bytes) retransferred due to lack of cache: https://www.careerki.com/জিআইএস-স্পেশালিস্ট/
+21:03:59	Warning: 	HTML file (13895 bytes) retransferred due to lack of cache: https://www.careerki.com/ল্যাব-সহকারী-শিক্ষা-প্রতিষ্ঠান/
+21:03:59	Warning: 	HTML file (16744 bytes) retransferred due to lack of cache: https://www.careerki.com/ইন্টেরিয়র-ডিজাইনার/
+21:04:02	Warning: 	HTML file (13333 bytes) retransferred due to lack of cache: https://www.careerki.com/কার্ডিয়াক-নার্স/
+21:04:04	Warning: 	HTML file (15309 bytes) retransferred due to lack of cache: https://www.careerki.com/পাবলিক-স্পিকিংয়ে-ভালো-করার-৫-উপায়/
+21:04:05	Warning: 	HTML file (16501 bytes) retransferred due to lack of cache: https://www.careerki.com/ব্যবসার-জন্য-পুঁজি/
+21:04:05	Warning: 	HTML file (15139 bytes) retransferred due to lack of cache: https://www.careerki.com/গ্রাফিক-ডিজাইনের-সফটওয়্যার/
+21:04:07	Warning: 	HTML file (15553 bytes) retransferred due to lack of cache: https://www.careerki.com/ভিডিও-ইন্ডাস্ট্রির-কাজ/
+21:04:08	Warning: 	HTML file (15140 bytes) retransferred due to lack of cache: https://www.careerki.com/লাইসেন্স-দরকার-হয়-যেসব-ক্যারিয়ারে/
+21:04:08	Warning: 	HTML file (15704 bytes) retransferred due to lack of cache: https://www.careerki.com/ইন্টারভিউর-১০-ভুল/
+21:04:09	Warning: 	HTML file (15096 bytes) retransferred due to lack of cache: https://www.careerki.com/এমএস-এক্সেলের-গুরুত্বপূর্ণ-ফাংশন-২/
+21:04:11	Warning: 	HTML file (14492 bytes) retransferred due to lack of cache: https://www.careerki.com/এমএস-এক্সেলের-গুরুত্বপূর্ণ-ফাংশন-১/
+21:04:11	Warning: 	HTML file (15456 bytes) retransferred due to lack of cache: https://www.careerki.com/কীভাবে-দোকান-খুলবেন/
+21:04:12	Warning: 	HTML file (14930 bytes) retransferred due to lack of cache: https://www.careerki.com/পোর্টফোলিও-কী-ও-কেন/
+21:04:15	Warning: 	HTML file (15929 bytes) retransferred due to lack of cache: https://www.careerki.com/ফাস্ট-ফুড-ব্যবসায়-সাফল্য/
+21:04:18	Warning: 	HTML file (15949 bytes) retransferred due to lack of cache: https://www.careerki.com/ইন্টারভিউ-প্রস্তুতি-১০-জরুরি-বিষয়/
+21:04:20	Warning: 	HTML file (14834 bytes) retransferred due to lack of cache: https://www.careerki.com/দোকান-খোলার-চ্যালেঞ্জ/
+21:04:21	Warning: 	HTML file (14729 bytes) retransferred due to lack of cache: https://www.careerki.com/ব্যাংকিং-খাতের-প্রশিক্ষণ/
+21:04:22	Warning: 	HTML file (16387 bytes) retransferred due to lack of cache: https://www.careerki.com/ভালো-গবেষকের-দশটি-গুণ/
+21:04:24	Warning: 	HTML file (14886 bytes) retransferred due to lack of cache: https://www.careerki.com/ফাস্ট-ফুড-ব্যবসার-চ্যালেঞ্জ/
+21:04:25	Warning: 	HTML file (15314 bytes) retransferred due to lack of cache: https://www.careerki.com/ভাষা-যখন-পেশা/
+21:04:25	Warning: 	HTML file (15346 bytes) retransferred due to lack of cache: https://www.careerki.com/অনলাইনে-টি-শার্ট-ব্যবসা/
+21:04:27	Warning: 	HTML file (14523 bytes) retransferred due to lack of cache: https://www.careerki.com/ব্যাংক-ম্যানেজারের-দায়িত্ব/
+21:04:28	Warning: 	HTML file (15480 bytes) retransferred due to lack of cache: https://www.careerki.com/সাইকোলজিস্ট-ও-সাইকোথেরাপিস্টের-পার্থক্য/
+21:04:29	Warning: 	HTML file (15421 bytes) retransferred due to lack of cache: https://www.careerki.com/পেশা-যখন-রান্নাবান্না/
+21:04:31	Warning: 	HTML file (15478 bytes) retransferred due to lack of cache: https://www.careerki.com/কীভাবে-করবেন-নেটওয়ার্কিং/
+21:04:32	Warning: 	HTML file (15273 bytes) retransferred due to lack of cache: https://www.careerki.com/স্পিচ-থেরাপি-কী-ও-কোথায়-পড়বেন/
+21:04:34	Warning: 	HTML file (14207 bytes) retransferred due to lack of cache: https://www.careerki.com/ফ্রন্ট-এন্ড-ফ্রেমওয়ার্ক/
+21:04:35	Warning: 	HTML file (14601 bytes) retransferred due to lack of cache: https://www.careerki.com/লেখালেখিতে-ভালো-করার-উপায়/
+21:04:36	Warning: 	HTML file (14900 bytes) retransferred due to lack of cache: https://www.careerki.com/যোগাযোগের-দক্ষতা-বাড়াবেন-কীভাবে/
+21:04:38	Warning: 	HTML file (15094 bytes) retransferred due to lack of cache: https://www.careerki.com/বাংলাদেশে-নার্সিংয়ের-স্পেশালাইজেশন/
+21:04:39	Warning: 	HTML file (14360 bytes) retransferred due to lack of cache: https://www.careerki.com/বিকাশ-মার্চেন্ট-অ্যাকাউন্ট-খুলবেন-কীভাবে/
+21:04:41	Warning: 	HTML file (15560 bytes) retransferred due to lack of cache: https://www.careerki.com/সফট-স্কিল-কেন-গুরুত্বপূর্ণ/
+21:04:42	Warning: 	HTML file (14339 bytes) retransferred due to lack of cache: https://www.careerki.com/এসএমই-লোন-পাবার-যোগ্যতা/
+21:04:43	Warning: 	HTML file (13923 bytes) retransferred due to lack of cache: https://www.careerki.com/ডাক্তারদের-প্রকারভেদ/
+21:04:43	Warning: 	HTML file (14805 bytes) retransferred due to lack of cache: https://www.careerki.com/প্রোগ্রামিং-ল্যাঙ্গুয়েজ-ও-এর-ব্যবহার/
+21:04:44	Warning: 	HTML file (14034 bytes) retransferred due to lack of cache: https://www.careerki.com/চাকরি-খুঁজবেন-যেভাবে/
+21:04:44	Warning: 	HTML file (15026 bytes) retransferred due to lack of cache: https://www.careerki.com/স্বল্প-খরচে-বিদেশে-কাজ-করণীয়/
+21:04:45	Warning: 	HTML file (15656 bytes) retransferred due to lack of cache: https://www.careerki.com/বিজ্ঞাপনী-সংস্থায়-কাজ/
+21:04:46	Warning: 	HTML file (16114 bytes) retransferred due to lack of cache: https://www.careerki.com/ব্র্যাকে-চাকরি/
+21:04:46	Warning: 	HTML file (15183 bytes) retransferred due to lack of cache: https://www.careerki.com/দরকারি-৫টি-সাধারণ-দক্ষতা/
+21:04:47	Warning: 	HTML file (15569 bytes) retransferred due to lack of cache: https://www.careerki.com/ইন্টারভিউর-ধরন/
+21:04:48	Warning: 	HTML file (15693 bytes) retransferred due to lack of cache: https://www.careerki.com/ফটোগ্রাফি-কোর্স-যেখানে-করবেন/
+21:04:48	Warning: 	HTML file (15597 bytes) retransferred due to lack of cache: https://www.careerki.com/ইমেইল-লেখা-৫টি-বিষয়/
+21:04:49	Warning: 	HTML file (16192 bytes) retransferred due to lack of cache: https://www.careerki.com/ব্যাংকিং-খাতে-চাকরি-যেমন-হয়/
+21:04:49	Warning: 	HTML file (19051 bytes) retransferred due to lack of cache: https://www.careerki.com/বায়োউদ্যোক্তা-অভিজ্ঞতা/
+21:04:50	Warning: 	HTML file (16185 bytes) retransferred due to lack of cache: https://www.careerki.com/ক্যারিয়ার-বাছাই-করবেন-কীভাবে/
+21:04:50	Warning: 	HTML file (14975 bytes) retransferred due to lack of cache: https://www.careerki.com/গুগল-ডক্সের-ব্যবহার-১/
+21:04:51	Warning: 	HTML file (13999 bytes) retransferred due to lack of cache: https://www.careerki.com/চাকরি-খোঁজার-ওয়েবসাইট/
+21:04:51	Warning: 	HTML file (15158 bytes) retransferred due to lack of cache: https://www.careerki.com/সিভি-রেজ্যুমে-ও-কভার-লেটার/
+21:04:52	Warning: 	HTML file (16242 bytes) retransferred due to lack of cache: https://www.careerki.com/গ্রামীণফোনে-চাকরি-৭-বিষয়/
+21:04:53	Warning: 	HTML file (15731 bytes) retransferred due to lack of cache: https://www.careerki.com/লিংকডইন-প্রোফাইল-সাজাবেন-যেভাবে/
+21:04:54	Warning: 	HTML file (15128 bytes) retransferred due to lack of cache: https://www.careerki.com/ক্যারিয়ার-গড়ায়-ভলান্টারি-কাজের-সুবিধা/
+21:04:55	Warning: 	HTML file (14410 bytes) retransferred due to lack of cache: https://www.careerki.com/মানবসম্পদ-বিভাগের-কাজ/
+21:04:56	Warning: 	HTML file (14909 bytes) retransferred due to lack of cache: https://www.careerki.com/নেটওয়ার্কিং-কী-ও-কর্মজীবনে-এর-গুরুত্ব/
+21:04:57	Warning: 	HTML file (15908 bytes) retransferred due to lack of cache: https://www.careerki.com/হল্যান্ড-থিওরির-ব্যাখ্যা/
+21:04:57	Warning: 	HTML file (15098 bytes) retransferred due to lack of cache: https://www.careerki.com/হল্যান্ড-থিওরিতে-ব্যক্তিত্বের-ধরন/
+21:04:57	Warning: 	HTML file (15972 bytes) retransferred due to lack of cache: https://www.careerki.com/সিএ-ও-এসিসিএর-মধ্যে-৫-টি-পার্থক্য/
+21:04:59	Warning: 	HTML file (15567 bytes) retransferred due to lack of cache: https://www.careerki.com/সাপ্লাই-চেইন-ম্যানেজমেন্ট-কী-ও-কেন/
+21:05:00	Warning: 	HTML file (16202 bytes) retransferred due to lack of cache: https://www.careerki.com/১০টি-চাকরি-যেগুলোর-অস্তিত্ব-ভবিষ্যতে-থাকবে-না/
+21:05:00	Warning: 	HTML file (15185 bytes) retransferred due to lack of cache: https://www.careerki.com/হল্যান্ড-থিওরি/
+21:05:00	Warning: 	HTML file (14697 bytes) retransferred due to lack of cache: https://www.careerki.com/ফ্রিল্যান্সিংয়ে-কী-কী-কাজ-করা-যায়/
+21:05:00	Warning: 	HTML file (15807 bytes) retransferred due to lack of cache: https://www.careerki.com/ব্র্যান্ডিং-কী-ও-কেন-গুরুত্বপূর্ণ/
+21:05:01	Warning: 	HTML file (15301 bytes) retransferred due to lack of cache: https://www.careerki.com/বিপিএটিসি-কী-ও-কেন/
+21:05:02	Warning: 	HTML file (16632 bytes) retransferred due to lack of cache: https://www.careerki.com/ভবিষ্যতের-পেশা-১০-উদাহরণ/
+21:05:02	Warning: 	HTML file (14372 bytes) retransferred due to lack of cache: https://www.careerki.com/ফ্রিল্যান্সিংয়ের-ওয়েবসাইট/
+21:05:03	Warning: 	HTML file (14349 bytes) retransferred due to lack of cache: https://www.careerki.com/ওয়েব-ডিজাইন-ও-ওয়েব-ডেভেলপমেন্টের-মধ্যে-পার্থক্য/
+21:05:03	Warning: 	HTML file (11223 bytes) retransferred due to lack of cache: https://www.careerki.com/conventional-পার্সোনালিটির-জন্য-উপযুক্ত-পেশা/
+21:05:03	Warning: 	HTML file (11591 bytes) retransferred due to lack of cache: https://www.careerki.com/enterprising-পার্সোনালিটির-জন্য-উপযুক্ত-পেশা/
+21:05:03	Warning: 	HTML file (11248 bytes) retransferred due to lack of cache: https://www.careerki.com/social-পার্সোনালিটির-জন্য-উপযুক্ত-পেশা/
+21:05:03	Warning: 	HTML file (11662 bytes) retransferred due to lack of cache: https://www.careerki.com/artistic-পার্সোনালিটির-জন্য-উপযুক্ত-পেশা/
+21:05:04	Warning: 	HTML file (11970 bytes) retransferred due to lack of cache: https://www.careerki.com/investigative-পার্সোনালিটির-জন্য-উপযুক্ত-পেশা/
+21:05:04	Warning: 	HTML file (11630 bytes) retransferred due to lack of cache: https://www.careerki.com/realistic-পার্সোনালিটির-জন্য-উপযুক্ত-পেশা/
+21:05:05	Warning: 	HTML file (15096 bytes) retransferred due to lack of cache: https://www.careerki.com/ডাটা-বিশ্লেষণের-সফটওয়্যার/
+21:05:26	Warning: 	HTML file (15129 bytes) retransferred due to lack of cache: https://www.careerki.com/ইমাম/
+21:05:26	Warning: 	HTML file (13993 bytes) retransferred due to lack of cache: https://www.careerki.com/সুইমিং-পুল-অ্যাটেনডেন্ট/
+21:05:29	Warning: 	HTML file (16431 bytes) retransferred due to lack of cache: https://www.careerki.com/অপথালমোলজিস্ট/
+21:05:30	Warning: 	HTML file (15592 bytes) retransferred due to lack of cache: https://www.careerki.com/বিসিএস-আনসার/
+21:05:30	Warning: 	HTML file (15313 bytes) retransferred due to lack of cache: https://www.careerki.com/স্যাটেলাইট-ইঞ্জিনিয়ার/
+21:05:31	Warning: 	HTML file (16346 bytes) retransferred due to lack of cache: https://www.careerki.com/বেসরকারি-স্কুল-শিক্ষক/
+21:05:31	Warning: 	HTML file (16961 bytes) retransferred due to lack of cache: https://www.careerki.com/ইভেন্ট-ম্যানেজার/
+21:05:32	Warning: 	HTML file (14158 bytes) retransferred due to lack of cache: https://www.careerki.com/ফিল্ড-সুপারভাইজার/
+21:05:33	Warning: 	HTML file (13534 bytes) retransferred due to lack of cache: https://www.careerki.com/অটোমোবাইল-টেকনিশিয়ান/
+21:05:33	Warning: 	HTML file (16023 bytes) retransferred due to lack of cache: https://www.careerki.com/হেলথ-এনভায়রনমেন্ট-অ্যান্ড-সেফটি-স্পেশালিস্ট/
+21:05:37	Warning: 	HTML file (18016 bytes) retransferred due to lack of cache: https://www.careerki.com/সাংবাদিক/
+21:05:38	Warning: 	HTML file (15406 bytes) retransferred due to lack of cache: https://www.careerki.com/ক্রীড়া-সাংবাদিক/
+21:05:38	Warning: 	HTML file (16698 bytes) retransferred due to lack of cache: https://www.careerki.com/নেটওয়ার্ক-আর্কিটেক্ট/
+21:05:40	Warning: 	HTML file (16177 bytes) retransferred due to lack of cache: https://www.careerki.com/পরিসংখ্যানবিদ/
+21:05:41	Warning: 	HTML file (16316 bytes) retransferred due to lack of cache: https://www.careerki.com/নিওন্যাটোলজিস্ট/
+21:05:44	Warning: 	HTML file (16078 bytes) retransferred due to lack of cache: https://www.careerki.com/ওয়ার্ডপ্রেস-ডেভেলপার/
+21:05:44	Warning: 	HTML file (15485 bytes) retransferred due to lack of cache: https://www.careerki.com/পাবলিশিং-এডিটর/
+21:05:46	Warning: 	HTML file (16695 bytes) retransferred due to lack of cache: https://www.careerki.com/বিসিএস-তথ্য/
+21:05:46	Warning: 	HTML file (16430 bytes) retransferred due to lack of cache: https://www.careerki.com/অটোমোবাইল-ইঞ্জিনিয়ার/
+21:05:46	Warning: 	HTML file (14646 bytes) retransferred due to lack of cache: https://www.careerki.com/বিশ্ববিদ্যালয়-রেজিস্ট্রার/
+21:05:48	Warning: 	HTML file (15661 bytes) retransferred due to lack of cache: https://www.careerki.com/ক্রিকেট-আম্পায়ার/
+21:05:50	Warning: 	HTML file (14448 bytes) retransferred due to lack of cache: https://www.careerki.com/স্যানিটারি-ইন্সপেকটর/
+21:05:52	Warning: 	HTML file (16230 bytes) retransferred due to lack of cache: https://www.careerki.com/নিউরোলজিস্ট/
+21:05:52	Warning: 	HTML file (16675 bytes) retransferred due to lack of cache: https://www.careerki.com/রাজমিস্ত্রি/
+21:05:54	Warning: 	HTML file (16460 bytes) retransferred due to lack of cache: https://www.careerki.com/একাডেমিয়া-ইন্ডাস্ট্রি-পার্টনারশিপ-ভারত/
+21:05:55	Warning: 	HTML file (17087 bytes) retransferred due to lack of cache: https://www.careerki.com/কমিউনিটি-স্বাস্থ্যকর্মী/
+21:05:56	Warning: 	HTML file (16420 bytes) retransferred due to lack of cache: https://www.careerki.com/নিউজ-এডিটর/
+21:05:56	Warning: 	HTML file (15647 bytes) retransferred due to lack of cache: https://www.careerki.com/নিউক্লিয়ার-ইঞ্জিনিয়ার/
+21:05:56	Warning: 	HTML file (15964 bytes) retransferred due to lack of cache: https://www.careerki.com/মেডিকেল-টেকনোলজিস্ট/
+21:05:57	Warning: 	HTML file (16106 bytes) retransferred due to lack of cache: https://www.careerki.com/পেট্রোলিয়াম-ইঞ্জিনিয়ার/
+21:05:58	Warning: 	HTML file (16668 bytes) retransferred due to lack of cache: https://www.careerki.com/ফটোগ্রাফার/
+21:05:58	Warning: 	HTML file (16680 bytes) retransferred due to lack of cache: https://www.careerki.com/নেটওয়ার্ক-ইঞ্জিনিয়ার/
+21:05:59	Warning: 	HTML file (15185 bytes) retransferred due to lack of cache: https://www.careerki.com/ইনফরমেশন-টেকনোলজিস্ট/
+21:05:59	Warning: 	HTML file (14133 bytes) retransferred due to lack of cache: https://www.careerki.com/লাইফগার্ড/
+21:06:00	Warning: 	HTML file (13825 bytes) retransferred due to lack of cache: https://www.careerki.com/লন্ড্রি-অপারেটর/
+21:06:00	Warning: 	HTML file (13959 bytes) retransferred due to lack of cache: https://www.careerki.com/ডিসপ্যাচ-সুপারভাইজার/
+21:06:00	Warning: 	HTML file (17024 bytes) retransferred due to lack of cache: https://www.careerki.com/কার্ডিওলজিস্ট/
+21:06:00	Warning: 	HTML file (15021 bytes) retransferred due to lack of cache: https://www.careerki.com/বারিস্তা/
+21:06:01	Warning: 	HTML file (16302 bytes) retransferred due to lack of cache: https://www.careerki.com/বিসিএস-সড়ক-ও-জনপথ/
+21:06:01	Warning: 	HTML file (15508 bytes) retransferred due to lack of cache: https://www.careerki.com/ফরেনসিক-বিশেষজ্ঞ/
+21:06:02	Warning: 	HTML file (15333 bytes) retransferred due to lack of cache: https://www.careerki.com/কম্পিউটার-হার্ডওয়্যার-ইঞ্জিনিয়ার/
+21:06:02	Warning: 	HTML file (16961 bytes) retransferred due to lack of cache: https://www.careerki.com/সফটওয়্যার-ডেভেলপার/
+21:06:03	Warning: 	HTML file (14583 bytes) retransferred due to lack of cache: https://www.careerki.com/রেস্টুরেন্ট-ম্যানেজার/
+21:06:03	Warning: 	HTML file (16886 bytes) retransferred due to lack of cache: https://www.careerki.com/বিসিএস-শিক্ষা-প্রভাষক/
+21:06:03	Warning: 	HTML file (16626 bytes) retransferred due to lack of cache: https://www.careerki.com/ক্যাড-ডিজাইনার/
+21:06:04	Warning: 	HTML file (17706 bytes) retransferred due to lack of cache: https://www.careerki.com/চার্টার্ড-অ্যাকাউন্ট্যান্ট/
+21:06:06	Warning: 	HTML file (16698 bytes) retransferred due to lack of cache: https://www.careerki.com/মেকআপ-আর্টিস্ট/
+21:06:07	Warning: 	HTML file (16121 bytes) retransferred due to lack of cache: https://www.careerki.com/ইন্স্যুরেন্স-এজেন্ট/
+21:06:08	Warning: 	HTML file (15721 bytes) retransferred due to lack of cache: https://www.careerki.com/নেভাল-আর্কিটেক্ট/
+21:06:09	Warning: 	HTML file (16497 bytes) retransferred due to lack of cache: https://www.careerki.com/অ্যাকাউন্ট্যান্ট/
+21:06:09	Warning: 	HTML file (17117 bytes) retransferred due to lack of cache: https://www.careerki.com/বিসিএস-নিরীক্ষা-ও-হিসাব/
+21:06:09	Warning: 	HTML file (15791 bytes) retransferred due to lack of cache: https://www.careerki.com/অ্যাপ্লিকেশন-ডেভেলপার/
+21:06:10	Warning: 	HTML file (15866 bytes) retransferred due to lack of cache: https://www.careerki.com/কেমিক্যাল-ইঞ্জিনিয়ার/
+21:06:11	Warning: 	HTML file (14517 bytes) retransferred due to lack of cache: https://www.careerki.com/রেডিওলজি-টেকনিশিয়ান/
+21:06:11	Warning: 	HTML file (15647 bytes) retransferred due to lack of cache: https://www.careerki.com/ক্যাড-অপারেটর-গার্মেন্টস/
+21:06:12	Warning: 	HTML file (16897 bytes) retransferred due to lack of cache: https://www.careerki.com/বিসিএস-কৃষি/
+21:06:13	Warning: 	HTML file (13835 bytes) retransferred due to lack of cache: https://www.careerki.com/সিসিটিভি-টেকনিশিয়ান/
+21:06:13	Warning: 	HTML file (15103 bytes) retransferred due to lack of cache: https://www.careerki.com/বর্জ্য-ব্যবস্থাপক/
+21:06:15	Warning: 	HTML file (16501 bytes) retransferred due to lack of cache: https://www.careerki.com/ক্রিটিক্যাল-কেয়ার-বিশেষজ্ঞ/
+21:06:16	Warning: 	HTML file (14405 bytes) retransferred due to lack of cache: https://www.careerki.com/টেইলর/
+21:06:16	Warning: 	HTML file (13832 bytes) retransferred due to lack of cache: https://www.careerki.com/পরিচ্ছন্নতা-কর্মী/
+21:06:16	Warning: 	file not stored in cache due to bogus state (incomplete type with OK (200), size 4059): https://www.careerki.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.careerki.com%2F%25e0%25a6%25aa%25e0%25a6%25be%25e0%25a6%2593%25e0%25a7%259f%25e0%25a6%25be%25e0%25a6%25b0%25e0%25a6%25aa%25e0%25a7%259f%25e0%25a7%2587%25e0%25a6%25a8%25e0%25a7%258d%25e0%25a6%259f-%25e0%25a6%25b8%25e0%25a7%258d%25e0%25a6%25b2%25e0%25a6%25be%25e0%25a6%2587%25e0%25a6%25a1-%25e0%25a6%2587%25e0%25a6%25a8%25e0%25a6%25ab%25e0%25a7%258b%25e0%25a6%2597%25e0%25a7%258d%25e0%25a6%25b0%25e0%25a6%25be%25e0%25a6%25ab%25e0%25a6%25bf%25e0%25a6%2595%2F&format=xml
+21:06:18	Warning: 	HTML file (14628 bytes) retransferred due to lack of cache: https://www.careerki.com/চার্টার্ড-সেক্রেটারি/
+21:06:19	Warning: 	HTML file (14262 bytes) retransferred due to lack of cache: https://www.careerki.com/মেশিন-অপারেটর/
+21:06:20	Warning: 	HTML file (14784 bytes) retransferred due to lack of cache: https://www.careerki.com/পদার্থবিজ্ঞানী/
+21:06:20	Warning: 	HTML file (16173 bytes) retransferred due to lack of cache: https://www.careerki.com/বিসিএস-ফিশারিজ/
+21:06:22	Warning: 	HTML file (15020 bytes) retransferred due to lack of cache: https://www.careerki.com/চিফ-অপারেশনস-অফিসার/
+21:06:24	Warning: 	HTML file (16212 bytes) retransferred due to lack of cache: https://www.careerki.com/বিজনেস-ডেভেলপমেন্ট-অফিসার/
+21:06:25	Warning: 	HTML file (15254 bytes) retransferred due to lack of cache: https://www.careerki.com/ফান্ড-ম্যানেজার/
+21:06:25	Warning: 	HTML file (14104 bytes) retransferred due to lack of cache: https://www.careerki.com/সারেং/
+21:06:26	Warning: 	HTML file (15278 bytes) retransferred due to lack of cache: https://www.careerki.com/ডিজিটাল-মার্কেটিং-এক্সিকিউটিভ/
+21:06:26	Warning: 	file not stored in cache due to bogus state (incomplete type with OK (200), size 3339): https://www.careerki.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.careerki.com%2F%25e0%25a6%259f%25e0%25a7%2587%25e0%25a6%2595%25e0%25a7%258d%25e0%25a6%25b8%25e0%25a6%259f%25e0%25a6%25be%25e0%25a6%2587%25e0%25a6%25b2-%25e0%25a6%2587%25e0%25a6%259e%25e0%25a7%258d%25e0%25a6%259c%25e0%25a6%25bf%25e0%25a6%25a8%25e0%25a6%25bf%25e0%25a7%259f%25e0%25a6%25be%25e0%25a6%25b0%2F&format=xml
+21:06:27	Warning: 	HTML file (13697 bytes) retransferred due to lack of cache: https://www.careerki.com/সাপোর্ট-ইঞ্জিনিয়ার/
+21:06:27	Warning: 	HTML file (15281 bytes) retransferred due to lack of cache: https://www.careerki.com/ফিল্ড-অর্গানাইজার/
+21:06:28	Warning: 	HTML file (15801 bytes) retransferred due to lack of cache: https://www.careerki.com/বিসিএস-রেলওয়ে-পরিবহন-ও-বাণিজ্যিক/
+21:06:29	Warning: 	HTML file (14624 bytes) retransferred due to lack of cache: https://www.careerki.com/রেভিনিউ-অফিসার/
+21:06:29	Warning: 	HTML file (15933 bytes) retransferred due to lack of cache: https://www.careerki.com/হোটেল-রিসেপশনিস্ট/
+21:06:31	Warning: 	HTML file (15006 bytes) retransferred due to lack of cache: https://www.careerki.com/বায়োকেমিস্ট/
+21:06:31	Warning: 	HTML file (13699 bytes) retransferred due to lack of cache: https://www.careerki.com/রাইড-অপারেটর/
+21:06:32	Warning: 	HTML file (16573 bytes) retransferred due to lack of cache: https://www.careerki.com/ফ্যাক্টরি-ম্যানেজার/
+21:06:34	Warning: 	HTML file (16377 bytes) retransferred due to lack of cache: https://www.careerki.com/ক্যাপাসিটি-বিল্ডিং-টেকনিক্যাল-অফিসার/
+21:06:36	Warning: 	HTML file (15461 bytes) retransferred due to lack of cache: https://www.careerki.com/রিসার্চ-অ্যাসিস্ট্যান্ট/
+21:06:36	Warning: 	HTML file (16683 bytes) retransferred due to lack of cache: https://www.careerki.com/ক্রিকেট-কোচ/
+21:06:37	Warning: 	HTML file (14554 bytes) retransferred due to lack of cache: https://www.careerki.com/সিকিউরিটি-ইনচার্জ/
+21:06:38	Warning: 	HTML file (14409 bytes) retransferred due to lack of cache: https://www.careerki.com/কমপ্লায়েন্স-অফিসার/
+21:06:38	Warning: 	HTML file (15400 bytes) retransferred due to lack of cache: https://www.careerki.com/বিসিএস-ইকনমিক/
+21:06:39	Warning: 	HTML file (15796 bytes) retransferred due to lack of cache: https://www.careerki.com/বিসিএস-খাদ্য/
+21:06:40	Warning: 	HTML file (14753 bytes) retransferred due to lack of cache: https://www.careerki.com/ট্রেজারার/
+21:06:42	Warning: 	HTML file (16384 bytes) retransferred due to lack of cache: https://www.careerki.com/পেডিয়াট্রিক-নিউরোলজিস্ট/
+21:06:43	Warning: 	HTML file (15738 bytes) retransferred due to lack of cache: https://www.careerki.com/পালমোনোলজিস্ট/
+21:06:45	Warning: 	HTML file (16341 bytes) retransferred due to lack of cache: https://www.careerki.com/বিসিএস-রেলওয়ে-ইঞ্জিনিয়ারিং/
+21:06:46	Warning: 	HTML file (16652 bytes) retransferred due to lack of cache: https://www.careerki.com/ইন্টারপ্রেটার/
+21:06:46	Warning: 	HTML file (16083 bytes) retransferred due to lack of cache: https://www.careerki.com/সোশ্যাল-মিডিয়া-ম্যানেজার/
+21:06:49	Warning: 	HTML file (15950 bytes) retransferred due to lack of cache: https://www.careerki.com/জেন্ডার-কোঅর্ডিনেটর/
+21:06:53	Warning: 	HTML file (15341 bytes) retransferred due to lack of cache: https://www.careerki.com/ইমিগ্রেশন-কনসালট্যান্ট/
+21:06:54	Warning: 	HTML file (16504 bytes) retransferred due to lack of cache: https://www.careerki.com/আর্কিটেক্ট/
+21:06:57	Warning: 	HTML file (14642 bytes) retransferred due to lack of cache: https://www.careerki.com/পার্সোনাল-অ্যাসিস্ট্যান্ট/
+21:06:58	Warning: 	HTML file (14542 bytes) retransferred due to lack of cache: https://www.careerki.com/ফিল্ড-ইনিউমারেটর/
+21:07:01	Warning: 	HTML file (15209 bytes) retransferred due to lack of cache: https://www.careerki.com/ইন্ডাস্ট্রিয়াল-অ্যান্ড-অর্গানাইজেশনাল-সাইকোলজিস্ট/
+21:07:02	Warning: 	HTML file (15574 bytes) retransferred due to lack of cache: https://www.careerki.com/নেফ্রোলজিস্ট/
+21:07:04	Warning: 	HTML file (16266 bytes) retransferred due to lack of cache: https://www.careerki.com/বিসিএস-ফরেস্ট্রি/
+21:07:04	Warning: 	HTML file (15340 bytes) retransferred due to lack of cache: https://www.careerki.com/সিকিউরিটি-অফিসার/
+21:07:05	Warning: 	HTML file (16206 bytes) retransferred due to lack of cache: https://www.careerki.com/ফটোসাংবাদিক/
+21:07:05	Warning: 	HTML file (17993 bytes) retransferred due to lack of cache: https://www.careerki.com/সাইকোলজিস্ট/
+21:07:07	Warning: 	HTML file (15410 bytes) retransferred due to lack of cache: https://www.careerki.com/বিসিএস-ডাক/
+21:07:07	Warning: 	HTML file (14437 bytes) retransferred due to lack of cache: https://www.careerki.com/ওয়েডিং-ফটোগ্রাফার/
+21:07:07	Warning: 	file not stored in cache due to bogus state (incomplete type with OK (200), size 2833): https://www.careerki.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.careerki.com%2F%25e0%25a6%25b8%25e0%25a6%25b9%25e0%25a6%2595%25e0%25a6%25be%25e0%25a6%25b0%25e0%25a7%2580-%25e0%25a6%259c%25e0%25a6%259c%2F&format=xml
+21:07:08	Warning: 	HTML file (16964 bytes) retransferred due to lack of cache: https://www.careerki.com/এমবিবিএস-ডাক্তার/
+21:07:08	Warning: 	HTML file (15541 bytes) retransferred due to lack of cache: https://www.careerki.com/প্রযোজক/
+21:07:09	Warning: 	HTML file (17613 bytes) retransferred due to lack of cache: https://www.careerki.com/বিসিএস-অ্যাডমিন/
+21:07:10	Warning: 	HTML file (16281 bytes) retransferred due to lack of cache: https://www.careerki.com/আইনজীবী/
+21:07:10	Warning: 	HTML file (16600 bytes) retransferred due to lack of cache: https://www.careerki.com/প্যালিয়েটিভ-কেয়ার-বিশেষজ্ঞ/
+21:07:11	Warning: 	HTML file (16159 bytes) retransferred due to lack of cache: https://www.careerki.com/লাইব্রেরিয়ান/
+21:07:13	Warning: 	HTML file (15476 bytes) retransferred due to lack of cache: https://www.careerki.com/বিসিএস-কাস্টমস/
+21:07:15	Warning: 	HTML file (13742 bytes) retransferred due to lack of cache: https://www.careerki.com/ফায়ারম্যান/
+21:07:16	Warning: 	HTML file (16956 bytes) retransferred due to lack of cache: https://www.careerki.com/ফুল-স্ট্যাক-ডেভেলপার/
+21:07:17	Warning: 	HTML file (15362 bytes) retransferred due to lack of cache: https://www.careerki.com/আয়কর-আইনজীবী/
+21:07:18	Warning: 	HTML file (16071 bytes) retransferred due to lack of cache: https://www.careerki.com/পল্লী-উন্নয়ন-কর্মকর্তা/
+21:07:18	Warning: 	HTML file (14293 bytes) retransferred due to lack of cache: https://www.careerki.com/ডেলিভারিম্যান/
+21:07:20	Warning: 	HTML file (14321 bytes) retransferred due to lack of cache: https://www.careerki.com/মালি/
+21:07:21	Warning: 	HTML file (17606 bytes) retransferred due to lack of cache: https://www.careerki.com/ট্রাভেল-গাইড/
+21:07:24	Warning: 	HTML file (15896 bytes) retransferred due to lack of cache: https://www.careerki.com/প্লাস্টিক-সার্জন/
+21:07:25	Warning: 	HTML file (16198 bytes) retransferred due to lack of cache: https://www.careerki.com/ফিজিক্যাল-ট্রেইনার/
+21:07:25	Warning: 	HTML file (14845 bytes) retransferred due to lack of cache: https://www.careerki.com/ইতিহাসবিদ/
+21:07:28	Warning: 	HTML file (16459 bytes) retransferred due to lack of cache: https://www.careerki.com/কৃষি-অফিসার-হর্টিকালচার/
+21:07:33	Warning: 	HTML file (14954 bytes) retransferred due to lack of cache: https://www.careerki.com/কার্টুনিস্ট/
+21:07:34	Warning: 	HTML file (15976 bytes) retransferred due to lack of cache: https://www.careerki.com/ইলেকট্রিক্যাল-ইঞ্জিনিয়ার/
+21:07:34	Warning: 	HTML file (13607 bytes) retransferred due to lack of cache: https://www.careerki.com/প্লাম্বার/
+21:07:36	Warning: 	HTML file (16149 bytes) retransferred due to lack of cache: https://www.careerki.com/অনকোলজিস্ট/
+21:07:42	Warning: 	HTML file (16299 bytes) retransferred due to lack of cache: https://www.careerki.com/পেডিয়াট্রিক-নিউরোসার্জন/
+21:07:42	Warning: 	HTML file (14161 bytes) retransferred due to lack of cache: https://www.careerki.com/পার্টনারশিপ-অফিসার/
+21:07:43	Warning: 	HTML file (15407 bytes) retransferred due to lack of cache: https://www.careerki.com/হাসপাতাল-রেজিস্ট্রার/
+21:07:44	Warning: 	HTML file (15589 bytes) retransferred due to lack of cache: https://www.careerki.com/রিস্ক-ম্যানেজমেন্ট-অ্যানালিস্ট/
+21:07:46	Warning: 	HTML file (16597 bytes) retransferred due to lack of cache: https://www.careerki.com/কার্টোগ্রাফার/
+21:07:47	Warning: 	HTML file (14751 bytes) retransferred due to lack of cache: https://www.careerki.com/ফায়ার-ইঞ্জিনিয়ার/
+21:07:48	Warning: 	HTML file (14294 bytes) retransferred due to lack of cache: https://www.careerki.com/কমি-শেফ/
+21:07:49	Error: 	"Error when decompressing" (-1) at link https://www.careerki.com/category/ক্যারিয়ার-প্রোফাইল/page/2/ (from https://www.careerki.com/category/ক্যারিয়ার-প্রোফাইল/)
+21:07:55	Warning: 	HTML file (15027 bytes) retransferred due to lack of cache: https://www.careerki.com/ফুড-সায়েন্টিস্ট/
+21:07:55	Warning: 	HTML file (13552 bytes) retransferred due to lack of cache: https://www.careerki.com/বুক-বাইন্ডার/
+21:08:03	Warning: 	HTML file (15498 bytes) retransferred due to lack of cache: https://www.careerki.com/ল্যাঙ্গুয়েজ-ইন্সট্রাক্টর/
+21:08:03	Warning: 	HTML file (16204 bytes) retransferred due to lack of cache: https://www.careerki.com/হেপাটোবিলিয়ারি-সার্জন/
+21:08:04	Warning: 	HTML file (13869 bytes) retransferred due to lack of cache: https://www.careerki.com/সোয়িং-সুপারভাইজার/
+21:08:05	Warning: 	HTML file (15562 bytes) retransferred due to lack of cache: https://www.careerki.com/রাষ্ট্রদূত/
+21:08:06	Warning: 	HTML file (14049 bytes) retransferred due to lack of cache: https://www.careerki.com/নেটওয়ার্ক-টেকনিশিয়ান/
+21:08:07	Warning: 	HTML file (16329 bytes) retransferred due to lack of cache: https://www.careerki.com/ওয়েব-ডেভেলপার/
+21:08:08	Warning: 	HTML file (14668 bytes) retransferred due to lack of cache: https://www.careerki.com/ডকুমেন্টেশন-অফিসার/
+21:08:10	Warning: 	HTML file (15668 bytes) retransferred due to lack of cache: https://www.careerki.com/ভিডিও-এডিটর/
+21:08:11	Warning: 	HTML file (15592 bytes) retransferred due to lack of cache: https://www.careerki.com/পাইলট/
+21:08:11	Warning: 	HTML file (16057 bytes) retransferred due to lack of cache: https://www.careerki.com/হাউসকিপিং-সুপারভাইজার/
+21:08:13	Warning: 	HTML file (13593 bytes) retransferred due to lack of cache: https://www.careerki.com/লেদ-মেশিন-টেকনিশিয়ান/
+21:08:16	Warning: 	HTML file (15914 bytes) retransferred due to lack of cache: https://www.careerki.com/সাইট-ম্যানেজমেন্ট-সাপোর্ট-অফিসার/
+21:08:17	Warning: 	HTML file (15659 bytes) retransferred due to lack of cache: https://www.careerki.com/রিসার্চ-অ্যান্ড-ডেভেলপমেন্ট-অফিসার/
+21:08:18	Warning: 	HTML file (16847 bytes) retransferred due to lack of cache: https://www.careerki.com/সনোলজিস্ট/
+21:08:24	Warning: 	HTML file (14130 bytes) retransferred due to lack of cache: https://www.careerki.com/ক্যাটারিং-সুপারভাইজার/
+21:08:25	Warning: 	HTML file (15514 bytes) retransferred due to lack of cache: https://www.careerki.com/সাইবার-সিকিউরিটি-অ্যানালিস্ট/
+21:08:26	Warning: 	HTML file (16062 bytes) retransferred due to lack of cache: https://www.careerki.com/পাবলিক-রিলেশনস-অফিসার/
+21:08:32	Warning: 	HTML file (14746 bytes) retransferred due to lack of cache: https://www.careerki.com/চিফ-ব্র্যান্ডিং-অফিসার/
+21:08:32	Warning: 	HTML file (16320 bytes) retransferred due to lack of cache: https://www.careerki.com/ডার্মাটোলজিস্ট/
+21:08:36	Warning: 	HTML file (13889 bytes) retransferred due to lack of cache: https://www.careerki.com/কেয়ারটেকার/
+21:08:37	Warning: 	HTML file (15035 bytes) retransferred due to lack of cache: https://www.careerki.com/ডাইং-টেকনিশিয়ান/
+21:08:41	Warning: 	HTML file (16135 bytes) retransferred due to lack of cache: https://www.careerki.com/এন্ডোক্রাইনোলজিস্ট/
+21:08:43	Warning: 	HTML file (15160 bytes) retransferred due to lack of cache: https://www.careerki.com/ট্রান্সপোর্ট-ম্যানেজার/
+21:08:46	Warning: 	HTML file (16122 bytes) retransferred due to lack of cache: https://www.careerki.com/চিফ-এক্সিকিউটিভ-অফিসার/
+21:08:48	Warning: 	HTML file (15343 bytes) retransferred due to lack of cache: https://www.careerki.com/লেবার-ইন্সপেক্টর/
+21:08:50	Warning: 	HTML file (15035 bytes) retransferred due to lack of cache: https://www.careerki.com/ক্যাপিটাল-মার্কেট-অ্যানালিস্ট/
+21:08:51	Warning: 	HTML file (15411 bytes) retransferred due to lack of cache: https://www.careerki.com/মেকআপ-আর্টিস্ট-শোবিজ/
+21:09:01	Warning: 	HTML file (15449 bytes) retransferred due to lack of cache: https://www.careerki.com/ট্রেডার/
+21:09:02	Warning: 	HTML file (17245 bytes) retransferred due to lack of cache: https://www.careerki.com/কমার্শিয়াল-ড্রাইভার/
+21:09:04	Warning: 	HTML file (16087 bytes) retransferred due to lack of cache: https://www.careerki.com/গ্যাস্ট্রোএন্টারোলজিস্ট/
+21:09:06	Warning: 	HTML file (16415 bytes) retransferred due to lack of cache: https://www.careerki.com/পেডিয়াট্রিক-সার্জন/
+21:09:15	Warning: 	HTML file (17496 bytes) retransferred due to lack of cache: https://www.careerki.com/মেরিন-ইঞ্জিনিয়ার/
+21:09:16	Warning: 	HTML file (13372 bytes) retransferred due to lack of cache: https://www.careerki.com/ওয়েল্ডার/
+21:09:17	Warning: 	HTML file (15425 bytes) retransferred due to lack of cache: https://www.careerki.com/হেয়ার-স্টাইলিস্ট/
+21:09:33	Warning: 	HTML file (15886 bytes) retransferred due to lack of cache: https://www.careerki.com/ডাটা-অ্যানালিস্ট/
+21:09:36	Warning: 	HTML file (16016 bytes) retransferred due to lack of cache: https://www.careerki.com/থোরাসিক-সার্জন/
+21:09:41	Warning: 	HTML file (17687 bytes) retransferred due to lack of cache: https://www.careerki.com/কন্টেন্ট-রাইটার/
+21:09:57	Warning: 	HTML file (15053 bytes) retransferred due to lack of cache: https://www.careerki.com/বিসিএস-সমবায়/
+21:10:10	Warning: 	HTML file (17490 bytes) retransferred due to lack of cache: https://www.careerki.com/সিভিল-ইঞ্জিনিয়ার/
+21:10:14	Warning: 	HTML file (16268 bytes) retransferred due to lack of cache: https://www.careerki.com/বিসিএস-কর/
+21:10:16	Warning: 	HTML file (13919 bytes) retransferred due to lack of cache: https://www.careerki.com/সিকিউরিটি-গার্ড/
+21:10:21	Warning: 	HTML file (16269 bytes) retransferred due to lack of cache: https://www.careerki.com/হেপাটোলজিস্ট/
+21:10:23	Warning: 	HTML file (14740 bytes) retransferred due to lack of cache: https://www.careerki.com/সেলস-ম্যানেজার/
+21:10:25	Warning: 	HTML file (14169 bytes) retransferred due to lack of cache: https://www.careerki.com/সোলার-টেকনিশিয়ান/
+21:10:28	Warning: 	HTML file (14367 bytes) retransferred due to lack of cache: https://www.careerki.com/পাম্প-অপারেটর/
+21:10:33	Warning: 	HTML file (15168 bytes) retransferred due to lack of cache: https://www.careerki.com/চিফ-মার্কেটিং-অফিসার/
+21:10:39	Warning: 	HTML file (16461 bytes) retransferred due to lack of cache: https://www.careerki.com/নিউরোসার্জন/
+21:10:49	Warning: 	Moved Permanently for https://www.careerki.com/?p=8016
+21:10:49	Warning: 	File has moved from https://www.careerki.com/?p=8016 to https://www.careerki.com/careerki-psychometric-test/
+21:10:55	Warning: 	Moved Permanently for https://www.careerki.com/?p=7947
+21:10:55	Warning: 	File has moved from https://www.careerki.com/?p=7947 to https://www.careerki.com/careerki-events/
+21:11:07	Warning: 	Moved Permanently for https://www.careerki.com/?p=26483
+21:11:07	Warning: 	File has moved from https://www.careerki.com/?p=26483 to https://www.careerki.com/%e0%a6%97%e0%a6%be%e0%a6%a8%e0%a6%ae%e0%a7%8d%e0%a6%af%e0%a6%be%e0%a6%a8/
+21:11:08	Error: 	"Method Not Allowed" (405) at link https://www.careerki.com/xmlrpc.php (from https://www.careerki.com/গানম্যান/)
+21:11:11	Warning: 	Moved Permanently for https://www.careerki.com/?p=26224
+21:11:11	Warning: 	File has moved from https://www.careerki.com/?p=26224 to https://www.careerki.com/%e0%a6%b8%e0%a6%be%e0%a6%89%e0%a6%a8%e0%a7%8d%e0%a6%a1-%e0%a6%87%e0%a6%9e%e0%a7%8d%e0%a6%9c%e0%a6%bf%e0%a6%a8%e0%a6%bf%e0%a7%9f%e0%a6%be%e0%a6%b0/
+21:11:15	Warning: 	Moved Permanently for https://www.careerki.com/?p=26538
+21:11:15	Warning: 	File has moved from https://www.careerki.com/?p=26538 to https://www.careerki.com/%e0%a6%aa%e0%a6%bf%e0%a7%9f%e0%a6%a8/
+21:11:17	Warning: 	HTML file (15558 bytes) retransferred due to lack of cache: https://www.careerki.com/সহকারী-পরিচালক-বাংলাদেশ-ব্যাংক/
+21:11:17	Warning: 	Moved Permanently for https://www.careerki.com/?p=26707
+21:11:17	Warning: 	File has moved from https://www.careerki.com/?p=26707 to https://www.careerki.com/%e0%a6%ac%e0%a6%bf%e0%a6%b8%e0%a6%bf%e0%a6%8f%e0%a6%b8-%e0%a6%aa%e0%a6%b0%e0%a6%bf%e0%a6%ac%e0%a6%be%e0%a6%b0-%e0%a6%aa%e0%a6%b0%e0%a6%bf%e0%a6%95%e0%a6%b2%e0%a7%8d%e0%a6%aa%e0%a6%a8%e0%a6%be/
+21:11:20	Error: 	"Error when decompressing" (-1) at link https://www.careerki.com/category/ক্যারিয়ার-গাইড/চাকরির-খোঁজ-ও-প্রস্তুতি/ (from https://www.careerki.com/category/চাকরির-খোঁজ-ও-প্রস্তুতি/)
+21:11:20	Error: 	"Error when decompressing" (-1) at link https://www.careerki.com/category/ক্যারিয়ার-গাইড/স্কিল-ডেভেলপমেন্ট/ (from https://www.careerki.com/category/%e0%a6%b8%e0%a7%8d%e0%a6%95%e0%a6%bf%e0%a6%b2-%e0%a6%a1%e0%a7%87%e0%a6%ad%e0%a7%87%e0%a6%b2%e0%a6%aa%e0%a6%ae%e0%a7%87%e0%a6%a8%e0%a7%8d%e0%a6%9f/)
+21:11:20	Error: 	"Error when decompressing" (-1) at link https://www.careerki.com/category/ক্যারিয়ার-গাইড/উদ্যোগ-ও-উদ্যোক্তা/ (from https://www.careerki.com/category/উদ্যোগ-ও-উদ্যোক্তা/)
+21:11:20	Warning: 	Moved Permanently for https://www.careerki.com/?p=25450
+21:11:20	Warning: 	File has moved from https://www.careerki.com/?p=25450 to https://www.careerki.com/%e0%a6%b8%e0%a6%be%e0%a6%82%e0%a6%ac%e0%a6%be%e0%a6%a6%e0%a6%bf%e0%a6%95%e0%a6%a4%e0%a6%be%e0%a6%b0-%e0%a6%aa%e0%a7%8d%e0%a6%b0%e0%a6%95%e0%a6%be%e0%a6%b0%e0%a6%ad%e0%a7%87%e0%a6%a6-%e0%a6%87%e0%a6%a8%e0%a6%ab%e0%a7%8b%e0%a6%97%e0%a7%8d%e0%a6%b0%e0%a6%be%e0%a6%ab%e0%a6%bf%e0%a6%95/
+21:11:22	Error: 	"Error when decompressing" (-1) at link https://www.careerki.com/tag/মিডিয়াতে-চাকরি/ (from https://www.careerki.com/সাংবাদিকতার-প্রকারভেদ-ইনফোগ্রাফিক/)
+21:11:24	Warning: 	Moved Permanently for https://www.careerki.com/?p=25443
+21:11:24	Warning: 	File has moved from https://www.careerki.com/?p=25443 to https://www.careerki.com/%e0%a6%ac%e0%a6%be%e0%a6%82%e0%a6%b2%e0%a6%be%e0%a6%a6%e0%a7%87%e0%a6%b6-%e0%a6%b8%e0%a6%bf%e0%a6%ad%e0%a6%bf%e0%a6%b2-%e0%a6%b8%e0%a6%be%e0%a6%b0%e0%a7%8d%e0%a6%ad%e0%a6%bf%e0%a6%b8-%e0%a6%95%e0%a7%8d%e0%a6%af%e0%a6%be%e0%a6%a1%e0%a6%be%e0%a6%b0-%e0%a7%a8-%e0%a6%87%e0%a6%a8%e0%a6%ab%e0%a7%8b%e0%a6%97%e0%a7%8d%e0%a6%b0%e0%a6%be%e0%a6%ab%e0%a6%bf%e0%a6%95/
+21:11:26	Warning: 	Moved Permanently for https://www.careerki.com/?p=25578
+21:11:26	Warning: 	File has moved from https://www.careerki.com/?p=25578 to https://www.careerki.com/%e0%a6%ac%e0%a6%bf%e0%a6%9c%e0%a7%8d%e0%a6%9e%e0%a6%be%e0%a6%aa%e0%a6%a8%e0%a7%80-%e0%a6%b8%e0%a6%82%e0%a6%b8%e0%a7%8d%e0%a6%a5%e0%a6%be%e0%a7%9f-%e0%a6%95%e0%a6%be%e0%a6%9c%e0%a7%87%e0%a6%b0-%e0%a6%95%e0%a7%8d%e0%a6%b7%e0%a7%87%e0%a6%a4%e0%a7%8d%e0%a6%b0-%e0%a6%87%e0%a6%a8%e0%a6%ab%e0%a7%8b%e0%a6%97%e0%a7%8d%e0%a6%b0%e0%a6%be%e0%a6%ab%e0%a6%bf%e0%a6%95/
+21:11:26	Warning: 	Moved Permanently for https://www.careerki.com/?p=25461
+21:11:26	Warning: 	File has moved from https://www.careerki.com/?p=25461 to https://www.careerki.com/%e0%a6%95%e0%a6%be%e0%a6%b0%e0%a6%bf%e0%a6%97%e0%a6%b0%e0%a6%bf-%e0%a6%b6%e0%a6%bf%e0%a6%95%e0%a7%8d%e0%a6%b7%e0%a6%be%e0%a6%b0-%e0%a6%ac%e0%a6%bf%e0%a6%ad%e0%a6%bf%e0%a6%a8%e0%a7%8d%e0%a6%a8-%e0%a6%ac%e0%a6%bf%e0%a6%b7%e0%a7%9f-%e0%a6%87%e0%a6%a8%e0%a6%ab%e0%a7%8b%e0%a6%97%e0%a7%8d%e0%a6%b0%e0%a6%be%e0%a6%ab%e0%a6%bf%e0%a6%95/
+21:11:27	Warning: 	HTML file (15491 bytes) retransferred due to lack of cache: https://www.careerki.com/দমকল-কর্মী/
+21:11:29	Warning: 	Moved Permanently for https://www.careerki.com/?p=7695
+21:11:29	Warning: 	File has moved from https://www.careerki.com/?p=7695 to https://www.careerki.com/about-us/
+21:11:33	Warning: 	Moved Permanently for https://www.careerki.com/?p=8336
+21:11:33	Warning: 	File has moved from https://www.careerki.com/?p=8336 to https://www.careerki.com/provide-your-feedback/
+21:11:34	Warning: 	Moved Permanently for https://www.careerki.com/?p=24
+21:11:34	Warning: 	File has moved from https://www.careerki.com/?p=24 to https://www.careerki.com/contact/
+21:11:35	Warning: 	HTML file (15506 bytes) retransferred due to lack of cache: https://www.careerki.com/সয়েল-সায়েন্টিস্ট/
+21:11:36	Warning: 	Moved Permanently for https://www.careerki.com/?p=8382
+21:11:36	Warning: 	File has moved from https://www.careerki.com/?p=8382 to https://www.careerki.com/terms-of-service/
+21:11:36	Warning: 	Moved Permanently for https://www.careerki.com/?p=8378
+21:11:36	Warning: 	File has moved from https://www.careerki.com/?p=8378 to https://www.careerki.com/privacy-policy/
+21:11:38	Warning: 	HTML file (16031 bytes) retransferred due to lack of cache: https://www.careerki.com/কিউরেটর/
+21:11:38	Warning: 	HTML file (16572 bytes) retransferred due to lack of cache: https://www.careerki.com/মার্চেন্ডাইজার/
+21:11:40	Warning: 	HTML file (13896 bytes) retransferred due to lack of cache: https://www.careerki.com/গার্মেন্টস-শিল্পের-বিভিন্ন-বিভাগ/
+21:11:42	Warning: 	HTML file (16335 bytes) retransferred due to lack of cache: https://www.careerki.com/মার্কেট-রিসার্চ-অ্যানালিস্ট/
+21:11:43	Warning: 	HTML file (14680 bytes) retransferred due to lack of cache: https://www.careerki.com/ডিস্ট্রিবিউশন-ম্যানেজার/
+21:11:43	Warning: 	HTML file (16128 bytes) retransferred due to lack of cache: https://www.careerki.com/বিসিএস-পররাষ্ট্র/
+21:11:45	Warning: 	HTML file (15820 bytes) retransferred due to lack of cache: https://www.careerki.com/ডেন্টাল-অ্যাসিস্ট্যান্ট/
+21:11:46	Warning: 	HTML file (16003 bytes) retransferred due to lack of cache: https://www.careerki.com/ইএনটি-বিশেষজ্ঞ/
+21:11:48	Warning: 	HTML file (16269 bytes) retransferred due to lack of cache: https://www.careerki.com/অ্যানেসথেটিস্ট/
+21:11:50	Warning: 	HTML file (16022 bytes) retransferred due to lack of cache: https://www.careerki.com/মেডিকেল-রিপ্রেজেন্টেটিভ/
+21:11:56	Warning: 	HTML file (15156 bytes) retransferred due to lack of cache: https://www.careerki.com/শিশুরোগ-বিশেষজ্ঞ/
+21:12:17	Warning: 	Moved Permanently for https://www.careerki.com/?p=29495
+21:12:17	Warning: 	File has moved from https://www.careerki.com/?p=29495 to https://www.careerki.com/%e0%a6%a8%e0%a6%95%e0%a6%b6%e0%a6%bf%e0%a6%95%e0%a6%be%e0%a6%81%e0%a6%a5%e0%a6%be-%e0%a6%95%e0%a6%be%e0%a6%b0%e0%a6%bf%e0%a6%97%e0%a6%b0/
+21:12:17	Warning: 	Moved Permanently for https://www.careerki.com/?p=29483
+21:12:17	Warning: 	File has moved from https://www.careerki.com/?p=29483 to https://www.careerki.com/%e0%a6%9f%e0%a7%8d%e0%a6%af%e0%a7%81%e0%a6%b0-%e0%a6%97%e0%a6%be%e0%a6%87%e0%a6%a1/
+21:12:18	Warning: 	Moved Permanently for https://www.careerki.com/?p=29248
+21:12:18	Warning: 	File has moved from https://www.careerki.com/?p=29248 to https://www.careerki.com/%e0%a6%aa%e0%a7%8d%e0%a6%b0%e0%a7%8b%e0%a6%a1%e0%a6%be%e0%a6%95%e0%a7%8d%e0%a6%9f-%e0%a6%ae%e0%a7%8d%e0%a6%af%e0%a6%be%e0%a6%a8%e0%a7%87%e0%a6%9c%e0%a6%be%e0%a6%b0-%e0%a6%93-%e0%a6%aa%e0%a7%8d%e0%a6%b0%e0%a6%9c%e0%a7%87%e0%a6%95%e0%a7%8d%e0%a6%9f-%e0%a6%ae%e0%a7%8d%e0%a6%af%e0%a6%be%e0%a6%a8%e0%a7%87%e0%a6%9c%e0%a6%be%e0%a6%b0%e0%a7%87%e0%a6%b0-%e0%a6%ae%e0%a6%a7%e0%a7%8d%e0%a6%af%e0%a7%87-%e0%a6%aa%e0%a6%be%e0%a6%b0%e0%a7%8d%e0%a6%a5%e0%a6%95%e0%a7%8d%e0%a6%af/
+21:12:18	Error: 	"Error when decompressing" (-1) at link https://www.careerki.com/category/ক্যারিয়ার-গাইড/ব্যবস্থাপনা/ (from https://www.careerki.com/প্রোডাক্ট-ম্যানেজার-ও-প্রজেক্ট-ম্যানেজারের-মধ্যে-পার্থক্য/)
+21:12:20	Warning: 	Moved Permanently for https://www.careerki.com/?p=29243
+21:12:20	Warning: 	File has moved from https://www.careerki.com/?p=29243 to https://www.careerki.com/%e0%a6%aa%e0%a6%a6%e0%a6%be%e0%a6%b0%e0%a7%8d%e0%a6%a5%e0%a6%ac%e0%a6%bf%e0%a6%9c%e0%a7%8d%e0%a6%9e%e0%a6%be%e0%a6%a8%e0%a7%87-%e0%a6%95%e0%a7%8d%e0%a6%af%e0%a6%be%e0%a6%b0%e0%a6%bf%e0%a7%9f%e0%a6%be%e0%a6%b0/
+21:12:20	Warning: 	Moved Permanently for https://www.careerki.com/?p=29241
+21:12:20	Warning: 	File has moved from https://www.careerki.com/?p=29241 to https://www.careerki.com/%e0%a6%85%e0%a6%a1%e0%a6%bf%e0%a6%9f-%e0%a6%95%e0%a6%bf%e0%a6%82%e0%a6%ac%e0%a6%be-%e0%a6%85%e0%a6%a1%e0%a6%bf%e0%a6%9f%e0%a6%bf%e0%a6%82-%e0%a6%a8%e0%a6%bf%e0%a7%9f%e0%a7%87-%e0%a6%95%e0%a6%be%e0%a6%9c/
+21:12:22	Warning: 	HTML file (14257 bytes) retransferred due to lack of cache: https://www.careerki.com/সচিব/
+21:12:25	Warning: 	Moved Permanently for https://www.careerki.com/?p=29238
+21:12:25	Warning: 	File has moved from https://www.careerki.com/?p=29238 to https://www.careerki.com/%e0%a6%86%e0%a6%87%e0%a6%9f%e0%a6%bf-%e0%a6%b8%e0%a7%87%e0%a6%95%e0%a7%8d%e0%a6%9f%e0%a6%b0%e0%a7%87-%e0%a6%95%e0%a7%8d%e0%a6%af%e0%a6%be%e0%a6%b0%e0%a6%bf%e0%a7%9f%e0%a6%be%e0%a6%b0/
+21:12:27	Warning: 	Moved Permanently for https://www.careerki.com/?p=29506
+21:12:27	Warning: 	File has moved from https://www.careerki.com/?p=29506 to https://www.careerki.com/%e0%a6%95%e0%a6%a8%e0%a6%b8%e0%a7%8d%e0%a6%9f%e0%a7%8d%e0%a6%b0%e0%a6%be%e0%a6%95%e0%a6%b6%e0%a6%a8-%e0%a6%87%e0%a6%b2%e0%a7%87%e0%a6%95%e0%a6%9f%e0%a7%8d%e0%a6%b0%e0%a6%bf%e0%a6%b6%e0%a6%bf%e0%a7%9f%e0%a6%be%e0%a6%a8/
+21:12:28	Warning: 	Moved Permanently for https://www.careerki.com/?p=29504
+21:12:28	Warning: 	File has moved from https://www.careerki.com/?p=29504 to https://www.careerki.com/%e0%a6%9f%e0%a6%bf%e0%a6%95%e0%a7%87%e0%a6%9f-%e0%a6%ae%e0%a7%8d%e0%a6%af%e0%a6%be%e0%a6%a8%e0%a7%87%e0%a6%9c%e0%a6%be%e0%a6%b0/
+21:12:29	Warning: 	Moved Permanently for https://www.careerki.com/?p=28820
+21:12:29	Warning: 	File has moved from https://www.careerki.com/?p=28820 to https://www.careerki.com/%e0%a6%ab%e0%a7%81%e0%a6%b2%e0%a7%87%e0%a6%b0-%e0%a6%ac%e0%a7%8d%e0%a6%af%e0%a6%ac%e0%a6%b8%e0%a6%be-%e0%a6%95%e0%a7%80%e0%a6%ad%e0%a6%be%e0%a6%ac%e0%a7%87-%e0%a6%95%e0%a6%b0%e0%a6%ac%e0%a7%87%e0%a6%a8/
+21:12:29	Error: 	"Error when decompressing" (-1) at link https://www.careerki.com/tag/ব্যবসা/ (from https://www.careerki.com/ফুলের-ব্যবসা-কীভাবে-করবেন/)
+21:12:31	Warning: 	HTML file (16077 bytes) retransferred due to lack of cache: https://www.careerki.com/ফুটবল-রেফারি/
+21:12:31	Warning: 	Moved Permanently for https://www.careerki.com/?p=28853
+21:12:31	Warning: 	File has moved from https://www.careerki.com/?p=28853 to https://www.careerki.com/%e0%a6%ad%e0%a6%bf%e0%a6%a1%e0%a6%bf%e0%a6%93-%e0%a6%8f%e0%a6%a1%e0%a6%bf%e0%a6%9f%e0%a6%bf%e0%a6%82-%e0%a6%95%e0%a7%8b%e0%a6%b0%e0%a7%8d%e0%a6%b8-%e0%a6%95%e0%a7%8b%e0%a6%a5%e0%a6%be%e0%a7%9f-%e0%a6%95%e0%a6%b0%e0%a6%ac%e0%a7%87%e0%a6%a8/
+21:12:32	Warning: 	Moved Permanently for https://www.careerki.com/?p=28827
+21:12:32	Warning: 	File has moved from https://www.careerki.com/?p=28827 to https://www.careerki.com/%e0%a6%a1%e0%a6%bf%e0%a6%9c%e0%a6%bf%e0%a6%9f%e0%a6%be%e0%a6%b2-%e0%a6%ae%e0%a6%be%e0%a6%b0%e0%a7%8d%e0%a6%95%e0%a7%87%e0%a6%9f%e0%a6%bf%e0%a6%82-%e0%a6%95%e0%a6%a4-%e0%a6%aa%e0%a7%8d%e0%a6%b0%e0%a6%95%e0%a6%be%e0%a6%b0/
+21:12:33	Warning: 	Moved Permanently for https://www.careerki.com/?p=28842
+21:12:33	Warning: 	File has moved from https://www.careerki.com/?p=28842 to https://www.careerki.com/%e0%a6%93%e0%a7%9f%e0%a6%be%e0%a6%b0%e0%a7%8d%e0%a6%a1-%e0%a6%aa%e0%a7%8d%e0%a6%b0%e0%a6%b8%e0%a7%87%e0%a6%b8%e0%a6%bf%e0%a6%82%e0%a7%9f%e0%a7%87%e0%a6%b0-%e0%a6%a8%e0%a6%bf%e0%a7%9f%e0%a6%ae%e0%a6%be%e0%a6%ac%e0%a6%b2%e0%a6%bf/
+21:12:35	Warning: 	Moved Permanently for https://www.careerki.com/?p=28254
+21:12:35	Warning: 	File has moved from https://www.careerki.com/?p=28254 to https://www.careerki.com/%e0%a6%95%e0%a7%8d%e0%a6%af%e0%a6%be%e0%a6%b0%e0%a6%bf%e0%a7%9f%e0%a6%be%e0%a6%b0%e0%a7%87-%e0%a6%ae%e0%a7%87%e0%a6%a8%e0%a7%8d%e0%a6%9f%e0%a6%b0%e0%a7%87%e0%a6%b0-%e0%a6%aa%e0%a7%8d%e0%a6%b0%e0%a7%9f%e0%a7%8b%e0%a6%9c%e0%a6%a8%e0%a7%80%e0%a7%9f%e0%a6%a4%e0%a6%be/
+21:12:35	Warning: 	Moved Permanently for https://www.careerki.com/?p=28251
+21:12:35	Warning: 	File has moved from https://www.careerki.com/?p=28251 to https://www.careerki.com/%e0%a6%b2%e0%a7%87%e0%a6%96%e0%a6%be%e0%a6%b2%e0%a7%87%e0%a6%96%e0%a6%bf%e0%a6%a4%e0%a7%87-%e0%a6%ab%e0%a7%8d%e0%a6%b0%e0%a6%bf%e0%a6%b2%e0%a7%8d%e0%a6%af%e0%a6%be%e0%a6%a8%e0%a7%8d%e0%a6%b8%e0%a6%bf%e0%a6%82/
+21:12:35	Warning: 	Moved Permanently for https://www.careerki.com/?p=28245
+21:12:35	Warning: 	File has moved from https://www.careerki.com/?p=28245 to https://www.careerki.com/%e0%a6%aa%e0%a6%be%e0%a6%b0%e0%a7%8d%e0%a6%9f-%e0%a6%9f%e0%a6%be%e0%a6%87%e0%a6%ae-%e0%a6%9a%e0%a6%be%e0%a6%95%e0%a6%b0%e0%a6%bf%e0%a6%b0-%e0%a6%b8%e0%a7%81%e0%a6%af%e0%a7%8b%e0%a6%97-%e0%a6%95%e0%a7%8b%e0%a6%a5%e0%a6%be%e0%a7%9f-%e0%a6%a5%e0%a6%be%e0%a6%95%e0%a7%87/
+21:12:36	Warning: 	Moved Permanently for https://www.careerki.com/?p=28248
+21:12:36	Warning: 	File has moved from https://www.careerki.com/?p=28248 to https://www.careerki.com/%e0%a6%b9%e0%a6%be%e0%a6%b0%e0%a7%8d%e0%a6%a1-%e0%a6%b8%e0%a7%8d%e0%a6%95%e0%a6%bf%e0%a6%b2-%e0%a6%93-%e0%a6%b8%e0%a6%ab%e0%a6%9f-%e0%a6%b8%e0%a7%8d%e0%a6%95%e0%a6%bf%e0%a6%b2/
+21:12:36	Warning: 	Moved Permanently for https://www.careerki.com/?p=28100
+21:12:36	Warning: 	File has moved from https://www.careerki.com/?p=28100 to https://www.careerki.com/%e0%a6%9c%e0%a6%bf%e0%a6%86%e0%a6%b0%e0%a6%87-%e0%a6%93-%e0%a6%9c%e0%a6%bf%e0%a6%ae%e0%a7%8d%e0%a6%af%e0%a6%be%e0%a6%9f%e0%a7%87%e0%a6%b0-%e0%a6%aa%e0%a7%8d%e0%a6%b0%e0%a6%b8%e0%a7%8d%e0%a6%a4%e0%a7%81%e0%a6%a4%e0%a6%bf/
+21:12:37	Warning: 	Moved Permanently for https://www.careerki.com/?p=28093
+21:12:37	Warning: 	File has moved from https://www.careerki.com/?p=28093 to https://www.careerki.com/%e0%a6%ae%e0%a6%be%e0%a6%b0%e0%a7%8d%e0%a6%95%e0%a6%bf%e0%a6%a8-%e0%a6%af%e0%a7%81%e0%a6%95%e0%a7%8d%e0%a6%a4%e0%a6%b0%e0%a6%be%e0%a6%b7%e0%a7%8d%e0%a6%9f%e0%a7%8d%e0%a6%b0%e0%a7%87-%e0%a6%aa%e0%a7%8b%e0%a6%b8%e0%a7%8d%e0%a6%9f%e0%a6%97%e0%a7%8d%e0%a6%b0%e0%a7%8d%e0%a6%af%e0%a6%be%e0%a6%9c%e0%a7%81%e0%a7%9f%e0%a7%87%e0%a6%b6%e0%a6%a8/
+21:12:39	Warning: 	Moved Permanently for https://www.careerki.com/?p=28087
+21:12:39	Warning: 	File has moved from https://www.careerki.com/?p=28087 to https://www.careerki.com/%e0%a6%95%e0%a7%80%e0%a6%ad%e0%a6%be%e0%a6%ac%e0%a7%87-%e0%a6%95%e0%a6%ad%e0%a6%be%e0%a6%b0-%e0%a6%b2%e0%a7%87%e0%a6%9f%e0%a6%be%e0%a6%b0-%e0%a6%b2%e0%a6%bf%e0%a6%96%e0%a6%ac%e0%a7%87%e0%a6%a8/
+21:12:40	Warning: 	Moved Permanently for https://www.careerki.com/?p=28146
+21:12:40	Warning: 	File has moved from https://www.careerki.com/?p=28146 to https://www.careerki.com/%e0%a6%ac%e0%a6%bf%e0%a6%b8%e0%a6%bf%e0%a6%8f%e0%a6%b8-%e0%a6%aa%e0%a7%8d%e0%a6%b0%e0%a6%bf%e0%a6%b2%e0%a6%bf%e0%a6%ae%e0%a6%bf%e0%a6%a8%e0%a6%be%e0%a6%b0%e0%a6%bf-%e0%a6%aa%e0%a7%8d%e0%a6%b0%e0%a6%b8%e0%a7%8d%e0%a6%a4%e0%a7%81%e0%a6%a4%e0%a6%bf-%e0%a6%97%e0%a6%be%e0%a6%a3%e0%a6%bf%e0%a6%a4%e0%a6%bf%e0%a6%95-%e0%a6%af%e0%a7%81%e0%a6%95%e0%a7%8d%e0%a6%a4%e0%a6%bf-%e0%a6%93-%e0%a6%ae%e0%a6%be%e0%a6%a8%e0%a6%b8%e0%a6%bf%e0%a6%95-%e0%a6%a6%e0%a6%95%e0%a7%8d%e0%a6%b7%e0%a6%a4%e0%a6%be/
+21:12:42	Warning: 	HTML file (16372 bytes) retransferred due to lack of cache: https://www.careerki.com/বিসিএস-গণপূর্ত/
+21:12:42	Warning: 	Moved Permanently for https://www.careerki.com/?p=28144
+21:12:42	Warning: 	File has moved from https://www.careerki.com/?p=28144 to https://www.careerki.com/%e0%a6%ac%e0%a6%bf%e0%a6%b8%e0%a6%bf%e0%a6%8f%e0%a6%b8-%e0%a6%aa%e0%a7%8d%e0%a6%b0%e0%a6%bf%e0%a6%b2%e0%a6%bf%e0%a6%ae%e0%a6%bf%e0%a6%a8%e0%a6%be%e0%a6%b0%e0%a6%bf-%e0%a6%aa%e0%a7%8d%e0%a6%b0%e0%a6%b8%e0%a7%8d%e0%a6%a4%e0%a7%81%e0%a6%a4%e0%a6%bf-%e0%a6%ac%e0%a6%be%e0%a6%82%e0%a6%b2%e0%a6%be%e0%a6%a6%e0%a7%87%e0%a6%b6-%e0%a6%93-%e0%a6%86%e0%a6%a8%e0%a7%8d%e0%a6%a4%e0%a6%b0%e0%a7%8d%e0%a6%9c%e0%a6%be%e0%a6%a4%e0%a6%bf%e0%a6%95-%e0%a6%ac%e0%a6%bf%e0%a6%b7%e0%a7%9f%e0%a6%be%e0%a6%ac%e0%a6%b2%e0%a6%bf/
+21:12:44	Warning: 	Moved Permanently for https://www.careerki.com/?p=28139
+21:12:44	Warning: 	File has moved from https://www.careerki.com/?p=28139 to https://www.careerki.com/%e0%a6%ac%e0%a6%bf%e0%a6%b8%e0%a6%bf%e0%a6%8f%e0%a6%b8-%e0%a6%aa%e0%a7%8d%e0%a6%b0%e0%a6%bf%e0%a6%b2%e0%a6%bf%e0%a6%ae%e0%a6%bf%e0%a6%a8%e0%a6%be%e0%a6%b0%e0%a6%bf-%e0%a6%aa%e0%a7%8d%e0%a6%b0%e0%a6%b8%e0%a7%8d%e0%a6%a4%e0%a7%81%e0%a6%a4%e0%a6%bf-%e0%a6%87%e0%a6%82%e0%a6%b0%e0%a7%87%e0%a6%9c%e0%a6%bf/
+21:12:46	Warning: 	Moved Permanently for https://www.careerki.com/?p=28128
+21:12:46	Warning: 	File has moved from https://www.careerki.com/?p=28128 to https://www.careerki.com/%e0%a6%ac%e0%a6%bf%e0%a6%b8%e0%a6%bf%e0%a6%8f%e0%a6%b8-%e0%a6%aa%e0%a7%8d%e0%a6%b0%e0%a6%bf%e0%a6%b2%e0%a6%bf%e0%a6%ae%e0%a6%bf%e0%a6%a8%e0%a6%be%e0%a6%b0%e0%a6%bf-%e0%a6%aa%e0%a7%8d%e0%a6%b0%e0%a6%b8%e0%a7%8d%e0%a6%a4%e0%a7%81%e0%a6%a4%e0%a6%bf-%e0%a6%ac%e0%a6%be%e0%a6%82%e0%a6%b2%e0%a6%be/
+21:12:47	Warning: 	Moved Permanently for https://www.careerki.com/?p=28113
+21:12:47	Warning: 	File has moved from https://www.careerki.com/?p=28113 to https://www.careerki.com/%e0%a6%b8%e0%a6%bf%e0%a6%ad%e0%a6%bf-%e0%a6%b0%e0%a6%bf%e0%a6%ad%e0%a6%bf%e0%a6%89-%e0%a6%95%e0%a7%80%e0%a6%ad%e0%a6%be%e0%a6%ac%e0%a7%87-%e0%a6%95%e0%a6%b0%e0%a6%ac%e0%a7%87%e0%a6%a8/
+21:12:48	Warning: 	Moved Permanently for https://www.careerki.com/?p=25627
+21:12:48	Warning: 	File has moved from https://www.careerki.com/?p=25627 to https://www.careerki.com/%e0%a6%a1%e0%a6%bf%e0%a6%9c%e0%a6%be%e0%a6%87%e0%a6%a8%e0%a7%87-%e0%a6%ab%e0%a7%8d%e0%a6%b0%e0%a6%bf%e0%a6%b2%e0%a7%8d%e0%a6%af%e0%a6%be%e0%a6%a8%e0%a7%8d%e0%a6%b8%e0%a6%bf%e0%a6%82-%e0%a7%a9-%e0%a6%95%e0%a7%8d%e0%a6%b7%e0%a7%87%e0%a6%a4%e0%a7%8d%e0%a6%b0/
+21:12:48	Error: 	"Not Found" (404) at link https://www.careerki.com/ওয়েব-ডিজাইনার/ (from https://www.careerki.com/ডিজাইনে-ফ্রিল্যান্সিং-৩-ক্ষেত্র/)
+21:12:51	Warning: 	Moved Permanently for https://www.careerki.com/?p=25637
+21:12:51	Warning: 	File has moved from https://www.careerki.com/?p=25637 to https://www.careerki.com/%e0%a6%b6%e0%a6%bf%e0%a6%95%e0%a7%8d%e0%a6%b7%e0%a6%be-%e0%a6%96%e0%a6%be%e0%a6%a4%e0%a7%87-%e0%a6%89%e0%a6%a8%e0%a7%8d%e0%a6%a8%e0%a7%9f%e0%a6%a8-%e0%a6%b8%e0%a6%82%e0%a6%b8%e0%a7%8d%e0%a6%a5%e0%a6%be-%e0%a6%ac%e0%a6%be%e0%a6%82%e0%a6%b2%e0%a6%be%e0%a6%a6%e0%a7%87%e0%a6%b6/
+21:12:51	Error: 	"Error when decompressing" (-1) at link https://www.careerki.com/category/ইন্ডাস্ট্রি/ (from https://www.careerki.com/শিক্ষা-খাতে-উন্নয়ন-সংস্থা-বাংলাদেশ/)
+21:12:52	Warning: 	HTML file (16209 bytes) retransferred due to lack of cache: https://www.careerki.com/কলোরেক্টাল-সার্জন/
+21:12:53	Warning: 	Moved Permanently for https://www.careerki.com/?p=25496
+21:12:53	Warning: 	File has moved from https://www.careerki.com/?p=25496 to https://www.careerki.com/%e0%a6%9a%e0%a6%a4%e0%a7%81%e0%a6%b0%e0%a7%8d%e0%a6%a5-%e0%a6%b6%e0%a6%bf%e0%a6%b2%e0%a7%8d%e0%a6%aa-%e0%a6%ac%e0%a6%bf%e0%a6%aa%e0%a7%8d%e0%a6%b2%e0%a6%ac-%e0%a6%87%e0%a6%a8%e0%a6%ab%e0%a7%8b%e0%a6%97%e0%a7%8d%e0%a6%b0%e0%a6%be%e0%a6%ab%e0%a6%bf%e0%a6%95/
+21:12:55	Warning: 	Moved Permanently for https://www.careerki.com/?p=25483
+21:12:55	Warning: 	File has moved from https://www.careerki.com/?p=25483 to https://www.careerki.com/%e0%a6%ac%e0%a6%be%e0%a6%82%e0%a6%b2%e0%a6%be%e0%a6%a6%e0%a7%87%e0%a6%b6%e0%a7%87%e0%a6%b0-%e0%a6%9c%e0%a6%be%e0%a6%b9%e0%a6%be%e0%a6%9c-%e0%a6%b6%e0%a6%bf%e0%a6%b2%e0%a7%8d%e0%a6%aa-%e0%a6%87%e0%a6%a8%e0%a6%ab%e0%a7%8b%e0%a6%97%e0%a7%8d%e0%a6%b0%e0%a6%be%e0%a6%ab%e0%a6%bf%e0%a6%95/
+21:12:55	Warning: 	Moved Permanently for https://www.careerki.com/?p=25473
+21:12:55	Warning: 	File has moved from https://www.careerki.com/?p=25473 to https://www.careerki.com/%e0%a6%ac%e0%a6%be%e0%a6%82%e0%a6%b2%e0%a6%be%e0%a6%a6%e0%a7%87%e0%a6%b6-%e0%a6%b8%e0%a7%87%e0%a6%a8%e0%a6%be%e0%a6%ac%e0%a6%be%e0%a6%b9%e0%a6%bf%e0%a6%a8%e0%a7%80%e0%a6%b0-%e0%a6%95%e0%a7%8b%e0%a6%b0-%e0%a6%87%e0%a6%a8%e0%a6%ab%e0%a7%8b%e0%a6%97%e0%a7%8d%e0%a6%b0%e0%a6%be%e0%a6%ab%e0%a6%bf%e0%a6%95/
+21:12:56	Warning: 	Moved Permanently for https://www.careerki.com/?p=25471
+21:12:56	Warning: 	File has moved from https://www.careerki.com/?p=25471 to https://www.careerki.com/%e0%a6%ac%e0%a6%be%e0%a6%82%e0%a6%b2%e0%a6%be%e0%a6%a6%e0%a7%87%e0%a6%b6%e0%a7%87%e0%a6%b0-%e0%a6%ac%e0%a7%87%e0%a6%95%e0%a6%be%e0%a6%b0%e0%a6%a4%e0%a7%8d%e0%a6%ac-%e0%a6%b8%e0%a6%ae%e0%a6%b8%e0%a7%8d%e0%a6%af%e0%a6%be-%e0%a6%87%e0%a6%a8%e0%a6%ab%e0%a7%8b%e0%a6%97%e0%a7%8d%e0%a6%b0%e0%a6%be%e0%a6%ab%e0%a6%bf%e0%a6%95/
+21:12:57	Warning: 	Moved Permanently for https://www.careerki.com/?p=25433
+21:12:57	Warning: 	File has moved from https://www.careerki.com/?p=25433 to https://www.careerki.com/%e0%a6%ac%e0%a6%be%e0%a6%82%e0%a6%b2%e0%a6%be%e0%a6%a6%e0%a7%87%e0%a6%b6-%e0%a6%b8%e0%a6%bf%e0%a6%ad%e0%a6%bf%e0%a6%b2-%e0%a6%b8%e0%a6%be%e0%a6%b0%e0%a7%8d%e0%a6%ad%e0%a6%bf%e0%a6%b8-%e0%a6%95%e0%a7%8d%e0%a6%af%e0%a6%be%e0%a6%a1%e0%a6%be%e0%a6%b0-%e0%a7%a7-%e0%a6%87%e0%a6%a8%e0%a6%ab%e0%a7%8b%e0%a6%97%e0%a7%8d%e0%a6%b0%e0%a6%be%e0%a6%ab%e0%a6%bf%e0%a6%95/
+21:12:58	Warning: 	Moved Permanently for https://www.careerki.com/?p=25426
+21:12:58	Warning: 	File has moved from https://www.careerki.com/?p=25426 to https://www.careerki.com/%e0%a6%8f%e0%a6%95-%e0%a6%a8%e0%a6%9c%e0%a6%b0%e0%a7%87-%e0%a6%ac%e0%a6%bf%e0%a6%95%e0%a7%87%e0%a6%8f%e0%a6%b8%e0%a6%aa%e0%a6%bf-%e0%a6%87%e0%a6%a8%e0%a6%ab%e0%a7%8b%e0%a6%97%e0%a7%8d%e0%a6%b0%e0%a6%be%e0%a6%ab%e0%a6%bf%e0%a6%95/
+21:13:00	Warning: 	Moved Permanently for https://www.careerki.com/?p=25418
+21:13:00	Warning: 	File has moved from https://www.careerki.com/?p=25418 to https://www.careerki.com/%e0%a6%8f%e0%a6%ae%e0%a6%8f%e0%a6%b8-%e0%a6%8f%e0%a6%95%e0%a7%8d%e0%a6%b8%e0%a7%87%e0%a6%b2%e0%a7%87%e0%a6%b0-%e0%a6%89%e0%a6%aa%e0%a6%95%e0%a6%be%e0%a6%b0%e0%a7%80-%e0%a6%b6%e0%a6%b0%e0%a7%8d%e0%a6%9f%e0%a6%95%e0%a6%be%e0%a6%9f-%e0%a6%95%e0%a7%80-%e0%a6%87%e0%a6%a8%e0%a6%ab%e0%a7%8b%e0%a6%97%e0%a7%8d%e0%a6%b0%e0%a6%be%e0%a6%ab%e0%a6%bf%e0%a6%95/
+21:13:01	Warning: 	Moved Permanently for https://www.careerki.com/?p=25412
+21:13:01	Warning: 	File has moved from https://www.careerki.com/?p=25412 to https://www.careerki.com/%e0%a6%ac%e0%a6%be%e0%a6%82%e0%a6%b2%e0%a6%be%e0%a6%a6%e0%a7%87%e0%a6%b6%e0%a7%87%e0%a6%b0-%e0%a6%95%e0%a6%b0%e0%a7%8d%e0%a6%ae%e0%a6%95%e0%a7%8d%e0%a6%b7%e0%a7%87%e0%a6%a4%e0%a7%8d%e0%a6%b0-%e0%a6%87%e0%a6%a8%e0%a6%ab%e0%a7%8b%e0%a6%97%e0%a7%8d%e0%a6%b0%e0%a6%be%e0%a6%ab%e0%a6%bf%e0%a6%95/
+21:13:01	Warning: 	Moved Permanently for https://www.careerki.com/?p=25401
+21:13:01	Warning: 	File has moved from https://www.careerki.com/?p=25401 to https://www.careerki.com/%e0%a6%95%e0%a7%83%e0%a6%b7%e0%a6%bf-%e0%a6%96%e0%a6%be%e0%a6%a4%e0%a7%87%e0%a6%b0-%e0%a6%ac%e0%a6%bf%e0%a6%b7%e0%a7%9f-%e0%a6%87%e0%a6%a8%e0%a6%ab%e0%a7%8b%e0%a6%97%e0%a7%8d%e0%a6%b0%e0%a6%be%e0%a6%ab%e0%a6%bf%e0%a6%95/
+21:13:03	Warning: 	Moved Permanently for https://www.careerki.com/?p=25388
+21:13:03	Warning: 	File has moved from https://www.careerki.com/?p=25388 to https://www.careerki.com/%e0%a6%ac%e0%a7%8d%e0%a6%af%e0%a6%ac%e0%a6%b8%e0%a6%be%e0%a7%9f-%e0%a6%aa%e0%a7%8d%e0%a6%b0%e0%a6%b6%e0%a6%be%e0%a6%b8%e0%a6%a8%e0%a7%87%e0%a6%b0-%e0%a6%ac%e0%a6%bf%e0%a6%b7%e0%a7%9f-%e0%a6%87%e0%a6%a8%e0%a6%ab%e0%a7%8b%e0%a6%97%e0%a7%8d%e0%a6%b0%e0%a6%be%e0%a6%ab%e0%a6%bf%e0%a6%95/
+21:13:07	Warning: 	Moved Permanently for https://www.careerki.com/?p=25384
+21:13:07	Warning: 	File has moved from https://www.careerki.com/?p=25384 to https://www.careerki.com/%e0%a6%85%e0%a7%8d%e0%a6%af%e0%a6%be%e0%a6%95%e0%a6%be%e0%a6%89%e0%a6%a8%e0%a7%8d%e0%a6%9f%e0%a6%bf%e0%a6%82%e0%a7%9f%e0%a7%87%e0%a6%b0-%e0%a6%aa%e0%a7%8d%e0%a6%b0%e0%a6%95%e0%a6%be%e0%a6%b0%e0%a6%ad%e0%a7%87%e0%a6%a6-%e0%a6%87%e0%a6%a8%e0%a6%ab%e0%a7%8b%e0%a6%97%e0%a7%8d%e0%a6%b0%e0%a6%be%e0%a6%ab%e0%a6%bf%e0%a6%95/
+21:13:09	Warning: 	Moved Permanently for https://www.careerki.com/?p=25375
+21:13:09	Warning: 	File has moved from https://www.careerki.com/?p=25375 to https://www.careerki.com/%e0%a6%95%e0%a7%8d%e0%a6%af%e0%a6%be%e0%a6%b0%e0%a6%bf%e0%a7%9f%e0%a6%be%e0%a6%b0-%e0%a6%aa%e0%a7%8d%e0%a6%b0%e0%a6%b8%e0%a7%8d%e0%a6%a4%e0%a7%81%e0%a6%a4%e0%a6%bf-%e0%a6%95%e0%a6%96%e0%a6%a8-%e0%a6%b6%e0%a7%81%e0%a6%b0%e0%a7%81-%e0%a6%95%e0%a6%b0%e0%a6%be-%e0%a6%89%e0%a6%9a%e0%a6%bf%e0%a6%a4/
+21:13:12	Warning: 	Moved Permanently for https://www.careerki.com/?p=25370
+21:13:12	Warning: 	File has moved from https://www.careerki.com/?p=25370 to https://www.careerki.com/%e0%a6%ac%e0%a7%8d%e0%a6%af%e0%a6%ac%e0%a6%b8%e0%a6%be%e0%a6%b0-%e0%a6%95%e0%a7%8d%e0%a6%b7%e0%a7%87%e0%a6%a4%e0%a7%8d%e0%a6%b0%e0%a7%87-%e0%a6%a1%e0%a6%be%e0%a6%9f%e0%a6%be-%e0%a6%95%e0%a7%80-%e0%a6%93-%e0%a6%95%e0%a7%87%e0%a6%a8/
+21:13:13	Warning: 	Moved Permanently for https://www.careerki.com/?p=25355
+21:13:13	Warning: 	File has moved from https://www.careerki.com/?p=25355 to https://www.careerki.com/%e0%a6%87%e0%a6%a8%e0%a7%8d%e0%a6%a1%e0%a6%be%e0%a6%b8%e0%a7%8d%e0%a6%9f%e0%a7%8d%e0%a6%b0%e0%a6%bf%e0%a7%9f%e0%a6%be%e0%a6%b2-%e0%a6%85%e0%a7%8d%e0%a6%af%e0%a6%be%e0%a6%a8%e0%a7%8d%e0%a6%a1-%e0%a6%aa%e0%a7%8d%e0%a6%b0%e0%a7%8b%e0%a6%a1%e0%a6%be%e0%a6%95%e0%a6%b6%e0%a6%a8-%e0%a6%87%e0%a6%9e%e0%a7%8d%e0%a6%9c%e0%a6%bf%e0%a6%a8%e0%a6%bf%e0%a7%9f%e0%a6%be%e0%a6%b0/
+21:13:15	Warning: 	Moved Permanently for https://www.careerki.com/?p=25349
+21:13:15	Warning: 	File has moved from https://www.careerki.com/?p=25349 to https://www.careerki.com/%e0%a6%aa%e0%a7%8d%e0%a6%af%e0%a6%be%e0%a6%a5%e0%a6%b2%e0%a6%9c%e0%a6%bf%e0%a6%b8%e0%a7%8d%e0%a6%9f/
+21:13:16	Warning: 	Moved Permanently for https://www.careerki.com/?p=8508
+21:13:16	Warning: 	File has moved from https://www.careerki.com/?p=8508 to https://www.careerki.com/%e0%a6%87%e0%a6%b2%e0%a7%87%e0%a6%95%e0%a6%9f%e0%a7%8d%e0%a6%b0%e0%a6%bf%e0%a6%b6%e0%a6%bf%e0%a7%9f%e0%a6%be%e0%a6%a8/
+21:13:17	Warning: 	Moved Permanently for https://www.careerki.com/?p=8809
+21:13:17	Warning: 	File has moved from https://www.careerki.com/?p=8809 to https://www.careerki.com/%e0%a6%b2%e0%a7%8d%e0%a6%af%e0%a6%be%e0%a6%ac%e0%a6%b0%e0%a7%87%e0%a6%9f%e0%a6%b0%e0%a6%bf-%e0%a6%ae%e0%a7%8d%e0%a6%af%e0%a6%be%e0%a6%a8%e0%a7%87%e0%a6%9c%e0%a6%be%e0%a6%b0-%e0%a6%97%e0%a6%be%e0%a6%b0%e0%a7%8d%e0%a6%ae%e0%a7%87%e0%a6%a8%e0%a7%8d%e0%a6%9f%e0%a6%b8-%e0%a6%b6%e0%a6%bf%e0%a6%b2%e0%a7%8d%e0%a6%aa/
+21:13:18	Error: 	Exit requested by shell or user
+21:13:18	Warning: 	File not added due to mirror cancel: https://www.careerki.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.careerki.com%2F%25e0%25a6%25ac%25e0%25a6%25bf%25e0%25a6%25b8%25e0%25a6%25bf%25e0%25a6%258f%25e0%25a6%25b8-%25e0%25a6%2585%25e0%25a7%258d%25e0%25a6%25af%25e0%25a6%25be%25e0%25a6%25a1%25e0%25a6%25ae%25e0%25a6%25bf%25e0%25a6%25a8%2F
+21:13:18	Warning: 	File not added due to mirror cancel: https://www.careerki.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.careerki.com%2F%25e0%25a6%25ac%25e0%25a6%25bf%25e0%25a6%25b8%25e0%25a6%25bf%25e0%25a6%258f%25e0%25a6%25b8-%25e0%25a6%2585%25e0%25a7%258d%25e0%25a6%25af%25e0%25a6%25be%25e0%25a6%25a1%25e0%25a6%25ae%25e0%25a6%25bf%25e0%25a6%25a8%2F&format=xml
+21:13:18	Warning: 	File not added due to mirror cancel: https://www.careerki.com/wp-content/uploads/2018/08/bcs-admin-cadre-profile-800x300.png
+21:13:18	Warning: 	Moved Permanently for https://www.careerki.com/?p=26050
+21:13:18	Warning: 	File has moved from https://www.careerki.com/?p=26050 to https://www.careerki.com/%e0%a6%87%e0%a6%a8%e0%a7%8d%e0%a6%9f%e0%a7%87%e0%a6%b2%e0%a7%87%e0%a6%95%e0%a6%9a%e0%a7%81%e0%a7%9f%e0%a6%be%e0%a6%b2-%e0%a6%aa%e0%a7%8d%e0%a6%b0%e0%a6%aa%e0%a6%be%e0%a6%b0%e0%a7%8d%e0%a6%9f%e0%a6%bf-%e0%a6%93-%e0%a6%95%e0%a6%aa%e0%a6%bf%e0%a6%b0%e0%a6%be%e0%a6%87%e0%a6%9f-%e0%a6%86%e0%a6%87%e0%a6%a8%e0%a7%87-%e0%a6%95%e0%a7%8d%e0%a6%af%e0%a6%be%e0%a6%b0%e0%a6%bf%e0%a7%9f%e0%a6%be%e0%a6%b0/
+21:13:18	Warning: 	File not added due to mirror cancel: https://www.careerki.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.careerki.com%2F%25e0%25a6%2586%25e0%25a6%2587%25e0%25a6%25a8%25e0%25a6%259c%25e0%25a7%2580%25e0%25a6%25ac%25e0%25a7%2580%2F
+21:13:18	Warning: 	File not added due to mirror cancel: https://www.careerki.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.careerki.com%2F%25e0%25a6%2586%25e0%25a6%2587%25e0%25a6%25a8%25e0%25a6%259c%25e0%25a7%2580%25e0%25a6%25ac%25e0%25a7%2580%2F&format=xml
+21:13:18	Warning: 	File not added due to mirror cancel: https://www.careerki.com/wp-content/uploads/2018/05/lawyer-profile-800x300.png
+21:13:18	Warning: 	File not added due to mirror cancel: https://www.careerki.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.careerki.com%2F%25e0%25a6%25aa%25e0%25a7%258d%25e0%25a6%25af%25e0%25a6%25be%25e0%25a6%25b2%25e0%25a6%25bf%25e0%25a7%259f%25e0%25a7%2587%25e0%25a6%259f%25e0%25a6%25bf%25e0%25a6%25ad-%25e0%25a6%2595%25e0%25a7%2587%25e0%25a7%259f%25e0%25a6%25be%25e0%25a6%25b0-%25e0%25a6%25ac%25e0%25a6%25bf%25e0%25a6%25b6%25e0%25a7%2587%25e0%25a6%25b7%25e0%25a6%259c%25e0%25a7%258d%25e0%25a6%259e%2F
+21:13:18	Warning: 	File not added due to mirror cancel: https://www.careerki.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.careerki.com%2F%25e0%25a6%25aa%25e0%25a7%258d%25e0%25a6%25af%25e0%25a6%25be%25e0%25a6%25b2%25e0%25a6%25bf%25e0%25a7%259f%25e0%25a7%2587%25e0%25a6%259f%25e0%25a6%25bf%25e0%25a6%25ad-%25e0%25a6%2595%25e0%25a7%2587%25e0%25a7%259f%25e0%25a6%25be%25e0%25a6%25b0-%25e0%25a6%25ac%25e0%25a6%25bf%25e0%25a6%25b6%25e0%25a7%2587%25e0%25a6%25b7%25e0%25a6%259c%25e0%25a7%258d%25e0%25a6%259e%2F&format=xml
+21:13:18	Warning: 	Moved Permanently for https://www.careerki.com/?p=8512
+21:13:18	Warning: 	File has moved from https://www.careerki.com/?p=8512 to https://www.careerki.com/%e0%a6%b2%e0%a7%87%e0%a6%ab%e0%a6%9f%e0%a7%87%e0%a6%a8%e0%a7%8d%e0%a6%af%e0%a6%be%e0%a6%a8%e0%a7%8d%e0%a6%9f/
+21:13:18	Warning: 	File not added due to mirror cancel: https://www.careerki.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.careerki.com%2F%25e0%25a6%25b2%25e0%25a6%25be%25e0%25a6%2587%25e0%25a6%25ac%25e0%25a7%258d%25e0%25a6%25b0%25e0%25a7%2587%25e0%25a6%25b0%25e0%25a6%25bf%25e0%25a7%259f%25e0%25a6%25be%25e0%25a6%25a8%2F
+21:13:18	Warning: 	File not added due to mirror cancel: https://www.careerki.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.careerki.com%2F%25e0%25a6%25b2%25e0%25a6%25be%25e0%25a6%2587%25e0%25a6%25ac%25e0%25a7%258d%25e0%25a6%25b0%25e0%25a7%2587%25e0%25a6%25b0%25e0%25a6%25bf%25e0%25a7%259f%25e0%25a6%25be%25e0%25a6%25a8%2F&format=xml
+21:13:18	Warning: 	File not added due to mirror cancel: https://www.careerki.com/wp-content/uploads/2018/05/librarian-profile-800x300.png
+21:13:18	Warning: 	Moved Permanently for https://www.careerki.com/?p=8474
+21:13:18	Warning: 	File has moved from https://www.careerki.com/?p=8474 to https://www.careerki.com/%e0%a6%ab%e0%a6%bf%e0%a6%9c%e0%a6%bf%e0%a6%93%e0%a6%a5%e0%a7%87%e0%a6%b0%e0%a6%be%e0%a6%aa%e0%a6%bf%e0%a6%b8%e0%a7%8d%e0%a6%9f/
+21:13:18	Warning: 	File not added due to mirror cancel: https://www.careerki.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.careerki.com%2F%25e0%25a6%25ac%25e0%25a6%25bf%25e0%25a6%25b8%25e0%25a6%25bf%25e0%25a6%258f%25e0%25a6%25b8-%25e0%25a6%2595%25e0%25a6%25be%25e0%25a6%25b8%25e0%25a7%258d%25e0%25a6%259f%25e0%25a6%25ae%25e0%25a6%25b8%2F
+21:13:18	Warning: 	File not added due to mirror cancel: https://www.careerki.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.careerki.com%2F%25e0%25a6%25ac%25e0%25a6%25bf%25e0%25a6%25b8%25e0%25a6%25bf%25e0%25a6%258f%25e0%25a6%25b8-%25e0%25a6%2595%25e0%25a6%25be%25e0%25a6%25b8%25e0%25a7%258d%25e0%25a6%259f%25e0%25a6%25ae%25e0%25a6%25b8%2F&format=xml
+21:13:18	Warning: 	File not added due to mirror cancel: https://www.careerki.com/wp-content/uploads/2018/08/bcs-customs-cadre-profile-800x300.png
+21:13:18	Warning: 	Moved Permanently for https://www.careerki.com/?p=8698
+21:13:18	Warning: 	File has moved from https://www.careerki.com/?p=8698 to https://www.careerki.com/8698-autosave-v1/
+21:13:18	Warning: 	Moved Permanently for https://www.careerki.com/?p=27491
+21:13:18	Warning: 	File has moved from https://www.careerki.com/?p=27491 to https://www.careerki.com/%e0%a6%ac%e0%a7%8d%e0%a6%af%e0%a6%ac%e0%a6%b8%e0%a6%be%e0%a6%b0-%e0%a6%aa%e0%a7%8d%e0%a6%b0%e0%a6%b8%e0%a6%be%e0%a6%b0%e0%a7%87-%e0%a6%b8%e0%a7%8b%e0%a6%b6%e0%a7%8d%e0%a6%af%e0%a6%be%e0%a6%b2-%e0%a6%ae%e0%a6%bf%e0%a6%a1%e0%a6%bf%e0%a7%9f%e0%a6%be/
+21:13:18	Warning: 	File not added due to mirror cancel: https://www.careerki.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.careerki.com%2F%25e0%25a6%25ab%25e0%25a6%25be%25e0%25a7%259f%25e0%25a6%25be%25e0%25a6%25b0%25e0%25a6%25ae%25e0%25a7%258d%25e0%25a6%25af%25e0%25a6%25be%25e0%25a6%25a8%2F
+21:13:18	Warning: 	File not added due to mirror cancel: https://www.careerki.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.careerki.com%2F%25e0%25a6%25ab%25e0%25a6%25be%25e0%25a7%259f%25e0%25a6%25be%25e0%25a6%25b0%25e0%25a6%25ae%25e0%25a7%258d%25e0%25a6%25af%25e0%25a6%25be%25e0%25a6%25a8%2F&format=xml
+21:13:18	Warning: 	File not added due to mirror cancel: https://www.careerki.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.careerki.com%2F%25e0%25a6%25ab%25e0%25a7%2581%25e0%25a6%25b2-%25e0%25a6%25b8%25e0%25a7%258d%25e0%25a6%259f%25e0%25a7%258d%25e0%25a6%25af%25e0%25a6%25be%25e0%25a6%2595-%25e0%25a6%25a1%25e0%25a7%2587%25e0%25a6%25ad%25e0%25a7%2587%25e0%25a6%25b2%25e0%25a6%25aa%25e0%25a6%25be%25e0%25a6%25b0%2F
+21:13:18	Warning: 	File not added due to mirror cancel: https://www.careerki.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.careerki.com%2F%25e0%25a6%25ab%25e0%25a7%2581%25e0%25a6%25b2-%25e0%25a6%25b8%25e0%25a7%258d%25e0%25a6%259f%25e0%25a7%258d%25e0%25a6%25af%25e0%25a6%25be%25e0%25a6%2595-%25e0%25a6%25a1%25e0%25a7%2587%25e0%25a6%25ad%25e0%25a7%2587%25e0%25a6%25b2%25e0%25a6%25aa%25e0%25a6%25be%25e0%25a6%25b0%2F&format=xml
+21:13:18	Warning: 	Moved Permanently for https://www.careerki.com/?p=8459
+21:13:18	Warning: 	File has moved from https://www.careerki.com/?p=8459 to https://www.careerki.com/%e0%a6%ae%e0%a6%a8%e0%a6%bf%e0%a6%9f%e0%a6%b0%e0%a6%bf%e0%a6%82-%e0%a6%85%e0%a6%ab%e0%a6%bf%e0%a6%b8%e0%a6%be%e0%a6%b0-%e0%a6%89%e0%a6%a8%e0%a7%8d%e0%a6%a8%e0%a7%9f%e0%a6%a8-%e0%a6%96%e0%a6%be%e0%a6%a4/
+21:13:18	Warning: 	Moved Permanently for https://www.careerki.com/?p=8510
+21:13:18	Warning: 	File has moved from https://www.careerki.com/?p=8510 to https://www.careerki.com/%e0%a6%a1%e0%a6%be%e0%a6%9f%e0%a6%be%e0%a6%ac%e0%a7%87%e0%a6%9c-%e0%a6%85%e0%a7%8d%e0%a6%af%e0%a6%be%e0%a6%a1%e0%a6%ae%e0%a6%bf%e0%a6%a8%e0%a6%bf%e0%a6%b8%e0%a7%8d%e0%a6%9f%e0%a7%8d%e0%a6%b0%e0%a7%87%e0%a6%9f%e0%a6%b0/
+21:13:18	Warning: 	File not added due to mirror cancel: https://www.careerki.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.careerki.com%2F%25e0%25a6%2586%25e0%25a7%259f%25e0%25a6%2595%25e0%25a6%25b0-%25e0%25a6%2586%25e0%25a6%2587%25e0%25a6%25a8%25e0%25a6%259c%25e0%25a7%2580%25e0%25a6%25ac%25e0%25a7%2580%2F
+21:13:18	Warning: 	File not added due to mirror cancel: https://www.careerki.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.careerki.com%2F%25e0%25a6%2586%25e0%25a7%259f%25e0%25a6%2595%25e0%25a6%25b0-%25e0%25a6%2586%25e0%25a6%2587%25e0%25a6%25a8%25e0%25a6%259c%25e0%25a7%2580%25e0%25a6%25ac%25e0%25a7%2580%2F&format=xml
+21:13:18	Warning: 	File not added due to mirror cancel: https://www.careerki.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.careerki.com%2F%25e0%25a6%25aa%25e0%25a6%25b2%25e0%25a7%258d%25e0%25a6%25b2%25e0%25a7%2580-%25e0%25a6%2589%25e0%25a6%25a8%25e0%25a7%258d%25e0%25a6%25a8%25e0%25a7%259f%25e0%25a6%25a8-%25e0%25a6%2595%25e0%25a6%25b0%25e0%25a7%258d%25e0%25a6%25ae%25e0%25a6%2595%25e0%25a6%25b0%25e0%25a7%258d%25e0%25a6%25a4%25e0%25a6%25be%2F
+21:13:18	Warning: 	File not added due to mirror cancel: https://www.careerki.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.careerki.com%2F%25e0%25a6%25aa%25e0%25a6%25b2%25e0%25a7%258d%25e0%25a6%25b2%25e0%25a7%2580-%25e0%25a6%2589%25e0%25a6%25a8%25e0%25a7%258d%25e0%25a6%25a8%25e0%25a7%259f%25e0%25a6%25a8-%25e0%25a6%2595%25e0%25a6%25b0%25e0%25a7%258d%25e0%25a6%25ae%25e0%25a6%2595%25e0%25a6%25b0%25e0%25a7%258d%25e0%25a6%25a4%25e0%25a6%25be%2F&format=xml
+21:13:18	Warning: 	File not added due to mirror cancel: https://www.careerki.com/wp-content/uploads/2018/08/fitness-trainer-profile-75x75.png
+21:13:18	Warning: 	Moved Permanently for https://www.careerki.com/?p=8528
+21:13:18	Warning: 	File has moved from https://www.careerki.com/?p=8528 to https://www.careerki.com/%e0%a6%aa%e0%a7%8b%e0%a6%b2%e0%a6%9f%e0%a7%8d%e0%a6%b0%e0%a6%bf-%e0%a6%ab%e0%a6%be%e0%a6%b0%e0%a7%8d%e0%a6%ae-%e0%a6%b8%e0%a7%81%e0%a6%aa%e0%a6%be%e0%a6%b0%e0%a6%ad%e0%a6%be%e0%a6%87%e0%a6%9c%e0%a6%be%e0%a6%b0/
+21:13:18	Warning: 	File not added due to mirror cancel: https://www.careerki.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.careerki.com%2F%25e0%25a6%25a1%25e0%25a7%2587%25e0%25a6%25b2%25e0%25a6%25bf%25e0%25a6%25ad%25e0%25a6%25be%25e0%25a6%25b0%25e0%25a6%25bf%25e0%25a6%25ae%25e0%25a7%258d%25e0%25a6%25af%25e0%25a6%25be%25e0%25a6%25a8%2F
+21:13:18	Warning: 	File not added due to mirror cancel: https://www.careerki.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.careerki.com%2F%25e0%25a6%25a1%25e0%25a7%2587%25e0%25a6%25b2%25e0%25a6%25bf%25e0%25a6%25ad%25e0%25a6%25be%25e0%25a6%25b0%25e0%25a6%25bf%25e0%25a6%25ae%25e0%25a7%258d%25e0%25a6%25af%25e0%25a6%25be%25e0%25a6%25a8%2F&format=xml
+21:13:18	Warning: 	Moved Permanently for https://www.careerki.com/?p=8915
+21:13:18	Warning: 	File has moved from https://www.careerki.com/?p=8915 to https://www.careerki.com/%e0%a6%b8%e0%a6%bf%e0%a6%b0%e0%a6%be%e0%a6%ae%e0%a6%bf%e0%a6%95-%e0%a6%87%e0%a6%9e%e0%a7%8d%e0%a6%9c%e0%a6%bf%e0%a6%a8%e0%a6%bf%e0%a7%9f%e0%a6%be%e0%a6%b0/
+21:13:18	Warning: 	File not added due to mirror cancel: https://www.careerki.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.careerki.com%2F8184-autosave-v1%2F
+21:13:18	Warning: 	File not added due to mirror cancel: https://www.careerki.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.careerki.com%2F8184-autosave-v1%2F&format=xml
+21:13:18	Warning: 	File not added due to mirror cancel: https://www.careerki.com/wp-content/uploads/2018/05/web-designer-profile-800x300.png
+21:13:18	Warning: 	File not added due to mirror cancel: https://www.careerki.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.careerki.com%2F%25e0%25a6%25ae%25e0%25a6%25be%25e0%25a6%25b2%25e0%25a6%25bf%2F
+21:13:18	Warning: 	File not added due to mirror cancel: https://www.careerki.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.careerki.com%2F%25e0%25a6%25ae%25e0%25a6%25be%25e0%25a6%25b2%25e0%25a6%25bf%2F&format=xml
+21:13:18	Warning: 	File not added due to mirror cancel: https://www.careerki.com/wp-content/uploads/2018/08/bcs-police-cadre-profile-75x75.png
+21:13:18	Warning: 	Moved Permanently for https://www.careerki.com/?p=8454
+21:13:18	Warning: 	File has moved from https://www.careerki.com/?p=8454 to https://www.careerki.com/%e0%a6%95%e0%a6%be%e0%a6%b8%e0%a7%8d%e0%a6%9f%e0%a6%ae%e0%a6%be%e0%a6%b0-%e0%a6%95%e0%a7%87%e0%a7%9f%e0%a6%be%e0%a6%b0-%e0%a6%85%e0%a6%ab%e0%a6%bf%e0%a6%b8%e0%a6%be%e0%a6%b0/
+21:13:18	Warning: 	File not added due to mirror cancel: https://www.careerki.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.careerki.com%2F%25e0%25a6%259f%25e0%25a7%258d%25e0%25a6%25b0%25e0%25a6%25be%25e0%25a6%25ad%25e0%25a7%2587%25e0%25a6%25b2-%25e0%25a6%2597%25e0%25a6%25be%25e0%25a6%2587%25e0%25a6%25a1%2F
+21:13:18	Warning: 	File not added due to mirror cancel: https://www.careerki.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.careerki.com%2F%25e0%25a6%259f%25e0%25a7%258d%25e0%25a6%25b0%25e0%25a6%25be%25e0%25a6%25ad%25e0%25a7%2587%25e0%25a6%25b2-%25e0%25a6%2597%25e0%25a6%25be%25e0%25a6%2587%25e0%25a6%25a1%2F&format=xml
+21:13:18	Warning: 	File not added due to mirror cancel: https://www.careerki.com/wp-content/uploads/2018/08/travel-guide-profile-800x300.png
+21:13:18	Warning: 	Moved Permanently for https://www.careerki.com/?p=8804
+21:13:18	Warning: 	File has moved from https://www.careerki.com/?p=8804 to https://www.careerki.com/%e0%a6%b8%e0%a6%be%e0%a6%aa%e0%a7%8d%e0%a6%b2%e0%a6%be%e0%a6%87-%e0%a6%9a%e0%a7%87%e0%a6%87%e0%a6%a8-%e0%a6%ae%e0%a7%8d%e0%a6%af%e0%a6%be%e0%a6%a8%e0%a7%87%e0%a6%9c%e0%a6%ae%e0%a7%87%e0%a6%a8%e0%a7%8d%e0%a6%9f-%e0%a6%85%e0%a6%ab%e0%a6%bf%e0%a6%b8%e0%a6%be%e0%a6%b0/
+21:13:18	Warning: 	Moved Permanently for https://www.careerki.com/?p=8531
+21:13:18	Warning: 	File has moved from https://www.careerki.com/?p=8531 to https://www.careerki.com/%e0%a6%95%e0%a6%ae%e0%a7%8d%e0%a6%aa%e0%a6%bf%e0%a6%89%e0%a6%9f%e0%a6%be%e0%a6%b0-%e0%a6%85%e0%a6%aa%e0%a6%be%e0%a6%b0%e0%a7%87%e0%a6%9f%e0%a6%b0/
+21:13:18	Warning: 	Moved Permanently for https://www.careerki.com/?p=8515
+21:13:18	Warning: 	File has moved from https://www.careerki.com/?p=8515 to https://www.careerki.com/%e0%a6%95%e0%a6%aa%e0%a6%bf%e0%a6%b0%e0%a6%be%e0%a6%87%e0%a6%9f%e0%a6%be%e0%a6%b0/
+21:13:18	Warning: 	File not added due to mirror cancel: https://www.careerki.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.careerki.com%2F%25e0%25a6%25aa%25e0%25a7%258d%25e0%25a6%25b2%25e0%25a6%25be%25e0%25a6%25b8%25e0%25a7%258d%25e0%25a6%259f%25e0%25a6%25bf%25e0%25a6%2595-%25e0%25a6%25b8%25e0%25a6%25be%25e0%25a6%25b0%25e0%25a7%258d%25e0%25a6%259c%25e0%25a6%25a8%2F
+21:13:18	Warning: 	File not added due to mirror cancel: https://www.careerki.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.careerki.com%2F%25e0%25a6%25aa%25e0%25a7%258d%25e0%25a6%25b2%25e0%25a6%25be%25e0%25a6%25b8%25e0%25a7%258d%25e0%25a6%259f%25e0%25a6%25bf%25e0%25a6%2595-%25e0%25a6%25b8%25e0%25a6%25be%25e0%25a6%25b0%25e0%25a7%258d%25e0%25a6%259c%25e0%25a6%25a8%2F&format=xml
+21:13:18	Warning: 	Moved Permanently for https://www.careerki.com/?p=8816
+21:13:18	Warning: 	File has moved from https://www.careerki.com/?p=8816 to https://www.careerki.com/%e0%a6%ae%e0%a7%87%e0%a6%95%e0%a6%be%e0%a6%a8%e0%a6%bf%e0%a6%95%e0%a7%8d%e0%a6%af%e0%a6%be%e0%a6%b2-%e0%a6%87%e0%a6%9e%e0%a7%8d%e0%a6%9c%e0%a6%bf%e0%a6%a8%e0%a6%bf%e0%a7%9f%e0%a6%be%e0%a6%b0/
+21:13:18	Warning: 	File not added due to mirror cancel: https://www.careerki.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.careerki.com%2F%25e0%25a6%25ab%25e0%25a6%25bf%25e0%25a6%259c%25e0%25a6%25bf%25e0%25a6%2595%25e0%25a7%258d%25e0%25a6%25af%25e0%25a6%25be%25e0%25a6%25b2-%25e0%25a6%259f%25e0%25a7%258d%25e0%25a6%25b0%25e0%25a7%2587%25e0%25a6%2587%25e0%25a6%25a8%25e0%25a6%25be%25e0%25a6%25b0%2F
+21:13:18	Warning: 	File not added due to mirror cancel: https://www.careerki.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.careerki.com%2F%25e0%25a6%25ab%25e0%25a6%25bf%25e0%25a6%259c%25e0%25a6%25bf%25e0%25a6%2595%25e0%25a7%258d%25e0%25a6%25af%25e0%25a6%25be%25e0%25a6%25b2-%25e0%25a6%259f%25e0%25a7%258d%25e0%25a6%25b0%25e0%25a7%2587%25e0%25a6%2587%25e0%25a6%25a8%25e0%25a6%25be%25e0%25a6%25b0%2F&format=xml
+21:13:18	Warning: 	File not added due to mirror cancel: https://www.careerki.com/wp-content/uploads/2018/08/physical-trainer-profile-800x300.png
+21:13:18	Warning: 	Moved Permanently for https://www.careerki.com/?p=8704
+21:13:18	Warning: 	File has moved from https://www.careerki.com/?p=8704 to https://www.careerki.com/%e0%a6%b8%e0%a7%8d%e0%a6%9f%e0%a7%81%e0%a6%a1%e0%a7%87%e0%a6%a8%e0%a7%8d%e0%a6%9f-%e0%a6%95%e0%a6%be%e0%a6%89%e0%a6%a8%e0%a7%8d%e0%a6%b8%e0%a7%87%e0%a6%b2%e0%a6%b0/
+21:13:18	Warning: 	File not added due to mirror cancel: https://www.careerki.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.careerki.com%2F%25e0%25a6%2587%25e0%25a6%25a4%25e0%25a6%25bf%25e0%25a6%25b9%25e0%25a6%25be%25e0%25a6%25b8%25e0%25a6%25ac%25e0%25a6%25bf%25e0%25a6%25a6%2F
+21:13:18	Warning: 	File not added due to mirror cancel: https://www.careerki.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.careerki.com%2F%25e0%25a6%2587%25e0%25a6%25a4%25e0%25a6%25bf%25e0%25a6%25b9%25e0%25a6%25be%25e0%25a6%25b8%25e0%25a6%25ac%25e0%25a6%25bf%25e0%25a6%25a6%2F&format=xml
+21:13:18	Warning: 	File not added due to mirror cancel: https://www.careerki.com/wp-content/uploads/2018/08/historian-profile-800x300.png
+21:13:18	Warning: 	Moved Permanently for https://www.careerki.com/?p=8450
+21:13:18	Warning: 	File has moved from https://www.careerki.com/?p=8450 to https://www.careerki.com/%e0%a6%ab%e0%a7%8d%e0%a6%b2%e0%a6%be%e0%a6%87%e0%a6%9f-%e0%a6%85%e0%a7%8d%e0%a6%af%e0%a6%be%e0%a6%9f%e0%a7%87%e0%a6%a8%e0%a6%a1%e0%a7%87%e0%a6%a8%e0%a7%8d%e0%a6%9f/
+21:13:18	Warning: 	Moved Permanently for https://www.careerki.com/?p=8701
+21:13:18	Warning: 	File has moved from https://www.careerki.com/?p=8701 to https://www.careerki.com/%e0%a6%b8%e0%a7%87%e0%a6%b2%e0%a6%b8-%e0%a6%b0%e0%a6%bf%e0%a6%aa%e0%a7%8d%e0%a6%b0%e0%a7%87%e0%a6%9c%e0%a7%87%e0%a6%a8%e0%a7%8d%e0%a6%9f%e0%a7%87%e0%a6%9f%e0%a6%bf%e0%a6%ad/
+21:13:18	Warning: 	File not added due to mirror cancel: https://www.careerki.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.careerki.com%2F%25e0%25a6%2595%25e0%25a7%2583%25e0%25a6%25b7%25e0%25a6%25bf-%25e0%25a6%2585%25e0%25a6%25ab%25e0%25a6%25bf%25e0%25a6%25b8%25e0%25a6%25be%25e0%25a6%25b0-%25e0%25a6%25b9%25e0%25a6%25b0%25e0%25a7%258d%25e0%25a6%259f%25e0%25a6%25bf%25e0%25a6%2595%25e0%25a6%25be%25e0%25a6%25b2%25e0%25a6%259a%25e0%25a6%25be%25e0%25a6%25b0%2F
+21:13:18	Warning: 	File not added due to mirror cancel: https://www.careerki.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.careerki.com%2F%25e0%25a6%2595%25e0%25a7%2583%25e0%25a6%25b7%25e0%25a6%25bf-%25e0%25a6%2585%25e0%25a6%25ab%25e0%25a6%25bf%25e0%25a6%25b8%25e0%25a6%25be%25e0%25a6%25b0-%25e0%25a6%25b9%25e0%25a6%25b0%25e0%25a7%258d%25e0%25a6%259f%25e0%25a6%25bf%25e0%25a6%2595%25e0%25a6%25be%25e0%25a6%25b2%25e0%25a6%259a%25e0%25a6%25be%25e0%25a6%25b0%2F&format=xml
+21:13:18	Warning: 	File not added due to mirror cancel: https://www.careerki.com/wp-content/uploads/2018/08/horticulture-specalist-profile-800x300.png
+21:13:18	Warning: 	Moved Permanently for https://www.careerki.com/?p=25208
+21:13:18	Warning: 	File has moved from https://www.careerki.com/?p=25208 to https://www.careerki.com/%e0%a6%aa%e0%a6%be%e0%a6%93%e0%a7%9f%e0%a6%be%e0%a6%b0%e0%a6%aa%e0%a7%9f%e0%a7%87%e0%a6%a8%e0%a7%8d%e0%a6%9f-%e0%a6%b8%e0%a7%8d%e0%a6%b2%e0%a6%be%e0%a6%87%e0%a6%a1-%e0%a6%87%e0%a6%a8%e0%a6%ab%e0%a7%8b%e0%a6%97%e0%a7%8d%e0%a6%b0%e0%a6%be%e0%a6%ab%e0%a6%bf%e0%a6%95/
+21:13:18	Warning: 	Moved Permanently for https://www.careerki.com/?p=25202
+21:13:18	Warning: 	File has moved from https://www.careerki.com/?p=25202 to https://www.careerki.com/%e0%a6%ad%e0%a6%be%e0%a6%b2%e0%a7%8b-%e0%a6%b8%e0%a6%bf%e0%a6%ad%e0%a6%bf%e0%a6%b0-%e0%a6%ac%e0%a7%88%e0%a6%b6%e0%a6%bf%e0%a6%b7%e0%a7%8d%e0%a6%9f%e0%a7%8d%e0%a6%af-%e0%a6%87%e0%a6%a8%e0%a6%ab%e0%a7%8b%e0%a6%97%e0%a7%8d%e0%a6%b0%e0%a6%be%e0%a6%ab%e0%a6%bf%e0%a6%95/
+21:13:18	Warning: 	Moved Permanently for https://www.careerki.com/?p=25193
+21:13:18	Warning: 	File has moved from https://www.careerki.com/?p=25193 to https://www.careerki.com/%e0%a6%b2%e0%a6%bf%e0%a6%82%e0%a6%95%e0%a6%a1%e0%a6%87%e0%a6%a8-%e0%a6%95%e0%a7%80-%e0%a6%93-%e0%a6%95%e0%a7%87%e0%a6%a8-%e0%a6%87%e0%a6%a8%e0%a6%ab%e0%a7%8b%e0%a6%97%e0%a7%8d%e0%a6%b0%e0%a6%be%e0%a6%ab%e0%a6%bf%e0%a6%95/
+21:13:18	Warning: 	Moved Permanently for https://www.careerki.com/?p=8925
+21:13:18	Warning: 	File has moved from https://www.careerki.com/?p=8925 to https://www.careerki.com/%e0%a6%b8%e0%a6%ae%e0%a6%be%e0%a6%9c%e0%a6%95%e0%a6%b0%e0%a7%8d%e0%a6%ae%e0%a7%80/
+21:13:18	Warning: 	File not added due to mirror cancel: https://www.careerki.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.careerki.com%2F%25e0%25a6%2595%25e0%25a6%25be%25e0%25a6%25b0%25e0%25a7%258d%25e0%25a6%259f%25e0%25a7%2581%25e0%25a6%25a8%25e0%25a6%25bf%25e0%25a6%25b8%25e0%25a7%258d%25e0%25a6%259f%2F
+21:13:18	Warning: 	File not added due to mirror cancel: https://www.careerki.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.careerki.com%2F%25e0%25a6%2595%25e0%25a6%25be%25e0%25a6%25b0%25e0%25a7%258d%25e0%25a6%259f%25e0%25a7%2581%25e0%25a6%25a8%25e0%25a6%25bf%25e0%25a6%25b8%25e0%25a7%258d%25e0%25a6%259f%2F&format=xml
+21:13:18	Warning: 	File not added due to mirror cancel: https://www.careerki.com/wp-content/uploads/2018/08/cartoonist-profile-800x300.png
+21:13:18	Warning: 	Moved Permanently for https://www.careerki.com/?p=8687
+21:13:18	Warning: 	File has moved from https://www.careerki.com/?p=8687 to https://www.careerki.com/%e0%a6%ab%e0%a6%be%e0%a6%b0%e0%a7%8d%e0%a6%ae%e0%a6%be%e0%a6%b8%e0%a6%bf%e0%a6%b8%e0%a7%8d%e0%a6%9f/
+21:13:18	Warning: 	File not added due to mirror cancel: https://www.careerki.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.careerki.com%2F%25e0%25a6%2587%25e0%25a6%25b2%25e0%25a7%2587%25e0%25a6%2595%25e0%25a6%259f%25e0%25a7%258d%25e0%25a6%25b0%25e0%25a6%25bf%25e0%25a6%2595%25e0%25a7%258d%25e0%25a6%25af%25e0%25a6%25be%25e0%25a6%25b2-%25e0%25a6%2587%25e0%25a6%259e%25e0%25a7%258d%25e0%25a6%259c%25e0%25a6%25bf%25e0%25a6%25a8%25e0%25a6%25bf%25e0%25a7%259f%25e0%25a6%25be%25e0%25a6%25b0%2F
+21:13:18	Warning: 	File not added due to mirror cancel: https://www.careerki.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.careerki.com%2F%25e0%25a6%2587%25e0%25a6%25b2%25e0%25a7%2587%25e0%25a6%2595%25e0%25a6%259f%25e0%25a7%258d%25e0%25a6%25b0%25e0%25a6%25bf%25e0%25a6%2595%25e0%25a7%258d%25e0%25a6%25af%25e0%25a6%25be%25e0%25a6%25b2-%25e0%25a6%2587%25e0%25a6%259e%25e0%25a7%258d%25e0%25a6%259c%25e0%25a6%25bf%25e0%25a6%25a8%25e0%25a6%25bf%25e0%25a7%259f%25e0%25a6%25be%25e0%25a6%25b0%2F&format=xml
+21:13:18	Warning: 	File not added due to mirror cancel: https://www.careerki.com/wp-content/uploads/2018/08/electriccal-engineer-profile-800x300.png
+21:13:19	Warning: 	File not added due to mirror cancel: https://www.careerki.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.careerki.com%2F%25e0%25a6%25aa%25e0%25a7%258d%25e0%25a6%25b2%25e0%25a6%25be%25e0%25a6%25ae%25e0%25a7%258d%25e0%25a6%25ac%25e0%25a6%25be%25e0%25a6%25b0%2F
+21:13:19	Warning: 	File not added due to mirror cancel: https://www.careerki.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.careerki.com%2F%25e0%25a6%25aa%25e0%25a7%258d%25e0%25a6%25b2%25e0%25a6%25be%25e0%25a6%25ae%25e0%25a7%258d%25e0%25a6%25ac%25e0%25a6%25be%25e0%25a6%25b0%2F&format=xml
+21:13:19	Warning: 	Moved Permanently for https://www.careerki.com/?p=8799
+21:13:19	Warning: 	File has moved from https://www.careerki.com/?p=8799 to https://www.careerki.com/%e0%a6%9f%e0%a7%87%e0%a6%95%e0%a7%8d%e0%a6%b8%e0%a6%9f%e0%a6%be%e0%a6%87%e0%a6%b2-%e0%a6%87%e0%a6%9e%e0%a7%8d%e0%a6%9c%e0%a6%bf%e0%a6%a8%e0%a6%bf%e0%a7%9f%e0%a6%be%e0%a6%b0/
+21:13:19	Warning: 	File not added due to mirror cancel: https://www.careerki.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.careerki.com%2F%25e0%25a6%2585%25e0%25a6%25a8%25e0%25a6%2595%25e0%25a7%258b%25e0%25a6%25b2%25e0%25a6%259c%25e0%25a6%25bf%25e0%25a6%25b8%25e0%25a7%258d%25e0%25a6%259f%2F
+21:13:19	Warning: 	File not added due to mirror cancel: https://www.careerki.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.careerki.com%2F%25e0%25a6%2585%25e0%25a6%25a8%25e0%25a6%2595%25e0%25a7%258b%25e0%25a6%25b2%25e0%25a6%259c%25e0%25a6%25bf%25e0%25a6%25b8%25e0%25a7%258d%25e0%25a6%259f%2F&format=xml
+21:13:19	Warning: 	Moved Permanently for https://www.careerki.com/?p=9030
+21:13:19	Warning: 	File has moved from https://www.careerki.com/?p=9030 to https://www.careerki.com/%e0%a6%95%e0%a7%8b%e0%a7%9f%e0%a6%be%e0%a6%b2%e0%a6%bf%e0%a6%9f%e0%a6%bf-%e0%a6%95%e0%a6%a8%e0%a7%8d%e0%a6%9f%e0%a7%8d%e0%a6%b0%e0%a7%8b%e0%a6%b2-%e0%a6%85%e0%a6%ab%e0%a6%bf%e0%a6%b8%e0%a6%be%e0%a6%b0/
+21:13:19	Warning: 	Moved Permanently for https://www.careerki.com/?p=8497
+21:13:19	Warning: 	File has moved from https://www.careerki.com/?p=8497 to https://www.careerki.com/%e0%a6%b9%e0%a6%bf%e0%a6%89%e0%a6%ae%e0%a7%8d%e0%a6%af%e0%a6%be%e0%a6%a8-%e0%a6%b0%e0%a6%bf%e0%a6%b8%e0%a7%8b%e0%a6%b0%e0%a7%8d%e0%a6%b8-%e0%a6%85%e0%a6%ab%e0%a6%bf%e0%a6%b8%e0%a6%be%e0%a6%b0/
+21:13:19	Warning: 	Moved Permanently for https://www.careerki.com/?p=8525
+21:13:19	Warning: 	File has moved from https://www.careerki.com/?p=8525 to https://www.careerki.com/%e0%a6%aa%e0%a7%8d%e0%a6%b0%e0%a7%8b%e0%a6%a1%e0%a6%be%e0%a6%95%e0%a6%b6%e0%a6%a8-%e0%a6%85%e0%a6%ab%e0%a6%bf%e0%a6%b8%e0%a6%be%e0%a6%b0-%e0%a6%ab%e0%a7%81%e0%a6%a1-%e0%a6%85%e0%a7%8d%e0%a6%af%e0%a6%be%e0%a6%a8%e0%a7%8d%e0%a6%a1-%e0%a6%ac%e0%a7%87%e0%a6%ad%e0%a6%be%e0%a6%b0%e0%a7%87%e0%a6%9c/
+21:13:19	Warning: 	Moved Permanently for https://www.careerki.com/?p=8493
+21:13:19	Warning: 	File has moved from https://www.careerki.com/?p=8493 to https://www.careerki.com/%e0%a6%86%e0%a6%87%e0%a6%9f%e0%a6%bf-%e0%a6%ae%e0%a7%8d%e0%a6%af%e0%a6%be%e0%a6%a8%e0%a7%87%e0%a6%9c%e0%a6%be%e0%a6%b0/
+21:13:19	Warning: 	Moved Permanently for https://www.careerki.com/?p=8475
+21:13:19	Warning: 	File has moved from https://www.careerki.com/?p=8475 to https://www.careerki.com/%e0%a6%ab%e0%a7%8d%e0%a6%af%e0%a6%be%e0%a6%b6%e0%a6%a8-%e0%a6%a1%e0%a6%bf%e0%a6%9c%e0%a6%be%e0%a6%87%e0%a6%a8%e0%a6%be%e0%a6%b0/
+21:13:19	Warning: 	Moved Permanently for https://www.careerki.com/?p=8543
+21:13:19	Warning: 	File has moved from https://www.careerki.com/?p=8543 to https://www.careerki.com/%e0%a6%86%e0%a6%ac%e0%a6%b9%e0%a6%be%e0%a6%93%e0%a7%9f%e0%a6%be%e0%a6%ac%e0%a6%bf%e0%a6%a6/
+21:13:19	Warning: 	Moved Permanently for https://www.careerki.com/?p=270
+21:13:19	Warning: 	File has moved from https://www.careerki.com/?p=270 to https://www.careerki.com/%e0%a6%ad%e0%a6%be%e0%a6%b2%e0%a7%8b-%e0%a6%aa%e0%a7%8d%e0%a6%b0%e0%a7%87%e0%a6%9c%e0%a7%87%e0%a6%a8%e0%a7%8d%e0%a6%9f%e0%a7%87%e0%a6%b6%e0%a6%a8-%e0%a7%ad-%e0%a6%ac%e0%a6%bf%e0%a6%b7%e0%a7%9f/
+21:13:19	Warning: 	File not added due to mirror cancel: https://www.careerki.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.careerki.com%2F%25e0%25a6%25aa%25e0%25a7%2587%25e0%25a6%25a1%25e0%25a6%25bf%25e0%25a7%259f%25e0%25a6%25be%25e0%25a6%259f%25e0%25a7%258d%25e0%25a6%25b0%25e0%25a6%25bf%25e0%25a6%2595-%25e0%25a6%25a8%25e0%25a6%25bf%25e0%25a6%2589%25e0%25a6%25b0%25e0%25a7%258b%25e0%25a6%25b8%25e0%25a6%25be%25e0%25a6%25b0%25e0%25a7%258d%25e0%25a6%259c%25e0%25a6%25a8%2F
+21:13:19	Warning: 	File not added due to mirror cancel: https://www.careerki.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.careerki.com%2F%25e0%25a6%25aa%25e0%25a7%2587%25e0%25a6%25a1%25e0%25a6%25bf%25e0%25a7%259f%25e0%25a6%25be%25e0%25a6%259f%25e0%25a7%258d%25e0%25a6%25b0%25e0%25a6%25bf%25e0%25a6%2595-%25e0%25a6%25a8%25e0%25a6%25bf%25e0%25a6%2589%25e0%25a6%25b0%25e0%25a7%258b%25e0%25a6%25b8%25e0%25a6%25be%25e0%25a6%25b0%25e0%25a7%258d%25e0%25a6%259c%25e0%25a6%25a8%2F&format=xml
+21:13:19	Warning: 	File not added due to mirror cancel: https://www.careerki.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.careerki.com%2F%25e0%25a6%25aa%25e0%25a6%25be%25e0%25a6%25b0%25e0%25a7%258d%25e0%25a6%259f%25e0%25a6%25a8%25e0%25a6%25be%25e0%25a6%25b0%25e0%25a6%25b6%25e0%25a6%25bf%25e0%25a6%25aa-%25e0%25a6%2585%25e0%25a6%25ab%25e0%25a6%25bf%25e0%25a6%25b8%25e0%25a6%25be%25e0%25a6%25b0%2F
+21:13:19	Warning: 	File not added due to mirror cancel: https://www.careerki.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.careerki.com%2F%25e0%25a6%25aa%25e0%25a6%25be%25e0%25a6%25b0%25e0%25a7%258d%25e0%25a6%259f%25e0%25a6%25a8%25e0%25a6%25be%25e0%25a6%25b0%25e0%25a6%25b6%25e0%25a6%25bf%25e0%25a6%25aa-%25e0%25a6%2585%25e0%25a6%25ab%25e0%25a6%25bf%25e0%25a6%25b8%25e0%25a6%25be%25e0%25a6%25b0%2F&format=xml
+21:13:19	Warning: 	Moved Permanently for https://www.careerki.com/?p=27164
+21:13:19	Warning: 	File has moved from https://www.careerki.com/?p=27164 to https://www.careerki.com/%e0%a6%9a%e0%a6%be%e0%a6%b0%e0%a7%8d%e0%a6%9f%e0%a6%be%e0%a6%b0%e0%a7%8d%e0%a6%a1-%e0%a6%ae%e0%a7%8d%e0%a6%af%e0%a6%be%e0%a6%a8%e0%a7%87%e0%a6%9c%e0%a6%ae%e0%a7%87%e0%a6%a8%e0%a7%8d%e0%a6%9f-%e0%a6%85%e0%a7%8d%e0%a6%af%e0%a6%be%e0%a6%95%e0%a6%be%e0%a6%89%e0%a6%a8%e0%a7%8d%e0%a6%9f%e0%a7%8d%e0%a6%af%e0%a6%be%e0%a6%a8%e0%a7%8d%e0%a6%9f/
+21:13:19	Warning: 	File not added due to mirror cancel: https://www.careerki.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.careerki.com%2F%25e0%25a6%25b9%25e0%25a6%25be%25e0%25a6%25b8%25e0%25a6%25aa%25e0%25a6%25be%25e0%25a6%25a4%25e0%25a6%25be%25e0%25a6%25b2-%25e0%25a6%25b0%25e0%25a7%2587%25e0%25a6%259c%25e0%25a6%25bf%25e0%25a6%25b8%25e0%25a7%258d%25e0%25a6%259f%25e0%25a7%258d%25e0%25a6%25b0%25e0%25a6%25be%25e0%25a6%25b0%2F
+21:13:19	Warning: 	File not added due to mirror cancel: https://www.careerki.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.careerki.com%2F%25e0%25a6%25b9%25e0%25a6%25be%25e0%25a6%25b8%25e0%25a6%25aa%25e0%25a6%25be%25e0%25a6%25a4%25e0%25a6%25be%25e0%25a6%25b2-%25e0%25a6%25b0%25e0%25a7%2587%25e0%25a6%259c%25e0%25a6%25bf%25e0%25a6%25b8%25e0%25a7%258d%25e0%25a6%259f%25e0%25a7%258d%25e0%25a6%25b0%25e0%25a6%25be%25e0%25a6%25b0%2F&format=xml
+21:13:19	Warning: 	Moved Permanently for https://www.careerki.com/?p=8795
+21:13:19	Warning: 	File has moved from https://www.careerki.com/?p=8795 to https://www.careerki.com/%e0%a6%97%e0%a7%8d%e0%a6%b0%e0%a6%be%e0%a6%ab%e0%a6%bf%e0%a6%95-%e0%a6%a1%e0%a6%bf%e0%a6%9c%e0%a6%be%e0%a6%87%e0%a6%a8%e0%a6%be%e0%a6%b0/
+21:13:19	Warning: 	File not added due to mirror cancel: https://www.careerki.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.careerki.com%2F%25e0%25a6%25b0%25e0%25a6%25bf%25e0%25a6%25b8%25e0%25a7%258d%25e0%25a6%2595-%25e0%25a6%25ae%25e0%25a7%258d%25e0%25a6%25af%25e0%25a6%25be%25e0%25a6%25a8%25e0%25a7%2587%25e0%25a6%259c%25e0%25a6%25ae%25e0%25a7%2587%25e0%25a6%25a8%25e0%25a7%258d%25e0%25a6%259f-%25e0%25a6%2585%25e0%25a7%258d%25e0%25a6%25af%25e0%25a6%25be%25e0%25a6%25a8%25e0%25a6%25be%25e0%25a6%25b2%25e0%25a6%25bf%25e0%25a6%25b8%25e0%25a7%258d%25e0%25a6%259f%2F
+21:13:19	Warning: 	File not added due to mirror cancel: https://www.careerki.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.careerki.com%2F%25e0%25a6%25b0%25e0%25a6%25bf%25e0%25a6%25b8%25e0%25a7%258d%25e0%25a6%2595-%25e0%25a6%25ae%25e0%25a7%258d%25e0%25a6%25af%25e0%25a6%25be%25e0%25a6%25a8%25e0%25a7%2587%25e0%25a6%259c%25e0%25a6%25ae%25e0%25a7%2587%25e0%25a6%25a8%25e0%25a7%258d%25e0%25a6%259f-%25e0%25a6%2585%25e0%25a7%258d%25e0%25a6%25af%25e0%25a6%25be%25e0%25a6%25a8%25e0%25a6%25be%25e0%25a6%25b2%25e0%25a6%25bf%25e0%25a6%25b8%25e0%25a7%258d%25e0%25a6%259f%2F&format=xml
+21:13:19	Warning: 	Moved Permanently for https://www.careerki.com/?p=8694
+21:13:19	Warning: 	File has moved from https://www.careerki.com/?p=8694 to https://www.careerki.com/%e0%a6%a8%e0%a6%be%e0%a6%b0%e0%a7%8d%e0%a6%b8/
+21:13:19	Warning: 	Moved Permanently for https://www.careerki.com/?p=26378
+21:13:19	Warning: 	File has moved from https://www.careerki.com/?p=26378 to https://www.careerki.com/%e0%a6%b8%e0%a6%b9%e0%a6%95%e0%a6%be%e0%a6%b0%e0%a7%80-%e0%a6%9c%e0%a6%9c/
+21:13:19	Warning: 	File not added due to mirror cancel: https://www.careerki.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.careerki.com%2F%25e0%25a6%2595%25e0%25a6%25be%25e0%25a6%25b0%25e0%25a7%258d%25e0%25a6%259f%25e0%25a7%258b%25e0%25a6%2597%25e0%25a7%258d%25e0%25a6%25b0%25e0%25a6%25be%25e0%25a6%25ab%25e0%25a6%25be%25e0%25a6%25b0%2F
+21:13:19	Warning: 	File not added due to mirror cancel: https://www.careerki.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.careerki.com%2F%25e0%25a6%2595%25e0%25a6%25be%25e0%25a6%25b0%25e0%25a7%258d%25e0%25a6%259f%25e0%25a7%258b%25e0%25a6%2597%25e0%25a7%258d%25e0%25a6%25b0%25e0%25a6%25be%25e0%25a6%25ab%25e0%25a6%25be%25e0%25a6%25b0%2F&format=xml
+21:13:19	Warning: 	File not added due to mirror cancel: https://www.careerki.com/wp-content/uploads/2018/08/cartographer-profile-800x300.png
+21:13:19	Warning: 	Moved Permanently for https://www.careerki.com/?p=26370
+21:13:19	Warning: 	File has moved from https://www.careerki.com/?p=26370 to https://www.careerki.com/%e0%a6%a5%e0%a7%8d%e0%a6%b0%e0%a6%bf%e0%a6%a1%e0%a6%bf-%e0%a6%85%e0%a7%8d%e0%a6%af%e0%a6%be%e0%a6%a8%e0%a6%bf%e0%a6%ae%e0%a7%87%e0%a6%9f%e0%a6%b0/
+21:13:19	Warning: 	Moved Permanently for https://www.careerki.com/?p=27423
+21:13:19	Warning: 	File has moved from https://www.careerki.com/?p=27423 to https://www.careerki.com/%e0%a6%85%e0%a7%8d%e0%a6%af%e0%a6%be%e0%a6%97%e0%a7%8d%e0%a6%b0%e0%a7%8b-%e0%a6%ab%e0%a7%81%e0%a6%a1-%e0%a6%ac%e0%a6%bf%e0%a6%9c%e0%a6%a8%e0%a7%87%e0%a6%b8%e0%a7%87-%e0%a6%b8%e0%a6%be%e0%a6%ab%e0%a6%b2%e0%a7%8d%e0%a6%af/
+21:13:19	Warning: 	File not added due to mirror cancel: https://www.careerki.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.careerki.com%2F%25e0%25a6%25ab%25e0%25a6%25be%25e0%25a7%259f%25e0%25a6%25be%25e0%25a6%25b0-%25e0%25a6%2587%25e0%25a6%259e%25e0%25a7%258d%25e0%25a6%259c%25e0%25a6%25bf%25e0%25a6%25a8%25e0%25a6%25bf%25e0%25a7%259f%25e0%25a6%25be%25e0%25a6%25b0%2F
+21:13:19	Warning: 	File not added due to mirror cancel: https://www.careerki.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.careerki.com%2F%25e0%25a6%25ab%25e0%25a6%25be%25e0%25a7%259f%25e0%25a6%25be%25e0%25a6%25b0-%25e0%25a6%2587%25e0%25a6%259e%25e0%25a7%258d%25e0%25a6%259c%25e0%25a6%25bf%25e0%25a6%25a8%25e0%25a6%25bf%25e0%25a7%259f%25e0%25a6%25be%25e0%25a6%25b0%2F&format=xml
+21:13:19	Warning: 	Moved Permanently for https://www.careerki.com/?p=26372
+21:13:19	Warning: 	File has moved from https://www.careerki.com/?p=26372 to https://www.careerki.com/%e0%a6%a5%e0%a7%8d%e0%a6%b0%e0%a6%bf%e0%a6%a1%e0%a6%bf-%e0%a6%86%e0%a6%b0%e0%a7%8d%e0%a6%9f%e0%a6%bf%e0%a6%b8%e0%a7%8d%e0%a6%9f/
+21:13:19	Warning: 	File not added due to mirror cancel: https://www.careerki.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.careerki.com%2F%25e0%25a6%2595%25e0%25a6%25ae%25e0%25a6%25bf-%25e0%25a6%25b6%25e0%25a7%2587%25e0%25a6%25ab%2F
+21:13:19	Warning: 	File not added due to mirror cancel: https://www.careerki.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.careerki.com%2F%25e0%25a6%2595%25e0%25a6%25ae%25e0%25a6%25bf-%25e0%25a6%25b6%25e0%25a7%2587%25e0%25a6%25ab%2F&format=xml
+21:13:19	Warning: 	Moved Permanently for https://www.careerki.com/?p=26374
+21:13:19	Warning: 	File has moved from https://www.careerki.com/?p=26374 to https://www.careerki.com/%e0%a6%85%e0%a6%ad%e0%a6%bf%e0%a6%a8%e0%a7%87%e0%a6%a4%e0%a6%be/
+21:13:19	Warning: 	Moved Permanently for https://www.careerki.com/?p=26186
+21:13:19	Warning: 	File has moved from https://www.careerki.com/?p=26186 to https://www.careerki.com/%e0%a6%b9%e0%a7%8b%e0%a6%9f%e0%a7%87%e0%a6%b2-%e0%a6%ae%e0%a7%8d%e0%a6%af%e0%a6%be%e0%a6%a8%e0%a7%87%e0%a6%9c%e0%a6%be%e0%a6%b0/
+21:13:19	Warning: 	Moved Permanently for https://www.careerki.com/?p=26105
+21:13:19	Warning: 	File has moved from https://www.careerki.com/?p=26105 to https://www.careerki.com/%e0%a6%95%e0%a6%a8%e0%a6%b8%e0%a7%8d%e0%a6%9f%e0%a7%8d%e0%a6%b0%e0%a6%be%e0%a6%95%e0%a6%b6%e0%a6%a8-%e0%a6%ae%e0%a7%8d%e0%a6%af%e0%a6%be%e0%a6%a8%e0%a7%87%e0%a6%9c%e0%a6%be%e0%a6%b0/
+21:13:19	Warning: 	File not added due to mirror cancel: https://www.careerki.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.careerki.com%2F%25e0%25a6%25ab%25e0%25a7%2581%25e0%25a6%25a1-%25e0%25a6%25b8%25e0%25a6%25be%25e0%25a7%259f%25e0%25a7%2587%25e0%25a6%25a8%25e0%25a7%258d%25e0%25a6%259f%25e0%25a6%25bf%25e0%25a6%25b8%25e0%25a7%258d%25e0%25a6%259f%2F
+21:13:19	Warning: 	File not added due to mirror cancel: https://www.careerki.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.careerki.com%2F%25e0%25a6%25ab%25e0%25a7%2581%25e0%25a6%25a1-%25e0%25a6%25b8%25e0%25a6%25be%25e0%25a7%259f%25e0%25a7%2587%25e0%25a6%25a8%25e0%25a7%258d%25e0%25a6%259f%25e0%25a6%25bf%25e0%25a6%25b8%25e0%25a7%258d%25e0%25a6%259f%2F&format=xml
+21:13:19	Warning: 	File not added due to mirror cancel: https://www.careerki.com/wp-content/uploads/2018/08/food-scientist-profile-800x300.png
+21:13:19	Warning: 	File not added due to mirror cancel: https://www.careerki.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.careerki.com%2F%25e0%25a6%25ac%25e0%25a7%2581%25e0%25a6%2595-%25e0%25a6%25ac%25e0%25a6%25be%25e0%25a6%2587%25e0%25a6%25a8%25e0%25a7%258d%25e0%25a6%25a1%25e0%25a6%25be%25e0%25a6%25b0%2F
+21:13:19	Warning: 	File not added due to mirror cancel: https://www.careerki.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.careerki.com%2F%25e0%25a6%25ac%25e0%25a7%2581%25e0%25a6%2595-%25e0%25a6%25ac%25e0%25a6%25be%25e0%25a6%2587%25e0%25a6%25a8%25e0%25a7%258d%25e0%25a6%25a1%25e0%25a6%25be%25e0%25a6%25b0%2F&format=xml
+21:13:19	Warning: 	Moved Permanently for https://www.careerki.com/?p=26064
+21:13:19	Warning: 	File has moved from https://www.careerki.com/?p=26064 to https://www.careerki.com/%e0%a6%ab%e0%a6%bf%e0%a6%b6%e0%a6%be%e0%a6%b0%e0%a6%bf%e0%a6%9c-%e0%a6%85%e0%a6%ab%e0%a6%bf%e0%a6%b8%e0%a6%be%e0%a6%b0/
+21:13:19	Warning: 	Moved Permanently for https://www.careerki.com/?p=25818
+21:13:19	Warning: 	File has moved from https://www.careerki.com/?p=25818 to https://www.careerki.com/%e0%a6%ac%e0%a6%bf%e0%a6%b8%e0%a6%bf%e0%a6%8f%e0%a6%b8-%e0%a6%b2%e0%a6%be%e0%a6%87%e0%a6%ad%e0%a6%b8%e0%a7%8d%e0%a6%9f%e0%a6%95/
+21:13:19	Warning: 	File not added due to mirror cancel: https://www.careerki.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.careerki.com%2F%25e0%25a6%25b2%25e0%25a7%258d%25e0%25a6%25af%25e0%25a6%25be%25e0%25a6%2599%25e0%25a7%258d%25e0%25a6%2597%25e0%25a7%2581%25e0%25a7%259f%25e0%25a7%2587%25e0%25a6%259c-%25e0%25a6%2587%25e0%25a6%25a8%25e0%25a7%258d%25e0%25a6%25b8%25e0%25a6%259f%25e0%25a7%258d%25e0%25a6%25b0%25e0%25a6%25be%25e0%25a6%2595%25e0%25a7%258d%25e0%25a6%259f%25e0%25a6%25b0%2F
+21:13:19	Warning: 	File not added due to mirror cancel: https://www.careerki.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.careerki.com%2F%25e0%25a6%25b2%25e0%25a7%258d%25e0%25a6%25af%25e0%25a6%25be%25e0%25a6%2599%25e0%25a7%258d%25e0%25a6%2597%25e0%25a7%2581%25e0%25a7%259f%25e0%25a7%2587%25e0%25a6%259c-%25e0%25a6%2587%25e0%25a6%25a8%25e0%25a7%258d%25e0%25a6%25b8%25e0%25a6%259f%25e0%25a7%258d%25e0%25a6%25b0%25e0%25a6%25be%25e0%25a6%2595%25e0%25a7%258d%25e0%25a6%259f%25e0%25a6%25b0%2F&format=xml
+21:13:19	Warning: 	File not added due to mirror cancel: https://www.careerki.com/wp-content/uploads/2018/08/language-instructor-profile-800x300.png
+21:13:19	Warning: 	Moved Permanently for https://www.careerki.com/?p=8534
+21:13:19	Warning: 	File has moved from https://www.careerki.com/?p=8534 to https://www.careerki.com/%e0%a6%a1%e0%a7%87%e0%a6%a8%e0%a7%8d%e0%a6%9f%e0%a6%bf%e0%a6%b8%e0%a7%8d%e0%a6%9f/
+21:13:19	Warning: 	File not added due to mirror cancel: https://www.careerki.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.careerki.com%2F%25e0%25a6%25b9%25e0%25a7%2587%25e0%25a6%25aa%25e0%25a6%25be%25e0%25a6%259f%25e0%25a7%258b%25e0%25a6%25ac%25e0%25a6%25bf%25e0%25a6%25b2%25e0%25a6%25bf%25e0%25a7%259f%25e0%25a6%25be%25e0%25a6%25b0%25e0%25a6%25bf-%25e0%25a6%25b8%25e0%25a6%25be%25e0%25a6%25b0%25e0%25a7%258d%25e0%25a6%259c%25e0%25a6%25a8%2F
+21:13:19	Warning: 	File not added due to mirror cancel: https://www.careerki.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.careerki.com%2F%25e0%25a6%25b9%25e0%25a7%2587%25e0%25a6%25aa%25e0%25a6%25be%25e0%25a6%259f%25e0%25a7%258b%25e0%25a6%25ac%25e0%25a6%25bf%25e0%25a6%25b2%25e0%25a6%25bf%25e0%25a7%259f%25e0%25a6%25be%25e0%25a6%25b0%25e0%25a6%25bf-%25e0%25a6%25b8%25e0%25a6%25be%25e0%25a6%25b0%25e0%25a7%258d%25e0%25a6%259c%25e0%25a6%25a8%2F&format=xml
+21:13:19	Warning: 	File not added due to mirror cancel: https://www.careerki.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.careerki.com%2F%25e0%25a6%25b8%25e0%25a7%258b%25e0%25a7%259f%25e0%25a6%25bf%25e0%25a6%2582-%25e0%25a6%25b8%25e0%25a7%2581%25e0%25a6%25aa%25e0%25a6%25be%25e0%25a6%25b0%25e0%25a6%25ad%25e0%25a6%25be%25e0%25a6%2587%25e0%25a6%259c%25e0%25a6%25be%25e0%25a6%25b0%2F
+21:13:19	Warning: 	File not added due to mirror cancel: https://www.careerki.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.careerki.com%2F%25e0%25a6%25b8%25e0%25a7%258b%25e0%25a7%259f%25e0%25a6%25bf%25e0%25a6%2582-%25e0%25a6%25b8%25e0%25a7%2581%25e0%25a6%25aa%25e0%25a6%25be%25e0%25a6%25b0%25e0%25a6%25ad%25e0%25a6%25be%25e0%25a6%2587%25e0%25a6%259c%25e0%25a6%25be%25e0%25a6%25b0%2F&format=xml
+21:13:19	Warning: 	Moved Permanently for https://www.careerki.com/?p=8813
+21:13:19	Warning: 	File has moved from https://www.careerki.com/?p=8813 to https://www.careerki.com/%e0%a6%b6%e0%a6%bf%e0%a6%95%e0%a7%8d%e0%a6%b7%e0%a6%be%e0%a6%ac%e0%a6%bf%e0%a6%a6/
+21:13:19	Warning: 	File not added due to mirror cancel: https://www.careerki.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.careerki.com%2F%25e0%25a6%25b0%25e0%25a6%25be%25e0%25a6%25b7%25e0%25a7%258d%25e0%25a6%259f%25e0%25a7%258d%25e0%25a6%25b0%25e0%25a6%25a6%25e0%25a7%2582%25e0%25a6%25a4%2F
+21:13:19	Warning: 	File not added due to mirror cancel: https://www.careerki.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.careerki.com%2F%25e0%25a6%25b0%25e0%25a6%25be%25e0%25a6%25b7%25e0%25a7%258d%25e0%25a6%259f%25e0%25a7%258d%25e0%25a6%25b0%25e0%25a6%25a6%25e0%25a7%2582%25e0%25a6%25a4%2F&format=xml
+21:13:19	Warning: 	Moved Permanently for https://www.careerki.com/?p=27452
+21:13:19	Warning: 	File has moved from https://www.careerki.com/?p=27452 to https://www.careerki.com/%e0%a6%85%e0%a6%a8%e0%a6%b2%e0%a6%be%e0%a6%87%e0%a6%a8-%e0%a6%ac%e0%a7%8d%e0%a6%af%e0%a6%ac%e0%a6%b8%e0%a6%be%e0%a7%9f-%e0%a6%b8%e0%a6%be%e0%a6%ab%e0%a6%b2%e0%a7%8d%e0%a6%af/
+21:13:19	Warning: 	Moved Permanently for https://www.careerki.com/?p=27421
+21:13:19	Warning: 	File has moved from https://www.careerki.com/?p=27421 to https://www.careerki.com/%e0%a6%85%e0%a7%8d%e0%a6%af%e0%a6%be%e0%a6%97%e0%a7%8d%e0%a6%b0%e0%a7%8b-%e0%a6%ab%e0%a7%81%e0%a6%a1-%e0%a6%ac%e0%a6%bf%e0%a6%9c%e0%a6%a8%e0%a7%87%e0%a6%b8%e0%a7%87%e0%a6%b0-%e0%a6%9a%e0%a7%8d%e0%a6%af%e0%a6%be%e0%a6%b2%e0%a7%87%e0%a6%9e%e0%a7%8d%e0%a6%9c/
+21:13:19	Warning: 	File not added due to mirror cancel: https://www.careerki.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.careerki.com%2F%25e0%25a6%25a8%25e0%25a7%2587%25e0%25a6%259f%25e0%25a6%2593%25e0%25a7%259f%25e0%25a6%25be%25e0%25a6%25b0%25e0%25a7%258d%25e0%25a6%2595-%25e0%25a6%259f%25e0%25a7%2587%25e0%25a6%2595%25e0%25a6%25a8%25e0%25a6%25bf%25e0%25a6%25b6%25e0%25a6%25bf%25e0%25a7%259f%25e0%25a6%25be%25e0%25a6%25a8%2F
+21:13:19	Warning: 	File not added due to mirror cancel: https://www.careerki.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.careerki.com%2F%25e0%25a6%25a8%25e0%25a7%2587%25e0%25a6%259f%25e0%25a6%2593%25e0%25a7%259f%25e0%25a6%25be%25e0%25a6%25b0%25e0%25a7%258d%25e0%25a6%2595-%25e0%25a6%259f%25e0%25a7%2587%25e0%25a6%2595%25e0%25a6%25a8%25e0%25a6%25bf%25e0%25a6%25b6%25e0%25a6%25bf%25e0%25a7%259f%25e0%25a6%25be%25e0%25a6%25a8%2F&format=xml
+21:13:19	Warning: 	File not added due to mirror cancel: https://www.careerki.com/wp-content/uploads/2018/07/lieutenant-profile-75x75.png
+21:13:19	Warning: 	Moved Permanently for https://www.careerki.com/?p=26205
+21:13:19	Warning: 	File has moved from https://www.careerki.com/?p=26205 to https://www.careerki.com/%e0%a6%85%e0%a6%b0%e0%a7%8d%e0%a6%a5%e0%a7%8b%e0%a6%aa%e0%a7%87%e0%a6%a1%e0%a6%bf%e0%a6%95-%e0%a6%a1%e0%a6%be%e0%a6%95%e0%a7%8d%e0%a6%a4%e0%a6%be%e0%a6%b0/
+21:13:19	Warning: 	File not added due to mirror cancel: https://www.careerki.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.careerki.com%2F%25e0%25a6%2593%25e0%25a7%259f%25e0%25a7%2587%25e0%25a6%25ac-%25e0%25a6%25a1%25e0%25a7%2587%25e0%25a6%25ad%25e0%25a7%2587%25e0%25a6%25b2%25e0%25a6%25aa%25e0%25a6%25be%25e0%25a6%25b0%2F
+21:13:19	Warning: 	File not added due to mirror cancel: https://www.careerki.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.careerki.com%2F%25e0%25a6%2593%25e0%25a7%259f%25e0%25a7%2587%25e0%25a6%25ac-%25e0%25a6%25a1%25e0%25a7%2587%25e0%25a6%25ad%25e0%25a7%2587%25e0%25a6%25b2%25e0%25a6%25aa%25e0%25a6%25be%25e0%25a6%25b0%2F&format=xml
+21:13:19	Warning: 	File not added due to mirror cancel: https://www.careerki.com/wp-content/uploads/2018/08/web-developer-profile-800x300.png
+21:13:19	Warning: 	Moved Permanently for https://www.careerki.com/?p=26782
+21:13:19	Warning: 	File has moved from https://www.careerki.com/?p=26782 to https://www.careerki.com/%e0%a6%b8%e0%a6%be%e0%a6%87%e0%a6%95%e0%a7%8b%e0%a6%b2%e0%a6%9c%e0%a6%bf%e0%a6%b8%e0%a7%8d%e0%a6%9f-%e0%a6%93-%e0%a6%b8%e0%a6%be%e0%a6%87%e0%a6%95%e0%a6%bf%e0%a7%9f%e0%a6%be%e0%a6%9f%e0%a7%8d%e0%a6%b0%e0%a6%bf%e0%a6%b8%e0%a7%8d%e0%a6%9f%e0%a7%87%e0%a6%b0-%e0%a6%aa%e0%a6%be%e0%a6%b0%e0%a7%8d%e0%a6%a5%e0%a6%95%e0%a7%8d%e0%a6%af/
+21:13:19	Warning: 	File not added due to mirror cancel: https://www.careerki.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.careerki.com%2F%25e0%25a6%25a1%25e0%25a6%2595%25e0%25a7%2581%25e0%25a6%25ae%25e0%25a7%2587%25e0%25a6%25a8%25e0%25a7%258d%25e0%25a6%259f%25e0%25a7%2587%25e0%25a6%25b6%25e0%25a6%25a8-%25e0%25a6%2585%25e0%25a6%25ab%25e0%25a6%25bf%25e0%25a6%25b8%25e0%25a6%25be%25e0%25a6%25b0%2F
+21:13:19	Warning: 	File not added due to mirror cancel: https://www.careerki.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.careerki.com%2F%25e0%25a6%25a1%25e0%25a6%2595%25e0%25a7%2581%25e0%25a6%25ae%25e0%25a7%2587%25e0%25a6%25a8%25e0%25a7%258d%25e0%25a6%259f%25e0%25a7%2587%25e0%25a6%25b6%25e0%25a6%25a8-%25e0%25a6%2585%25e0%25a6%25ab%25e0%25a6%25bf%25e0%25a6%25b8%25e0%25a6%25be%25e0%25a6%25b0%2F&format=xml
+21:13:19	Warning: 	File not added due to mirror cancel: https://www.careerki.com/wp-content/uploads/2018/07/fashion-designer-profile-75x75.png
+21:13:19	Warning: 	Moved Permanently for https://www.careerki.com/?p=26200
+21:13:19	Warning: 	File has moved from https://www.careerki.com/?p=26200 to https://www.careerki.com/%e0%a6%a1%e0%a6%be%e0%a7%9f%e0%a7%87%e0%a6%9f%e0%a6%bf%e0%a6%b6%e0%a6%bf%e0%a7%9f%e0%a6%be%e0%a6%a8/
+21:13:19	Warning: 	Moved Permanently for https://www.careerki.com/?p=27253
+21:13:19	Warning: 	File has moved from https://www.careerki.com/?p=27253 to https://www.careerki.com/%e0%a6%ac%e0%a6%be%e0%a6%82%e0%a6%b2%e0%a6%be%e0%a6%a6%e0%a7%87%e0%a6%b6%e0%a7%87-%e0%a6%85%e0%a6%a8%e0%a6%b2%e0%a6%be%e0%a6%87%e0%a6%a8-%e0%a6%ac%e0%a7%8d%e0%a6%af%e0%a6%ac%e0%a6%b8%e0%a6%be%e0%a6%b0-%e0%a6%9a%e0%a7%8d%e0%a6%af%e0%a6%be%e0%a6%b2%e0%a7%87%e0%a6%9e%e0%a7%8d%e0%a6%9c/
+21:13:19	Warning: 	File not added due to mirror cancel: https://www.careerki.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.careerki.com%2F%25e0%25a6%25ad%25e0%25a6%25bf%25e0%25a6%25a1%25e0%25a6%25bf%25e0%25a6%2593-%25e0%25a6%258f%25e0%25a6%25a1%25e0%25a6%25bf%25e0%25a6%259f%25e0%25a6%25b0%2F
+21:13:19	Warning: 	File not added due to mirror cancel: https://www.careerki.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.careerki.com%2F%25e0%25a6%25ad%25e0%25a6%25bf%25e0%25a6%25a1%25e0%25a6%25bf%25e0%25a6%2593-%25e0%25a6%258f%25e0%25a6%25a1%25e0%25a6%25bf%25e0%25a6%259f%25e0%25a6%25b0%2F&format=xml
+21:13:19	Warning: 	Moved Permanently for https://www.careerki.com/?p=26170
+21:13:19	Warning: 	File has moved from https://www.careerki.com/?p=26170 to https://www.careerki.com/%e0%a6%ab%e0%a6%bf%e0%a6%9c%e0%a6%bf%e0%a6%93%e0%a6%a5%e0%a7%87%e0%a6%b0%e0%a6%be%e0%a6%aa%e0%a6%bf-%e0%a6%95%e0%a7%80-%e0%a6%93-%e0%a6%95%e0%a7%8b%e0%a6%a5%e0%a6%be%e0%a7%9f-%e0%a6%aa%e0%a7%9c%e0%a6%ac%e0%a7%87%e0%a6%a8/
+21:13:19	Warning: 	Moved Permanently for https://www.careerki.com/?p=26157
+21:13:19	Warning: 	File has moved from https://www.careerki.com/?p=26157 to https://www.careerki.com/%e0%a6%ac%e0%a6%be%e0%a6%82%e0%a6%b2%e0%a6%be%e0%a6%a6%e0%a7%87%e0%a6%b6%e0%a7%87-%e0%a6%aa%e0%a6%be%e0%a6%87%e0%a6%b2%e0%a6%9f-%e0%a6%b9%e0%a6%ac%e0%a6%be%e0%a6%b0-%e0%a6%9f%e0%a7%8d%e0%a6%b0%e0%a7%87%e0%a6%a8%e0%a6%bf%e0%a6%82-%e0%a6%af%e0%a7%87%e0%a6%96%e0%a6%be%e0%a6%a8%e0%a7%87-%e0%a6%a8%e0%a7%87%e0%a6%ac%e0%a7%87%e0%a6%a8/
+21:13:19	Warning: 	File not added due to mirror cancel: https://www.careerki.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.careerki.com%2F%25e0%25a6%25aa%25e0%25a6%25be%25e0%25a6%2587%25e0%25a6%25b2%25e0%25a6%259f%2F
+21:13:19	Warning: 	File not added due to mirror cancel: https://www.careerki.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.careerki.com%2F%25e0%25a6%25aa%25e0%25a6%25be%25e0%25a6%2587%25e0%25a6%25b2%25e0%25a6%259f%2F&format=xml
+21:13:19	Warning: 	File not added due to mirror cancel: https://www.careerki.com/wp-content/uploads/2018/05/pilot-profile-800x300.png
+21:13:19	Warning: 	File not added due to mirror cancel: https://www.careerki.com/wp-content/uploads/2018/07/electrician-profile-75x75.png
+21:13:19	Warning: 	File not added due to mirror cancel: https://www.careerki.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.careerki.com%2F%25e0%25a6%25b9%25e0%25a6%25be%25e0%25a6%2589%25e0%25a6%25b8%25e0%25a6%2595%25e0%25a6%25bf%25e0%25a6%25aa%25e0%25a6%25bf%25e0%25a6%2582-%25e0%25a6%25b8%25e0%25a7%2581%25e0%25a6%25aa%25e0%25a6%25be%25e0%25a6%25b0%25e0%25a6%25ad%25e0%25a6%25be%25e0%25a6%2587%25e0%25a6%259c%25e0%25a6%25be%25e0%25a6%25b0%2F
+21:13:19	Warning: 	File not added due to mirror cancel: https://www.careerki.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.careerki.com%2F%25e0%25a6%25b9%25e0%25a6%25be%25e0%25a6%2589%25e0%25a6%25b8%25e0%25a6%2595%25e0%25a6%25bf%25e0%25a6%25aa%25e0%25a6%25bf%25e0%25a6%2582-%25e0%25a6%25b8%25e0%25a7%2581%25e0%25a6%25aa%25e0%25a6%25be%25e0%25a6%25b0%25e0%25a6%25ad%25e0%25a6%25be%25e0%25a6%2587%25e0%25a6%259c%25e0%25a6%25be%25e0%25a6%25b0%2F&format=xml
+21:13:19	Warning: 	File not added due to mirror cancel: https://www.careerki.com/wp-content/uploads/2018/08/housekeeping-supervisor-profile-800x300.png
+21:13:19	Warning: 	Moved Permanently for https://www.careerki.com/?p=27176
+21:13:19	Warning: 	File has moved from https://www.careerki.com/?p=27176 to https://www.careerki.com/%e0%a6%aa%e0%a7%8d%e0%a6%b0%e0%a7%8b%e0%a6%a1%e0%a6%be%e0%a6%95%e0%a7%8d%e0%a6%9f-%e0%a6%ae%e0%a7%8d%e0%a6%af%e0%a6%be%e0%a6%a8%e0%a7%87%e0%a6%9c%e0%a6%be%e0%a6%b0/
+21:13:19	Warning: 	Moved Permanently for https://www.careerki.com/?p=26222
+21:13:19	Warning: 	File has moved from https://www.careerki.com/?p=26222 to https://www.careerki.com/%e0%a6%b8%e0%a6%be%e0%a6%b0%e0%a7%8d%e0%a6%ad%e0%a7%87%e0%a7%9f%e0%a6%be%e0%a6%b0/
+21:13:19	Warning: 	File not added due to mirror cancel: https://www.careerki.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.careerki.com%2F%25e0%25a6%25b2%25e0%25a7%2587%25e0%25a6%25a6-%25e0%25a6%25ae%25e0%25a7%2587%25e0%25a6%25b6%25e0%25a6%25bf%25e0%25a6%25a8-%25e0%25a6%259f%25e0%25a7%2587%25e0%25a6%2595%25e0%25a6%25a8%25e0%25a6%25bf%25e0%25a6%25b6%25e0%25a6%25bf%25e0%25a7%259f%25e0%25a6%25be%25e0%25a6%25a8%2F
+21:13:19	Warning: 	File not added due to mirror cancel: https://www.careerki.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.careerki.com%2F%25e0%25a6%25b2%25e0%25a7%2587%25e0%25a6%25a6-%25e0%25a6%25ae%25e0%25a7%2587%25e0%25a6%25b6%25e0%25a6%25bf%25e0%25a6%25a8-%25e0%25a6%259f%25e0%25a7%2587%25e0%25a6%2595%25e0%25a6%25a8%25e0%25a6%25bf%25e0%25a6%25b6%25e0%25a6%25bf%25e0%25a7%259f%25e0%25a6%25be%25e0%25a6%25a8%2F&format=xml
+21:13:20	Warning: 	Moved Permanently for https://www.careerki.com/?p=26098
+21:13:20	Warning: 	File has moved from https://www.careerki.com/?p=26098 to https://www.careerki.com/%e0%a6%95%e0%a6%ae%e0%a6%bf%e0%a6%89%e0%a6%a8%e0%a6%bf%e0%a6%9f%e0%a6%bf-%e0%a6%8f%e0%a6%a8%e0%a6%97%e0%a7%87%e0%a6%9c%e0%a6%ae%e0%a7%87%e0%a6%a8%e0%a7%8d%e0%a6%9f-%e0%a6%85%e0%a6%ab%e0%a6%bf%e0%a6%b8%e0%a6%be%e0%a6%b0/
+21:13:20	Warning: 	Moved Permanently for https://www.careerki.com/?p=26446
+21:13:20	Warning: 	File has moved from https://www.careerki.com/?p=26446 to https://www.careerki.com/%e0%a6%95%e0%a7%8d%e0%a6%b0%e0%a7%87%e0%a6%a1%e0%a6%bf%e0%a6%9f-%e0%a6%85%e0%a7%8d%e0%a6%af%e0%a6%be%e0%a6%a8%e0%a7%8d%e0%a6%a1-%e0%a6%b0%e0%a6%bf%e0%a6%b8%e0%a7%8d%e0%a6%95-%e0%a6%85%e0%a7%8d%e0%a6%af%e0%a6%be%e0%a6%a8%e0%a6%be%e0%a6%b2%e0%a6%bf%e0%a6%b8%e0%a7%8d%e0%a6%9f/
+21:13:20	Warning: 	Moved Permanently for https://www.careerki.com/?p=26495
+21:13:20	Warning: 	File has moved from https://www.careerki.com/?p=26495 to https://www.careerki.com/%e0%a6%b9%e0%a6%be%e0%a6%89%e0%a6%b8%e0%a6%95%e0%a6%bf%e0%a6%aa%e0%a6%be%e0%a6%b0/
+21:13:20	Warning: 	Moved Permanently for https://www.careerki.com/?p=26198
+21:13:20	Warning: 	File has moved from https://www.careerki.com/?p=26198 to https://www.careerki.com/%e0%a6%a8%e0%a6%bf%e0%a6%89%e0%a6%9c-%e0%a6%aa%e0%a7%8d%e0%a6%b0%e0%a7%87%e0%a6%9c%e0%a7%87%e0%a6%a8%e0%a7%8d%e0%a6%9f%e0%a6%be%e0%a6%b0/
+21:13:20	Warning: 	File not added due to mirror cancel: https://www.careerki.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.careerki.com%2F%25e0%25a6%25b8%25e0%25a6%25be%25e0%25a6%2587%25e0%25a6%259f-%25e0%25a6%25ae%25e0%25a7%258d%25e0%25a6%25af%25e0%25a6%25be%25e0%25a6%25a8%25e0%25a7%2587%25e0%25a6%259c%25e0%25a6%25ae%25e0%25a7%2587%25e0%25a6%25a8%25e0%25a7%258d%25e0%25a6%259f-%25e0%25a6%25b8%25e0%25a6%25be%25e0%25a6%25aa%25e0%25a7%258b%25e0%25a6%25b0%25e0%25a7%258d%25e0%25a6%259f-%25e0%25a6%2585%25e0%25a6%25ab%25e0%25a6%25bf%25e0%25a6%25b8%25e0%25a6%25be%25e0%25a6%25b0%2F
+21:13:20	Warning: 	File not added due to mirror cancel: https://www.careerki.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.careerki.com%2F%25e0%25a6%25b8%25e0%25a6%25be%25e0%25a6%2587%25e0%25a6%259f-%25e0%25a6%25ae%25e0%25a7%258d%25e0%25a6%25af%25e0%25a6%25be%25e0%25a6%25a8%25e0%25a7%2587%25e0%25a6%259c%25e0%25a6%25ae%25e0%25a7%2587%25e0%25a6%25a8%25e0%25a7%258d%25e0%25a6%259f-%25e0%25a6%25b8%25e0%25a6%25be%25e0%25a6%25aa%25e0%25a7%258b%25e0%25a6%25b0%25e0%25a7%258d%25e0%25a6%259f-%25e0%25a6%2585%25e0%25a6%25ab%25e0%25a6%25bf%25e0%25a6%25b8%25e0%25a6%25be%25e0%25a6%25b0%2F&format=xml
+21:13:20	Warning: 	File not added due to mirror cancel: https://www.careerki.com/wp-content/uploads/2018/05/pilot-profile-75x75.png
+21:13:20	Warning: 	Moved Permanently for https://www.careerki.com/?p=26132
+21:13:20	Warning: 	File has moved from https://www.careerki.com/?p=26132 to https://www.careerki.com/%e0%a6%ab%e0%a6%bf%e0%a6%9f%e0%a6%a8%e0%a7%87%e0%a6%b8-%e0%a6%9f%e0%a7%8d%e0%a6%b0%e0%a7%87%e0%a6%87%e0%a6%a8%e0%a6%be%e0%a6%b0/
+21:13:20	Warning: 	Moved Permanently for https://www.careerki.com/?p=9021
+21:13:20	Warning: 	File has moved from https://www.careerki.com/?p=9021 to https://www.careerki.com/%e0%a6%b0%e0%a7%87%e0%a6%a1%e0%a6%bf%e0%a6%93-%e0%a6%9c%e0%a6%95%e0%a6%bf/
+21:13:20	Warning: 	File not added due to mirror cancel: https://www.careerki.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.careerki.com%2F%25e0%25a6%25b0%25e0%25a6%25bf%25e0%25a6%25b8%25e0%25a6%25be%25e0%25a6%25b0%25e0%25a7%258d%25e0%25a6%259a-%25e0%25a6%2585%25e0%25a7%258d%25e0%25a6%25af%25e0%25a6%25be%25e0%25a6%25a8%25e0%25a7%258d%25e0%25a6%25a1-%25e0%25a6%25a1%25e0%25a7%2587%25e0%25a6%25ad%25e0%25a7%2587%25e0%25a6%25b2%25e0%25a6%25aa%25e0%25a6%25ae%25e0%25a7%2587%25e0%25a6%25a8%25e0%25a7%258d%25e0%25a6%259f-%25e0%25a6%2585%25e0%25a6%25ab%25e0%25a6%25bf%25e0%25a6%25b8%25e0%25a6%25be%25e0%25a6%25b0%2F
+21:13:20	Warning: 	File not added due to mirror cancel: https://www.careerki.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.careerki.com%2F%25e0%25a6%25b0%25e0%25a6%25bf%25e0%25a6%25b8%25e0%25a6%25be%25e0%25a6%25b0%25e0%25a7%258d%25e0%25a6%259a-%25e0%25a6%2585%25e0%25a7%258d%25e0%25a6%25af%25e0%25a6%25be%25e0%25a6%25a8%25e0%25a7%258d%25e0%25a6%25a1-%25e0%25a6%25a1%25e0%25a7%2587%25e0%25a6%25ad%25e0%25a7%2587%25e0%25a6%25b2%25e0%25a6%25aa%25e0%25a6%25ae%25e0%25a7%2587%25e0%25a6%25a8%25e0%25a7%258d%25e0%25a6%259f-%25e0%25a6%2585%25e0%25a6%25ab%25e0%25a6%25bf%25e0%25a6%25b8%25e0%25a6%25be%25e0%25a6%25b0%2F&format=xml
+21:13:20	Warning: 	File not added due to mirror cancel: https://www.careerki.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.careerki.com%2F%25e0%25a6%25b8%25e0%25a6%25a8%25e0%25a7%258b%25e0%25a6%25b2%25e0%25a6%259c%25e0%25a6%25bf%25e0%25a6%25b8%25e0%25a7%258d%25e0%25a6%259f%2F
+21:13:20	Warning: 	File not added due to mirror cancel: https://www.careerki.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.careerki.com%2F%25e0%25a6%25b8%25e0%25a6%25a8%25e0%25a7%258b%25e0%25a6%25b2%25e0%25a6%259c%25e0%25a6%25bf%25e0%25a6%25b8%25e0%25a7%258d%25e0%25a6%259f%2F&format=xml
+21:13:20	Warning: 	Moved Permanently for https://www.careerki.com/?p=9013
+21:13:20	Warning: 	File has moved from https://www.careerki.com/?p=9013 to https://www.careerki.com/%e0%a6%b8%e0%a7%8d%e0%a6%aa%e0%a6%bf%e0%a6%9a-%e0%a6%85%e0%a7%8d%e0%a6%af%e0%a6%be%e0%a6%a8%e0%a7%8d%e0%a6%a1-%e0%a6%b2%e0%a7%8d%e0%a6%af%e0%a6%be%e0%a6%99%e0%a7%8d%e0%a6%97%e0%a7%81%e0%a7%9f%e0%a7%87%e0%a6%9c-%e0%a6%a5%e0%a7%87%e0%a6%b0%e0%a6%be%e0%a6%aa%e0%a6%bf%e0%a6%b8%e0%a7%8d%e0%a6%9f/
+21:13:20	Warning: 	Moved Permanently for https://www.careerki.com/?p=26521
+21:13:20	Warning: 	File has moved from https://www.careerki.com/?p=26521 to https://www.careerki.com/%e0%a6%ae%e0%a7%8d%e0%a6%af%e0%a6%be%e0%a6%a8%e0%a6%bf%e0%a6%95%e0%a6%bf%e0%a6%89%e0%a6%b0%e0%a6%bf%e0%a6%b8%e0%a7%8d%e0%a6%9f/
+21:13:20	Warning: 	Moved Permanently for https://www.careerki.com/?p=26485
+21:13:20	Warning: 	File has moved from https://www.careerki.com/?p=26485 to https://www.careerki.com/%e0%a6%97%e0%a6%be%e0%a6%87%e0%a6%a8%e0%a6%bf%e0%a6%95%e0%a7%8b%e0%a6%b2%e0%a6%9c%e0%a6%bf%e0%a6%b8%e0%a7%8d%e0%a6%9f/
+21:13:20	Warning: 	Moved Permanently for https://www.careerki.com/?p=8976
+21:13:20	Warning: 	File has moved from https://www.careerki.com/?p=8976 to https://www.careerki.com/%e0%a6%9f%e0%a7%8d%e0%a6%b0%e0%a6%be%e0%a6%ad%e0%a7%87%e0%a6%b2-%e0%a6%8f%e0%a6%9c%e0%a7%87%e0%a6%a8%e0%a7%8d%e0%a6%9f/
+21:13:20	Warning: 	Moved Permanently for https://www.careerki.com/?p=9057
+21:13:20	Warning: 	File has moved from https://www.careerki.com/?p=9057 to https://www.careerki.com/%e0%a6%aa%e0%a7%87%e0%a6%87%e0%a6%a8%e0%a7%8d%e0%a6%9f%e0%a6%be%e0%a6%b0/
+21:13:20	Warning: 	Moved Permanently for https://www.careerki.com/?p=8996
+21:13:20	Warning: 	File has moved from https://www.careerki.com/?p=8996 to https://www.careerki.com/%e0%a6%85%e0%a6%a1%e0%a6%bf%e0%a6%9f%e0%a6%b0/
+21:13:20	Warning: 	File not added due to mirror cancel: https://www.careerki.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.careerki.com%2F%25e0%25a6%2595%25e0%25a7%258d%25e0%25a6%25af%25e0%25a6%25be%25e0%25a6%259f%25e0%25a6%25be%25e0%25a6%25b0%25e0%25a6%25bf%25e0%25a6%2582-%25e0%25a6%25b8%25e0%25a7%2581%25e0%25a6%25aa%25e0%25a6%25be%25e0%25a6%25b0%25e0%25a6%25ad%25e0%25a6%25be%25e0%25a6%2587%25e0%25a6%259c%25e0%25a6%25be%25e0%25a6%25b0%2F
+21:13:20	Warning: 	File not added due to mirror cancel: https://www.careerki.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.careerki.com%2F%25e0%25a6%2595%25e0%25a7%258d%25e0%25a6%25af%25e0%25a6%25be%25e0%25a6%259f%25e0%25a6%25be%25e0%25a6%25b0%25e0%25a6%25bf%25e0%25a6%2582-%25e0%25a6%25b8%25e0%25a7%2581%25e0%25a6%25aa%25e0%25a6%25be%25e0%25a6%25b0%25e0%25a6%25ad%25e0%25a6%25be%25e0%25a6%2587%25e0%25a6%259c%25e0%25a6%25be%25e0%25a6%25b0%2F&format=xml
+21:13:20	Warning: 	Moved Permanently for https://www.careerki.com/?p=25795
+21:13:20	Warning: 	File has moved from https://www.careerki.com/?p=25795 to https://www.careerki.com/%e0%a6%85%e0%a7%8d%e0%a6%af%e0%a6%be%e0%a6%a8%e0%a6%bf%e0%a6%ae%e0%a7%87%e0%a6%9f%e0%a6%b0/
+21:13:20	Warning: 	File not added due to mirror cancel: https://www.careerki.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.careerki.com%2F%25e0%25a6%25b8%25e0%25a6%25be%25e0%25a6%2587%25e0%25a6%25ac%25e0%25a6%25be%25e0%25a6%25b0-%25e0%25a6%25b8%25e0%25a6%25bf%25e0%25a6%2595%25e0%25a6%25bf%25e0%25a6%2589%25e0%25a6%25b0%25e0%25a6%25bf%25e0%25a6%259f%25e0%25a6%25bf-%25e0%25a6%2585%25e0%25a7%258d%25e0%25a6%25af%25e0%25a6%25be%25e0%25a6%25a8%25e0%25a6%25be%25e0%25a6%25b2%25e0%25a6%25bf%25e0%25a6%25b8%25e0%25a7%258d%25e0%25a6%259f%2F
+21:13:20	Warning: 	File not added due to mirror cancel: https://www.careerki.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.careerki.com%2F%25e0%25a6%25b8%25e0%25a6%25be%25e0%25a6%2587%25e0%25a6%25ac%25e0%25a6%25be%25e0%25a6%25b0-%25e0%25a6%25b8%25e0%25a6%25bf%25e0%25a6%2595%25e0%25a6%25bf%25e0%25a6%2589%25e0%25a6%25b0%25e0%25a6%25bf%25e0%25a6%259f%25e0%25a6%25bf-%25e0%25a6%2585%25e0%25a7%258d%25e0%25a6%25af%25e0%25a6%25be%25e0%25a6%25a8%25e0%25a6%25be%25e0%25a6%25b2%25e0%25a6%25bf%25e0%25a6%25b8%25e0%25a7%258d%25e0%25a6%259f%2F&format=xml
+21:13:20	Warning: 	Moved Permanently for https://www.careerki.com/?p=9072
+21:13:20	Warning: 	File has moved from https://www.careerki.com/?p=9072 to https://www.careerki.com/%e0%a6%ae%e0%a6%be%e0%a6%87%e0%a6%a8%e0%a6%bf%e0%a6%82-%e0%a6%87%e0%a6%9e%e0%a7%8d%e0%a6%9c%e0%a6%bf%e0%a6%a8%e0%a6%bf%e0%a7%9f%e0%a6%be%e0%a6%b0/
+21:13:20	Warning: 	File not added due to mirror cancel: https://www.careerki.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.careerki.com%2F%25e0%25a6%25aa%25e0%25a6%25be%25e0%25a6%25ac%25e0%25a6%25b2%25e0%25a6%25bf%25e0%25a6%2595-%25e0%25a6%25b0%25e0%25a6%25bf%25e0%25a6%25b2%25e0%25a7%2587%25e0%25a6%25b6%25e0%25a6%25a8%25e0%25a6%25b8-%25e0%25a6%2585%25e0%25a6%25ab%25e0%25a6%25bf%25e0%25a6%25b8%25e0%25a6%25be%25e0%25a6%25b0%2F
+21:13:20	Warning: 	File not added due to mirror cancel: https://www.careerki.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.careerki.com%2F%25e0%25a6%25aa%25e0%25a6%25be%25e0%25a6%25ac%25e0%25a6%25b2%25e0%25a6%25bf%25e0%25a6%2595-%25e0%25a6%25b0%25e0%25a6%25bf%25e0%25a6%25b2%25e0%25a7%2587%25e0%25a6%25b6%25e0%25a6%25a8%25e0%25a6%25b8-%25e0%25a6%2585%25e0%25a6%25ab%25e0%25a6%25bf%25e0%25a6%25b8%25e0%25a6%25be%25e0%25a6%25b0%2F&format=xml
+21:13:20	Warning: 	File not added due to mirror cancel: https://www.careerki.com/wp-content/uploads/2018/05/public-relations-officer-profile-800x300.png
+21:13:20	Warning: 	Moved Permanently for https://www.careerki.com/?p=9090
+21:13:20	Warning: 	File has moved from https://www.careerki.com/?p=9090 to https://www.careerki.com/%e0%a6%b2%e0%a6%9c%e0%a6%bf%e0%a6%b8%e0%a7%8d%e0%a6%9f%e0%a6%bf%e0%a6%95%e0%a6%b8-%e0%a6%85%e0%a6%ab%e0%a6%bf%e0%a6%b8%e0%a6%be%e0%a6%b0/
+21:13:20	Warning: 	Moved Permanently for https://www.careerki.com/?p=9085
+21:13:20	Warning: 	File has moved from https://www.careerki.com/?p=9085 to https://www.careerki.com/%e0%a6%ae%e0%a7%8d%e0%a6%af%e0%a6%be%e0%a6%a8%e0%a7%87%e0%a6%9c%e0%a6%ae%e0%a7%87%e0%a6%a8%e0%a7%8d%e0%a6%9f-%e0%a6%95%e0%a6%a8%e0%a6%b8%e0%a6%be%e0%a6%b2%e0%a6%9f%e0%a7%8d%e0%a6%af%e0%a6%be%e0%a6%a8%e0%a7%8d%e0%a6%9f/
+21:13:20	Warning: 	Moved Permanently for https://www.careerki.com/?p=8981
+21:13:20	Warning: 	File has moved from https://www.careerki.com/?p=8981 to https://www.careerki.com/%e0%a6%b8%e0%a7%8d%e0%a6%9f%e0%a7%8b%e0%a6%b0-%e0%a6%95%e0%a6%bf%e0%a6%aa%e0%a6%be%e0%a6%b0/
+21:13:20	Warning: 	Moved Permanently for https://www.careerki.com/?p=9076
+21:13:20	Warning: 	File has moved from https://www.careerki.com/?p=9076 to https://www.careerki.com/%e0%a6%ae%e0%a6%be%e0%a6%87%e0%a6%95%e0%a7%8d%e0%a6%b0%e0%a7%8b%e0%a6%ac%e0%a6%be%e0%a7%9f%e0%a7%8b%e0%a6%b2%e0%a6%9c%e0%a6%bf%e0%a6%b8%e0%a7%8d%e0%a6%9f/
+21:13:20	Warning: 	File not added due to mirror cancel: https://www.careerki.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.careerki.com%2F%25e0%25a6%259a%25e0%25a6%25bf%25e0%25a6%25ab-%25e0%25a6%25ac%25e0%25a7%258d%25e0%25a6%25b0%25e0%25a7%258d%25e0%25a6%25af%25e0%25a6%25be%25e0%25a6%25a8%25e0%25a7%258d%25e0%25a6%25a1%25e0%25a6%25bf%25e0%25a6%2582-%25e0%25a6%2585%25e0%25a6%25ab%25e0%25a6%25bf%25e0%25a6%25b8%25e0%25a6%25be%25e0%25a6%25b0%2F
+21:13:20	Warning: 	File not added due to mirror cancel: https://www.careerki.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.careerki.com%2F%25e0%25a6%259a%25e0%25a6%25bf%25e0%25a6%25ab-%25e0%25a6%25ac%25e0%25a7%258d%25e0%25a6%25b0%25e0%25a7%258d%25e0%25a6%25af%25e0%25a6%25be%25e0%25a6%25a8%25e0%25a7%258d%25e0%25a6%25a1%25e0%25a6%25bf%25e0%25a6%2582-%25e0%25a6%2585%25e0%25a6%25ab%25e0%25a6%25bf%25e0%25a6%25b8%25e0%25a6%25be%25e0%25a6%25b0%2F&format=xml
+21:13:20	Warning: 	File not added due to mirror cancel: https://www.careerki.com/wp-content/uploads/2018/07/meteorologist-profile-75x75.png
+21:13:20	Warning: 	File not added due to mirror cancel: https://www.careerki.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.careerki.com%2F%25e0%25a6%25a1%25e0%25a6%25be%25e0%25a6%25b0%25e0%25a7%258d%25e0%25a6%25ae%25e0%25a6%25be%25e0%25a6%259f%25e0%25a7%258b%25e0%25a6%25b2%25e0%25a6%259c%25e0%25a6%25bf%25e0%25a6%25b8%25e0%25a7%258d%25e0%25a6%259f%2F
+21:13:20	Warning: 	File not added due to mirror cancel: https://www.careerki.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.careerki.com%2F%25e0%25a6%25a1%25e0%25a6%25be%25e0%25a6%25b0%25e0%25a7%258d%25e0%25a6%25ae%25e0%25a6%25be%25e0%25a6%259f%25e0%25a7%258b%25e0%25a6%25b2%25e0%25a6%259c%25e0%25a6%25bf%25e0%25a6%25b8%25e0%25a7%258d%25e0%25a6%259f%2F&format=xml
+21:13:20	Warning: 	File not added due to mirror cancel: https://www.careerki.com/wp-content/uploads/2018/08/dental-assistant-profile-75x75.png
+21:13:20	Warning: 	Moved Permanently for https://www.careerki.com/?p=8962
+21:13:20	Warning: 	File has moved from https://www.careerki.com/?p=8962 to https://www.careerki.com/%e0%a6%a8%e0%a6%97%e0%a6%b0-%e0%a6%aa%e0%a6%b0%e0%a6%bf%e0%a6%95%e0%a6%b2%e0%a7%8d%e0%a6%aa%e0%a6%a8%e0%a6%be%e0%a6%ac%e0%a6%bf%e0%a6%a6/
+21:13:20	Warning: 	Moved Permanently for https://www.careerki.com/?p=8960
+21:13:20	Warning: 	File has moved from https://www.careerki.com/?p=8960 to https://www.careerki.com/%e0%a6%ac%e0%a6%bf%e0%a6%b6%e0%a7%8d%e0%a6%ac%e0%a6%ac%e0%a6%bf%e0%a6%a6%e0%a7%8d%e0%a6%af%e0%a6%be%e0%a6%b2%e0%a7%9f-%e0%a6%b6%e0%a6%bf%e0%a6%95%e0%a7%8d%e0%a6%b7%e0%a6%95/
+21:13:20	Warning: 	Moved Permanently for https://www.careerki.com/?p=8956
+21:13:20	Warning: 	File has moved from https://www.careerki.com/?p=8956 to https://www.careerki.com/%e0%a6%87%e0%a6%89%e0%a6%b0%e0%a7%8b%e0%a6%b2%e0%a6%9c%e0%a6%bf%e0%a6%b8%e0%a7%8d%e0%a6%9f/
+21:13:20	Warning: 	File not added due to mirror cancel: https://www.careerki.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.careerki.com%2F%25e0%25a6%2595%25e0%25a7%2587%25e0%25a7%259f%25e0%25a6%25be%25e0%25a6%25b0%25e0%25a6%259f%25e0%25a7%2587%25e0%25a6%2595%25e0%25a6%25be%25e0%25a6%25b0%2F
+21:13:20	Warning: 	File not added due to mirror cancel: https://www.careerki.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.careerki.com%2F%25e0%25a6%2595%25e0%25a7%2587%25e0%25a7%259f%25e0%25a6%25be%25e0%25a6%25b0%25e0%25a6%259f%25e0%25a7%2587%25e0%25a6%2595%25e0%25a6%25be%25e0%25a6%25b0%2F&format=xml
+21:13:20	Warning: 	Moved Permanently for https://www.careerki.com/?p=8946
+21:13:20	Warning: 	File has moved from https://www.careerki.com/?p=8946 to https://www.careerki.com/%e0%a6%ad%e0%a7%87%e0%a6%9f%e0%a7%87%e0%a6%b0%e0%a6%bf%e0%a6%a8%e0%a6%be%e0%a6%b0%e0%a6%bf-%e0%a6%a1%e0%a6%be%e0%a6%95%e0%a7%8d%e0%a6%a4%e0%a6%be%e0%a6%b0/
+21:13:20	Warning: 	File not added due to mirror cancel: https://www.careerki.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.careerki.com%2F%25e0%25a6%25a1%25e0%25a6%25be%25e0%25a6%2587%25e0%25a6%2582-%25e0%25a6%259f%25e0%25a7%2587%25e0%25a6%2595%25e0%25a6%25a8%25e0%25a6%25bf%25e0%25a6%25b6%25e0%25a6%25bf%25e0%25a7%259f%25e0%25a6%25be%25e0%25a6%25a8%2F
+21:13:20	Warning: 	File not added due to mirror cancel: https://www.careerki.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.careerki.com%2F%25e0%25a6%25a1%25e0%25a6%25be%25e0%25a6%2587%25e0%25a6%2582-%25e0%25a6%259f%25e0%25a7%2587%25e0%25a6%2595%25e0%25a6%25a8%25e0%25a6%25bf%25e0%25a6%25b6%25e0%25a6%25bf%25e0%25a7%259f%25e0%25a6%25be%25e0%25a6%25a8%2F&format=xml
+21:13:20	Warning: 	File not added due to mirror cancel: https://www.careerki.com/wp-content/uploads/2018/09/dyeing-technician-profile-800x300.png
+21:13:20	Warning: 	File not added due to mirror cancel: https://www.careerki.com/wp-content/uploads/2018/05/leather-engineer-profile-75x75.png
+21:13:20	Warning: 	Moved Permanently for https://www.careerki.com/?p=8935
+21:13:20	Warning: 	File has moved from https://www.careerki.com/?p=8935 to https://www.careerki.com/%e0%a6%93%e0%a7%9f%e0%a6%be%e0%a6%9f%e0%a6%be%e0%a6%b0-%e0%a6%b0%e0%a6%bf%e0%a6%b8%e0%a7%8b%e0%a6%b0%e0%a7%8d%e0%a6%b8-%e0%a6%87%e0%a6%9e%e0%a7%8d%e0%a6%9c%e0%a6%bf%e0%a6%a8%e0%a6%bf%e0%a7%9f%e0%a6%be%e0%a6%b0/
+21:13:20	Warning: 	Moved Permanently for https://www.careerki.com/?p=8938
+21:13:20	Warning: 	File has moved from https://www.careerki.com/?p=8938 to https://www.careerki.com/%e0%a6%93%e0%a7%9f%e0%a7%87%e0%a6%9f%e0%a6%be%e0%a6%b0/
+21:13:20	Warning: 	Moved Permanently for https://www.careerki.com/?p=8933
+21:13:20	Warning: 	File has moved from https://www.careerki.com/?p=8933 to https://www.careerki.com/%e0%a6%ae%e0%a6%bf%e0%a6%a1%e0%a6%93%e0%a7%9f%e0%a6%be%e0%a6%87%e0%a6%ab/
+21:13:20	Warning: 	File not added due to mirror cancel: https://www.careerki.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.careerki.com%2F%25e0%25a6%258f%25e0%25a6%25a8%25e0%25a7%258d%25e0%25a6%25a1%25e0%25a7%258b%25e0%25a6%2595%25e0%25a7%258d%25e0%25a6%25b0%25e0%25a6%25be%25e0%25a6%2587%25e0%25a6%25a8%25e0%25a7%258b%25e0%25a6%25b2%25e0%25a6%259c%25e0%25a6%25bf%25e0%25a6%25b8%25e0%25a7%258d%25e0%25a6%259f%2F
+21:13:20	Warning: 	File not added due to mirror cancel: https://www.careerki.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.careerki.com%2F%25e0%25a6%258f%25e0%25a6%25a8%25e0%25a7%258d%25e0%25a6%25a1%25e0%25a7%258b%25e0%25a6%2595%25e0%25a7%258d%25e0%25a6%25b0%25e0%25a6%25be%25e0%25a6%2587%25e0%25a6%25a8%25e0%25a7%258b%25e0%25a6%25b2%25e0%25a6%259c%25e0%25a6%25bf%25e0%25a6%25b8%25e0%25a7%258d%25e0%25a6%259f%2F&format=xml
+21:13:20	Warning: 	Moved Permanently for https://www.careerki.com/?p=9044
+21:13:20	Warning: 	File has moved from https://www.careerki.com/?p=9044 to https://www.careerki.com/%e0%a6%aa%e0%a7%8d%e0%a6%b0%e0%a6%be%e0%a6%a5%e0%a6%ae%e0%a6%bf%e0%a6%95-%e0%a6%b6%e0%a6%bf%e0%a6%95%e0%a7%8d%e0%a6%b7%e0%a6%95/
+21:13:20	Warning: 	Moved Permanently for https://www.careerki.com/?p=26072
+21:13:20	Warning: 	File has moved from https://www.careerki.com/?p=26072 to https://www.careerki.com/%e0%a6%ab%e0%a6%bf%e0%a6%b2%e0%a7%8d%e0%a6%a1-%e0%a6%ab%e0%a7%8d%e0%a6%af%e0%a6%be%e0%a6%b8%e0%a6%bf%e0%a6%b2%e0%a6%bf%e0%a6%9f%e0%a7%87%e0%a6%9f%e0%a6%b0/
+21:13:20	Warning: 	File not added due to mirror cancel: https://www.careerki.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.careerki.com%2F%25e0%25a6%259f%25e0%25a7%258d%25e0%25a6%25b0%25e0%25a6%25be%25e0%25a6%25a8%25e0%25a7%258d%25e0%25a6%25b8%25e0%25a6%25aa%25e0%25a7%258b%25e0%25a6%25b0%25e0%25a7%258d%25e0%25a6%259f-%25e0%25a6%25ae%25e0%25a7%258d%25e0%25a6%25af%25e0%25a6%25be%25e0%25a6%25a8%25e0%25a7%2587%25e0%25a6%259c%25e0%25a6%25be%25e0%25a6%25b0%2F
+21:13:20	Warning: 	File not added due to mirror cancel: https://www.careerki.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.careerki.com%2F%25e0%25a6%259f%25e0%25a7%258d%25e0%25a6%25b0%25e0%25a6%25be%25e0%25a6%25a8%25e0%25a7%258d%25e0%25a6%25b8%25e0%25a6%25aa%25e0%25a7%258b%25e0%25a6%25b0%25e0%25a7%258d%25e0%25a6%259f-%25e0%25a6%25ae%25e0%25a7%258d%25e0%25a6%25af%25e0%25a6%25be%25e0%25a6%25a8%25e0%25a7%2587%25e0%25a6%259c%25e0%25a6%25be%25e0%25a6%25b0%2F&format=xml
+21:13:20	Warning: 	Moved Permanently for https://www.careerki.com/?p=26301
+21:13:20	Warning: 	File has moved from https://www.careerki.com/?p=26301 to https://www.careerki.com/%e0%a6%aa%e0%a6%be%e0%a6%ac%e0%a6%b2%e0%a6%bf%e0%a6%95-%e0%a6%b9%e0%a7%87%e0%a6%b2%e0%a6%a5-%e0%a6%85%e0%a6%ab%e0%a6%bf%e0%a6%b8%e0%a6%be%e0%a6%b0/
+21:13:20	Warning: 	Moved Permanently for https://www.careerki.com/?p=26077
+21:13:20	Warning: 	File has moved from https://www.careerki.com/?p=26077 to https://www.careerki.com/%e0%a6%8f%e0%a6%a8%e0%a6%ad%e0%a6%be%e0%a7%9f%e0%a6%b0%e0%a6%a8%e0%a6%ae%e0%a7%87%e0%a6%a8%e0%a7%8d%e0%a6%9f%e0%a6%be%e0%a6%b2-%e0%a6%87%e0%a6%9e%e0%a7%8d%e0%a6%9c%e0%a6%bf%e0%a6%a8%e0%a6%bf%e0%a7%9f%e0%a6%be%e0%a6%b0/
+21:13:20	Warning: 	File not added due to mirror cancel: https://www.careerki.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.careerki.com%2F%25e0%25a6%259a%25e0%25a6%25bf%25e0%25a6%25ab-%25e0%25a6%258f%25e0%25a6%2595%25e0%25a7%258d%25e0%25a6%25b8%25e0%25a6%25bf%25e0%25a6%2595%25e0%25a6%25bf%25e0%25a6%2589%25e0%25a6%259f%25e0%25a6%25bf%25e0%25a6%25ad-%25e0%25a6%2585%25e0%25a6%25ab%25e0%25a6%25bf%25e0%25a6%25b8%25e0%25a6%25be%25e0%25a6%25b0%2F
+21:13:20	Warning: 	File not added due to mirror cancel: https://www.careerki.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.careerki.com%2F%25e0%25a6%259a%25e0%25a6%25bf%25e0%25a6%25ab-%25e0%25a6%258f%25e0%25a6%2595%25e0%25a7%258d%25e0%25a6%25b8%25e0%25a6%25bf%25e0%25a6%2595%25e0%25a6%25bf%25e0%25a6%2589%25e0%25a6%259f%25e0%25a6%25bf%25e0%25a6%25ad-%25e0%25a6%2585%25e0%25a6%25ab%25e0%25a6%25bf%25e0%25a6%25b8%25e0%25a6%25be%25e0%25a6%25b0%2F&format=xml
+21:13:20	Warning: 	Moved Permanently for https://www.careerki.com/?p=26096
+21:13:20	Warning: 	File has moved from https://www.careerki.com/?p=26096 to https://www.careerki.com/%e0%a6%ac%e0%a6%be%e0%a7%9f%e0%a7%8b%e0%a6%9f%e0%a7%87%e0%a6%95%e0%a6%a8%e0%a7%8b%e0%a6%b2%e0%a6%9c%e0%a6%bf%e0%a6%b8%e0%a7%8d%e0%a6%9f/
+21:13:20	Warning: 	File not added due to mirror cancel: https://www.careerki.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.careerki.com%2F%25e0%25a6%25b2%25e0%25a7%2587%25e0%25a6%25ac%25e0%25a6%25be%25e0%25a6%25b0-%25e0%25a6%2587%25e0%25a6%25a8%25e0%25a7%258d%25e0%25a6%25b8%25e0%25a6%25aa%25e0%25a7%2587%25e0%25a6%2595%25e0%25a7%258d%25e0%25a6%259f%25e0%25a6%25b0%2F
+21:13:20	Warning: 	File not added due to mirror cancel: https://www.careerki.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.careerki.com%2F%25e0%25a6%25b2%25e0%25a7%2587%25e0%25a6%25ac%25e0%25a6%25be%25e0%25a6%25b0-%25e0%25a6%2587%25e0%25a6%25a8%25e0%25a7%258d%25e0%25a6%25b8%25e0%25a6%25aa%25e0%25a7%2587%25e0%25a6%2595%25e0%25a7%258d%25e0%25a6%259f%25e0%25a6%25b0%2F&format=xml
+21:13:20	Warning: 	Moved Permanently for https://www.careerki.com/?p=9041
+21:13:20	Warning: 	File has moved from https://www.careerki.com/?p=9041 to https://www.careerki.com/%e0%a6%aa%e0%a7%8d%e0%a6%b0%e0%a7%8b%e0%a6%97%e0%a7%8d%e0%a6%b0%e0%a6%be%e0%a6%ae-%e0%a6%85%e0%a6%ab%e0%a6%bf%e0%a6%b8%e0%a6%be%e0%a6%b0/
+21:13:20	Warning: 	File not added due to mirror cancel: https://www.careerki.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.careerki.com%2F%25e0%25a6%2595%25e0%25a7%258d%25e0%25a6%25af%25e0%25a6%25be%25e0%25a6%25aa%25e0%25a6%25bf%25e0%25a6%259f%25e0%25a6%25be%25e0%25a6%25b2-%25e0%25a6%25ae%25e0%25a6%25be%25e0%25a6%25b0%25e0%25a7%258d%25e0%25a6%2595%25e0%25a7%2587%25e0%25a6%259f-%25e0%25a6%2585%25e0%25a7%258d%25e0%25a6%25af%25e0%25a6%25be%25e0%25a6%25a8%25e0%25a6%25be%25e0%25a6%25b2%25e0%25a6%25bf%25e0%25a6%25b8%25e0%25a7%258d%25e0%25a6%259f%2F
+21:13:20	Warning: 	File not added due to mirror cancel: https://www.careerki.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.careerki.com%2F%25e0%25a6%2595%25e0%25a7%258d%25e0%25a6%25af%25e0%25a6%25be%25e0%25a6%25aa%25e0%25a6%25bf%25e0%25a6%259f%25e0%25a6%25be%25e0%25a6%25b2-%25e0%25a6%25ae%25e0%25a6%25be%25e0%25a6%25b0%25e0%25a7%258d%25e0%25a6%2595%25e0%25a7%2587%25e0%25a6%259f-%25e0%25a6%2585%25e0%25a7%258d%25e0%25a6%25af%25e0%25a6%25be%25e0%25a6%25a8%25e0%25a6%25be%25e0%25a6%25b2%25e0%25a6%25bf%25e0%25a6%25b8%25e0%25a7%258d%25e0%25a6%259f%2F&format=xml
+21:13:20	Error: 	Exit requested by shell or user
+21:13:20	Error: 	"" (-1) at link https://www.careerki.com/?p=9038 (from https://www.careerki.com/সাইকিয়াট্রিস্ট/)
+21:13:20	Error: 	Exit requested by shell or user
+
+HTTrack Website Copier/3.49-2 mirror complete in 12 minutes 7 seconds : 2939 links scanned, 2330 files written (55776572 bytes overall), 1887 files updated [45047372 bytes received at 61963 bytes/sec], 2670882 bytes transferred using HTTP compression in 29 files, ratio 19%, 5.1 requests per connection
+(15 errors, 862 warnings, 0 messages)
+* * MIRROR ABORTED! * *
+The current temporary cache is required for any update operation and only contains data downloaded during the present aborted session.
+The former cache might contain more complete information; if you do not want to lose that information, you have to restore it and delete the current cache.
+This can easily be done here by erasing the hts-cache/new.* files]

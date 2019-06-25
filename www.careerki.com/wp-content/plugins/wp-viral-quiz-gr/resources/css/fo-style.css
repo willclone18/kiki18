@@ -1,0 +1,32 @@
+/**
+ * CSS for JS
+ */
+
+.wpvqgr,
+.wpvqgr-page,
+.wpvqgr-wrapper div.wpvqgr-explanation,
+.wpvqgr-wrapper h3.wpvqgr-thats-right,
+.wpvqgr-wrapper h3.wpvqgr-thats-wrong,
+.wpvqgr-wrapper div.wpvqgr-continue, 
+.wpvqgr-wrapper div.wpvqgr-additional-results, 
+.wpvqgr-wrapper div.wpvqgr-additional-results-template, 
+.wpvqgr-wrapper div.wpvqgr-forcetoshare, 
+.wpvqgr-wrapper div.wpvqgr-askinfo,
+.wpvqgr-wrapper div.wpvqgr-results {
+	display: none;
+}
+
+.wpvqgr {
+	margin:20px 0px;
+}
+
+hr.wpvqgr-clear {
+	visibility: hidden !important;
+	clear:both;
+	margin:0;
+	padding:0;
+}
+
+.gdpr-area label {
+	font-size:.6em;
+}
